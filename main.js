@@ -32,8 +32,7 @@ function populateTable() {
         {"<>": "td", "text": "${SprintPoints}"},
         {"<>": "td", "text": "${PointsPoints}"},
         {"<>": "td", "text": "${PointsPos}"},
-        {"<>": "td", "text": "${TotalPoints}"},
-        {"<>": "td", "text": "${OmniumPoints}"}
+        {"<>": "td", "text": "${TotalPoints}"}
     ]};
 
     let tableHtml = json2html.transform(jsonResults, template);
