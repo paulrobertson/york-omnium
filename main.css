@@ -1,26 +1,34 @@
 @media only screen and (max-width: 640px) {
-    table td:nth-child(2),
-    table th:nth-child(2),
-    table td:nth-child(4),
-    table th:nth-child(4),
-    table td:nth-child(7),
-    table th:nth-child(7),
-    table td:nth-child(8),
-    table th:nth-child(8),
-    table td:nth-child(9),
-    table th:nth-child(9),
-    table td:nth-child(10),
-    table th:nth-child(10),
-    table td:nth-child(11),
-    table th:nth-child(11),
-    table td:nth-child(12),
-    table th:nth-child(12) { display: none; }
-  }
+  table td:nth-child(2),
+  table th:nth-child(2),
+  table td:nth-child(4),
+  table th:nth-child(4),
+  table td:nth-child(7),
+  table th:nth-child(7),
+  table td:nth-child(8),
+  table th:nth-child(8),
+  table td:nth-child(9),
+  table th:nth-child(9),
+  table td:nth-child(10),
+  table th:nth-child(10),
+  table td:nth-child(11),
+  table th:nth-child(11),
+  table td:nth-child(12),
+  table th:nth-child(12) { display: none; }
+}
 
-  .table-condensed {
-    font-size: 90%;
-  }
+.table-condensed {
+  font-size: 90%;
+}
 
-  .table-condensed td, .table-condensed th {
-    padding: 0.25rem 0.25rem
-  }
+.table-condensed td, .table-condensed th {
+  padding: 0.25rem 0.25rem
+}
+
+@media only screen and (min-width: 780px) {
+    main #intro  {
+      background-image: url('images/bike.png');
+      background-position: top 10px right 20px;
+      background-repeat: no-repeat;
+    }
+}
