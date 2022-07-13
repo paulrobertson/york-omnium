@@ -43,10 +43,12 @@ function populateTable() {
 }
 
 function init(dataUrl) {
+    const minutes = 2;
+    const ms = 1000 * 60 * minutes;
+    var time = Math.round(new Date().getTime() / ms) * ms;
     $.ajax({
         type: "GET",
-        url: dataUrl,
-        cache: false,
+        url: dataUrl + "?t=" + time,
         success: function(data) {
             $('#tempTable').html("// <![CDATA[ " + data + " // ]]>");
         },
