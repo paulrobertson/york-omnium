@@ -23,6 +23,6 @@
     font-size: 90%;
   }
 
-  .table-condensed td {
+  .table-condensed td, .table-condensed th {
     padding: 0.25rem 0.25rem
   }
