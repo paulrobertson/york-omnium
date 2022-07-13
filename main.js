@@ -20,7 +20,7 @@ function populateTable() {
 
     let template = 
     {"<>": "tr", "html":[
-        {"<>": "td", "text": "<strong>${Pos}</strong>"},
+        {"<>": "td", "html": "<strong>${Pos}</strong>"},
         {"<>": "td", "text": "${Num}"},
         {"<>": "td", "text": "${Name}"},
         {"<>": "td", "text": "${Club}"},
