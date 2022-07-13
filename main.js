@@ -46,6 +46,7 @@ function init(dataUrl) {
     $.ajax({
         type: "GET",
         url: dataUrl,
+        cache: false,
         success: function(data) {
             $('#tempTable').html("// <![CDATA[ " + data + " // ]]>");
         },
