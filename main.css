@@ -33,7 +33,7 @@
     }
 }
 
-@media only screen and (orientation: landscape)  {
+@media only screen and (orientation: landscape) and (min-width: 640px) {
   #orientationInfo {
     display: none;
   }
