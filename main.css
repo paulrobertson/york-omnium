@@ -1,4 +1,4 @@
-@media only screen and (max-width: 640px) {
+@media only screen and (orientation: portrait) and (max-width: 640px) {
   table td:nth-child(2),
   table th:nth-child(2),
   table td:nth-child(4),
@@ -25,10 +25,27 @@
   padding: 0.25rem 0.25rem
 }
 
-@media only screen and (min-width: 780px) {
+@media only screen and (min-width: 768px) {
     main #intro  {
       background-image: url('images/bike.png');
       background-position: top 10px right 20px;
       background-repeat: no-repeat;
     }
+}
+
+@media only screen and (orientation: landscape)  {
+  #orientationInfo {
+    display: none;
+  }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 640px) {
+  #orientationInfo {
+    display: block;
+    font-size: 90%;
+  }
+}
+
+.navbar div > a > svg {
+  vertical-align: top;
 }
