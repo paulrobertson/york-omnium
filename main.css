@@ -49,3 +49,13 @@
 .navbar div > a > svg {
   vertical-align: top;
 }
+
+@media (max-width: 400px) {
+  body footer img {
+    width: 100%;
+  }
+}
+
+footer img {
+  width: 388px;
+}
