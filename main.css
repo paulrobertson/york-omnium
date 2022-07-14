@@ -59,3 +59,9 @@
 footer img {
   width: 388px;
 }
+
+@media (max-width: 575.98px) {
+  #reloadText {
+    display: none;
+  }
+}

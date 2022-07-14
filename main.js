@@ -1,3 +1,10 @@
+var currentDataUrl = '';
+
+$('#reloadButton').on('click', function(event) {
+    init(currentDataUrl);
+    event.preventDefault();
+});
+
 function populateTable() {
     var headers = ["Pos", "Num", "Name", "Club", "Cat", "BcNumber", "EventsStarted", "TtTime", "TtPoints", "ElimPoints", "ScratchPoints", "SprintPoints", "PointsPoints", "PointsPos", "TotalPoints", "OmniumPoints"];
     var jsonResults = [];
@@ -43,9 +50,11 @@ function populateTable() {
 }
 
 function init(dataUrl) {
+    currentDataUrl = dataUrl;
     const minutes = 2;
     const ms = 1000 * 60 * minutes;
     var time = Math.round(new Date().getTime() / ms) * ms;
+    $('#resultsTable').hide();
     $.ajax({
         type: "GET",
         url: dataUrl + "?t=" + time,
