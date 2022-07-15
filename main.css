@@ -60,7 +60,7 @@
 
 @media (max-width: 575.98px) {
   #reloadText {
-    display: none;
+    font-size: 80%;
   }
 }
 
