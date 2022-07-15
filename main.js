@@ -47,7 +47,7 @@ function populateTable() {
 function pageInit(dataUrl) {
     currentDataUrl = dataUrl;
 
-    $('#reloadButton').on('click', function(event) {
+    $('#reloadButton').on('touchstart', function(event) {
         init(currentDataUrl);
         event.preventDefault();
     });
