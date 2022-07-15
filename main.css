@@ -1,4 +1,4 @@
-@media only screen and (orientation: portrait) and (max-width: 640px) {
+@media only screen and (max-width: 640px) {
   table td:nth-child(2),
   table th:nth-child(2),
   table td:nth-child(4),
@@ -17,12 +17,8 @@
   table th:nth-child(12) { display: none; }
 }
 
-.table-condensed {
+#resultsTable {
   font-size: 90%;
-}
-
-.table-condensed td, .table-condensed th {
-  padding: 0.25rem 0.25rem
 }
 
 @media only screen and (min-width: 768px) {
@@ -33,21 +29,19 @@
     }
 }
 
-@media only screen and (orientation: landscape) and (min-width: 640px) {
+#orientationInfo {
+  display: block;
+  font-size: 90%;
+}
+
+@media only screen and (min-width: 640px) {
   #orientationInfo {
     display: none;
   }
 }
 
-@media only screen and (orientation: portrait) and (max-width: 640px) {
-  #orientationInfo {
-    display: block;
-    font-size: 90%;
-  }
-}
-
 #orientationInfo {
-  padding: 6px 10px;
+  padding: 7px 10px 6px 10px;
 }
 
 #orientationInfo button {
@@ -56,16 +50,6 @@
 
 .navbar div > a > svg {
   vertical-align: top;
-}
-
-@media (max-width: 400px) {
-  body footer img {
-    width: 100%;
-  }
-}
-
-footer img {
-  width: 388px;
 }
 
 @media (max-width: 575.98px) {

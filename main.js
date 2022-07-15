@@ -22,7 +22,7 @@ function populateTable() {
 
     let template = 
     {"<>": "tr", "html":[
-        {"<>": "td", "html": "<strong>${Pos}</strong>"},
+        {"<>": "th", "scope": "row", "text": "${Pos}"},
         {"<>": "td", "text": "${Num}"},
         {"<>": "td", "text": "${Name}"},
         {"<>": "td", "text": "${Club}"},
@@ -45,6 +45,8 @@ function populateTable() {
 }
 
 function pageInit(dataUrl) {
+    currentDataUrl = dataUrl;
+
     $('#reloadButton').on('click', function(event) {
         init(currentDataUrl);
         event.preventDefault();
@@ -52,10 +54,10 @@ function pageInit(dataUrl) {
     
     var rotationAlert = document.getElementById('orientationInfo')
     rotationAlert.addEventListener('closed.bs.alert', function () {
-        localStorage.rotationAlertDismissed = "true";
+        localStorage.rotationAlertDismissed = new Date().getTime();
     });
 
-    if (localStorage.rotationAlertDismissed === "true") {
+    if (localStorage.rotationAlertDismissed && (new Date().getTime() - localStorage.rotationAlertDismissed) < 3600000) {
         $("#orientationInfo").hide();
     }
 
@@ -63,7 +65,6 @@ function pageInit(dataUrl) {
 }
 
 function init(dataUrl) {
-    currentDataUrl = dataUrl;
     const minutes = 2;
     const ms = 1000 * 60 * minutes;
     var time = Math.round(new Date().getTime() / ms) * ms;
