@@ -46,6 +46,14 @@
   }
 }
 
+#orientationInfo {
+  padding: 6px 10px;
+}
+
+#orientationInfo button {
+  top: -10px;
+}
+
 .navbar div > a > svg {
   vertical-align: top;
 }
@@ -64,4 +72,8 @@ footer img {
   #reloadText {
     display: none;
   }
+}
+
+#lastUpdated {
+  font-size: 80%;
 }

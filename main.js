@@ -1,10 +1,5 @@
 var currentDataUrl = '';
 
-$('#reloadButton').on('click', function(event) {
-    init(currentDataUrl);
-    event.preventDefault();
-});
-
 function populateTable() {
     var headers = ["Pos", "Num", "Name", "Club", "Cat", "BcNumber", "EventsStarted", "TtTime", "TtPoints", "ElimPoints", "ScratchPoints", "SprintPoints", "PointsPoints", "PointsPos", "TotalPoints", "OmniumPoints"];
     var jsonResults = [];
@@ -49,17 +44,38 @@ function populateTable() {
     $('#resultsTable').show();
 }
 
+function pageInit(dataUrl) {
+    $('#reloadButton').on('click', function(event) {
+        init(currentDataUrl);
+        event.preventDefault();
+    });
+    
+    var rotationAlert = document.getElementById('orientationInfo')
+    rotationAlert.addEventListener('closed.bs.alert', function () {
+        localStorage.rotationAlertDismissed = "true";
+    });
+
+    if (localStorage.rotationAlertDismissed === "true") {
+        $("#orientationInfo").hide();
+    }
+
+    init(dataUrl);
+}
+
 function init(dataUrl) {
     currentDataUrl = dataUrl;
     const minutes = 2;
     const ms = 1000 * 60 * minutes;
     var time = Math.round(new Date().getTime() / ms) * ms;
     $('#resultsTable').hide();
+    $('#lastUpdated').hide();
     $.ajax({
         type: "GET",
         url: dataUrl + "?t=" + time,
-        success: function(data) {
+        success: function(data, status, xhr) {
             $('#tempTable').html("// <![CDATA[ " + data + " // ]]>");
+            $('#lastUpdatedTime').text(xhr.getResponseHeader("last-modified"));
+            $('#lastUpdated').show();
         },
         complete: function() {
             populateTable();
