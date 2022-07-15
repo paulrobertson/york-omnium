@@ -19,6 +19,12 @@
 
 #resultsTable {
   font-size: 90%;
+  width: inherit !important;
+}
+
+#resultsTable_wrapper div {
+  margin: 0;
+  padding: 0;
 }
 
 @media only screen and (min-width: 768px) {

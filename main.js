@@ -1,4 +1,5 @@
 var currentDataUrl = '';
+var resultsTable;
 
 function populateTable() {
     var headers = ["Pos", "Num", "Name", "Club", "Cat", "BcNumber", "EventsStarted", "TtTime", "TtPoints", "ElimPoints", "ScratchPoints", "SprintPoints", "PointsPoints", "PointsPos", "TotalPoints", "OmniumPoints"];
@@ -40,6 +41,16 @@ function populateTable() {
     let tableHtml = json2html.transform(jsonResults, template);
 
     $('#resultsTable tbody').html(tableHtml);
+
+    if (resultsTable) {
+        resultsTable.destroy();
+    }
+    resultsTable = $('#resultsTable').DataTable({
+        paging: false,
+        ordering: true,
+        info: false,
+        searching: false
+    });
 
     $('#resultsTable').show();
 }
