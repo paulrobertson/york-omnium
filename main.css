@@ -24,7 +24,7 @@
 @media only screen and (min-width: 768px) {
     main #intro  {
       background-image: url('images/bike.png');
-      background-position: top 10px right 20px;
+      background-position: top 50px right 20px;
       background-repeat: no-repeat;
     }
 }
