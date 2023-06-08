@@ -18,18 +18,13 @@
 }
 
 #resultsTable {
-  font-size: 0.875rem;
-  width: 100% !important;
+  font-size: 0.9rem;
+  width: inherit !important;
 }
 
 #resultsTable_wrapper div {
   margin: 0;
   padding: 0;
-}
-
-#resultsTable thead th {
-  position: sticky;
-  top: 0;
 }
 
 @media only screen and (min-width: 768px) {
@@ -42,7 +37,7 @@
 
 #orientationInfo {
   display: block;
-  font-size: 0.875rem;
+  font-size: 0.9rem;
 }
 
 @media only screen and (min-width: 640px) {
@@ -63,17 +58,12 @@
   vertical-align: top;
 }
 
-#navbarCollapse.show {
-  border-top: 2px solid #fff;
+@media (max-width: 575.98px) {
+  #reloadText {
+    font-size: 0.8rem;
+  }
 }
 
-footer,
 #lastUpdated {
-  color: #999;
-  font-size: 0.875rem;
-}
-
-#reloadText {
-  color: #ddd;
-  font-weight: normal;
+  font-size: 0.8rem;
 }

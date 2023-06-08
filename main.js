@@ -1,69 +1,46 @@
 var currentDataUrl = '';
-var resultsTable;
+const refreshDuration = 30;
+var timer = refreshDuration;
+var loading = false;
 
-function populateTable() {
-    var headers = ["Pos", "Num", "Name", "Club", "Cat", "BcNumber", "EventsStarted", "TtTime", "TtPoints", "ElimPoints", "ScratchPoints", "SprintPoints", "PointsPoints", "PointsPos", "TotalPoints", "OmniumPoints"];
-    var jsonResults = [];
-    $("#tempTable table").find('tbody tr').each(function (i, tr) {
-        if (i > 0) {
-            var obj = {};
-            
-            $tds = $(tr).find('td');
-
-            if ($tds[0].innerText.trim().length == 0) {
-                return;
-            }
-
-            $tds.each(function (index, td) {
-                obj[headers[index]] = $tds.eq(index).text();
-            });
-            jsonResults.push(obj);
-        }
-    });
-
-    let template = 
+function renderTable(data) {
+    const template = 
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Pos}"},
         {"<>": "td", "text": "${Num}"},
         {"<>": "td", "text": "${Name}"},
         {"<>": "td", "text": "${Club}"},
-        {"<>": "td", "text": "${EventsStarted}"},
-        {"<>": "td", "text": "${TtTime}"},
-        {"<>": "td", "text": "${TtPoints}"},
-        {"<>": "td", "text": "${ElimPoints}"},
-        {"<>": "td", "text": "${ScratchPoints}"},
-        {"<>": "td", "text": "${SprintPoints}"},
-        {"<>": "td", "text": "${PointsPoints}"},
-        {"<>": "td", "text": "${PointsPos}"},
-        {"<>": "td", "text": "${TotalPoints}"}
+        {"<>": "td", "text": function() { return this['TT Time'] == '' ? 0 : this['Events Started'] } },
+        {"<>": "td", "text": "${TT Time}"},
+        {"<>": "td", "text": "${TT Points}"},
+        {"<>": "td", "text": "${Elim Points}"},
+        {"<>": "td", "text": "${Scratch Points}"},
+        {"<>": "td", "text": "${Spr/Kn Points}"},
+        {"<>": "td", "text": "${Points R Ponts}"},
+        {"<>": "td", "text": "${Points R pos}"},
+        {"<>": "td", "text": "${Total points}"}
     ]};
 
-    let tableHtml = json2html.transform(jsonResults, template);
+    const tableHtml = json2html.transform(data, template);
 
     $('#resultsTable tbody').html(tableHtml);
-
-    if (resultsTable) {
-        resultsTable.destroy();
-    }
-    resultsTable = $('#resultsTable').DataTable({
-        paging: false,
-        ordering: true,
-        info: false,
-        searching: false
-    });
-
     $('#resultsTable').show();
 }
 
 function pageInit(dataUrl) {
     currentDataUrl = dataUrl;
+    const counter = document.querySelector('#counter');
 
-    $('#reloadButton').on('touchstart', function(event) {
-        init(currentDataUrl);
-        event.preventDefault();
-    });
+    refreshIntervalId = setInterval(function () {
+      if (timer > 0) {
+        --timer;
+      } else if (!loading) {
+        init(dataUrl);
+      }
+      counter.textContent = timer;
+    }, 1000);
     
-    var rotationAlert = document.getElementById('orientationInfo')
+    const rotationAlert = document.getElementById('orientationInfo')
     rotationAlert.addEventListener('closed.bs.alert', function () {
         localStorage.rotationAlertDismissed = new Date().getTime();
     });
@@ -76,21 +53,27 @@ function pageInit(dataUrl) {
 }
 
 function init(dataUrl) {
+    if (loading) {
+      return;
+    }
+
+    loading = true;
     const minutes = 2;
     const ms = 1000 * 60 * minutes;
-    var time = Math.round(new Date().getTime() / ms) * ms;
-    $('#resultsTable').hide();
-    $('#lastUpdated').hide();
+    const time = Math.round(new Date().getTime() / ms) * ms;
+
     $.ajax({
         type: "GET",
         url: dataUrl + "?t=" + time,
         success: function(data, status, xhr) {
-            $('#tempTable').html("// <![CDATA[ " + data + " // ]]>");
-            $('#lastUpdatedTime').text(xhr.getResponseHeader("last-modified"));
+            renderTable(data);
+            const lastModified = xhr.getResponseHeader("last-modified") || xhr.getResponseHeader("x-server-response-time");
+            $('#lastUpdatedTime').text(lastModified);
             $('#lastUpdated').show();
         },
         complete: function() {
-            populateTable();
+          timer = refreshDuration;
+          loading = false;
         }
     });
-}
+  }
