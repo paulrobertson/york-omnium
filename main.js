@@ -93,9 +93,9 @@ function init(dataUrl, hasHeats) {
 
     let races = [];
     if (hasHeats) {
-      races = ["tt", "scratch1", "scratch2", "elim1", "elim2", "heats", "sprint", "points", "pointsPrimes"];
+      races = ["TT", "Scratch1", "Scratch2", "Elim1", "Elim2", "Heats", "Sprint", "Points", "PointsPrimes"];
     } else {
-      races = ["tt", "scratch", "elim", "heats", "sprint", "points", "pointsPrimes"];
+      races = ["TT", "Scratch", "Elim", "Heats", "Sprint", "Points", "PointsPrimes"];
     }
     
     for (race of races) {
@@ -122,12 +122,12 @@ function renderIndividualTable(race, data, hasHeats) {
   }
 
   // hide sprint groups until both first 3 races complete
-  if (race == "heats") {
-    if ($("#ttTable").is(":hidden") 
-      || ($("#scratchTable").is(":hidden") && $("#scratch1Table").is(":hidden") && $("#scratch2Table").is(":hidden"))
-      || ($("#elimTable").is(":hidden") && $("#elim1Table").is(":hidden") && $("#elim2Table").is(":hidden"))
-      || (!$("#sprintTable").is(":hidden"))) {
-        $("#heatsTable").hide();
+  if (race == "Heats") {
+    if ($("#TTTable").is(":hidden") 
+      || ($("#ScratchTable").is(":hidden") && $("#Scratch1Table").is(":hidden") && $("#Scratch2Table").is(":hidden"))
+      || ($("#ElimTable").is(":hidden") && $("#Elim1Table").is(":hidden") && $("#Elim2Table").is(":hidden"))
+      || (!$("#SprintTable").is(":hidden"))) {
+        $("#HeatsTable").hide();
         return;
     }
   }
@@ -135,7 +135,7 @@ function renderIndividualTable(race, data, hasHeats) {
   let template = [];
 
   if (hasHeats) {
-    template["tt"] =
+    template["TT"] =
       {"<>": "tr", "html":[
           {"<>": "th", "scope": "row", "text": "${Placing}"},
           {"<>": "td", "text": "${Rider Number}"},
@@ -145,7 +145,7 @@ function renderIndividualTable(race, data, hasHeats) {
           {"<>": "td", "text": "${Bunch Heats}"}
       ]};
   } else {
-    template["tt"] =
+    template["TT"] =
       {"<>": "tr", "html":[
           {"<>": "th", "scope": "row", "text": "${Placing}"},
           {"<>": "td", "text": "${Rider Number}"},
@@ -154,25 +154,25 @@ function renderIndividualTable(race, data, hasHeats) {
           {"<>": "td", "text": "${Points}"}
       ]};
   }
-  template["scratch"] =
+  template["Scratch"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Place}"},
         {"<>": "td", "text": "${Number}"},
         {"<>": "td", "text": "${Name} ${Surname}"},
         {"<>": "td", "text": "${Points}"}
     ]};
-  template["scratch1"] = template["scratch"];
-  template["scratch2"] = template["scratch"];
-  template["elim"] = template["scratch"];
-  template["elim1"] = template["scratch"];
-  template["elim2"] = template["scratch"];
-  template["heats"] =
+  template["Scratch1"] = template["scratch"];
+  template["Scratch2"] = template["scratch"];
+  template["Elim"] = template["scratch"];
+  template["Elim1"] = template["scratch"];
+  template["Elim2"] = template["scratch"];
+  template["Heats"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Heat}"},
         {"<>": "td", "text": "${Number}"},
         {"<>": "td", "text": "${Name} ${Surname}"}
     ]};
-  template["sprint"] =
+  template["Sprint"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Heat}"},
         {"<>": "td", "text": "${Place}"},
@@ -180,7 +180,7 @@ function renderIndividualTable(race, data, hasHeats) {
         {"<>": "td", "text": "${Name} ${Surname}"},
         {"<>": "td", "text": "${Points}"}
     ]};
-  template["points"] =
+  template["Points"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Last Lap Position}"},
         {"<>": "td", "text": "${Number}"},
@@ -189,7 +189,7 @@ function renderIndividualTable(race, data, hasHeats) {
         {"<>": "td", "text": "${Laps Lost}"},
         {"<>": "td", "text": "${Total Points}"}
     ]};
-  template["pointsPrimes"] =
+  template["PointsPrimes"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Sprints}"},
         {"<>": "td", "text": "${Position}"},

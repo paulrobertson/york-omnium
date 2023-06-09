@@ -37,11 +37,11 @@
   font-size: 1.3rem;
   font-weight: bold;
 }
-#heatsTable tr:nth-child(8n+1), #heatsTable tr:nth-child(8n+2), #heatsTable tr:nth-child(8n+3), #heatsTable tr:nth-child(8n+4),
-#pointsPrimesTable tr:nth-child(8n+1), #pointsPrimesTable tr:nth-child(8n+2), #pointsPrimesTable tr:nth-child(8n+3), #pointsPrimesTable tr:nth-child(8n+4) {
+#HeatsTable tr:nth-child(8n+1), #HeatsTable tr:nth-child(8n+2), #HeatsTable tr:nth-child(8n+3), #HeatsTable tr:nth-child(8n+4),
+#PointsPrimesTable tr:nth-child(8n+1), #PointsPrimesTable tr:nth-child(8n+2), #PointsPrimesTable tr:nth-child(8n+3), #PointsPrimesTable tr:nth-child(8n+4) {
   background: #eee;
  }
- #sprintTable tr:nth-child(10n+1), #sprintTable tr:nth-child(10n+2), #sprintTable tr:nth-child(10n+3), #sprintTable tr:nth-child(10n+4) {
+ #SprintTable tr:nth-child(10n+1), #SprintTable tr:nth-child(10n+2), #SprintTable tr:nth-child(10n+3), #SprintTable tr:nth-child(10n+4) {
   background: #eee;
  }
 
