@@ -1,23 +1,23 @@
 @media only screen and (max-width: 640px) {
-  table td:nth-child(2),
-  table th:nth-child(2),
-  table td:nth-child(4),
-  table th:nth-child(4),
-  table td:nth-child(7),
-  table th:nth-child(7),
-  table td:nth-child(8),
-  table th:nth-child(8),
-  table td:nth-child(9),
-  table th:nth-child(9),
-  table td:nth-child(10),
-  table th:nth-child(10),
-  table td:nth-child(11),
-  table th:nth-child(11),
-  table td:nth-child(12),
-  table th:nth-child(12) { display: none; }
+  #resultsTable td:nth-child(2),
+  #resultsTable th:nth-child(2),
+  #resultsTable td:nth-child(4),
+  #resultsTable th:nth-child(4),
+  #resultsTable td:nth-child(7),
+  #resultsTable th:nth-child(7),
+  #resultsTable td:nth-child(8),
+  #resultsTable th:nth-child(8),
+  #resultsTable td:nth-child(9),
+  #resultsTable th:nth-child(9),
+  #resultsTable td:nth-child(10),
+  #resultsTable th:nth-child(10),
+  #resultsTable td:nth-child(11),
+  #resultsTable th:nth-child(11),
+  #resultsTable td:nth-child(12),
+  #resultsTable th:nth-child(12) { display: none; }
 }
 
-#resultsTable {
+#resultsTable, .table {
   font-size: 0.875rem;
   width: 100% !important;
 }
@@ -32,6 +32,19 @@
   top: 0;
 }
 
+.table caption {
+  caption-side: top;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+#heatsTable tr:nth-child(8n+1), #heatsTable tr:nth-child(8n+2), #heatsTable tr:nth-child(8n+3), #heatsTable tr:nth-child(8n+4),
+#pointsPrimesTable tr:nth-child(8n+1), #pointsPrimesTable tr:nth-child(8n+2), #pointsPrimesTable tr:nth-child(8n+3), #pointsPrimesTable tr:nth-child(8n+4) {
+  background: #eee;
+ }
+ #sprintTable tr:nth-child(10n+1), #sprintTable tr:nth-child(10n+2), #sprintTable tr:nth-child(10n+3), #sprintTable tr:nth-child(10n+4) {
+  background: #eee;
+ }
+
 @media only screen and (min-width: 768px) {
     main #intro  {
       background-image: url('images/bike.png');
@@ -40,7 +53,7 @@
     }
 }
 
-#orientationInfo {
+#orientationInfo, #resultsInfo {
   display: block;
   font-size: 0.875rem;
 }
@@ -51,11 +64,11 @@
   }
 }
 
-#orientationInfo {
+#orientationInfo, #resultsInfo {
   padding: 7px 10px 6px 10px;
 }
 
-#orientationInfo button {
+#orientationInfo .btn-close, #resultsInfo .btn-close {
   top: -10px;
 }
 
@@ -76,4 +89,8 @@ footer,
 #reloadText {
   color: #ddd;
   font-weight: normal;
+}
+
+h2 {
+  background-color: #ccc; 
 }
