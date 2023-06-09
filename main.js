@@ -10,11 +10,11 @@ function renderTable(data) {
         {"<>": "td", "text": "${Num}"},
         {"<>": "td", "text": "${Name}"},
         {"<>": "td", "text": "${Club}"},
-        {"<>": "td", "text": function() { return this['TT Time'] == '' ? 0 : this['Events Started'] } },
+        {"<>": "td", "text": function() { return this['Spr/Kn Points'] == 0 ? this['Events Started'] - 1 : this['Events Started'] } },
         {"<>": "td", "text": "${TT Time}"},
         {"<>": "td", "text": "${TT Points}"},
-        {"<>": "td", "text": "${Elim Points}"},
         {"<>": "td", "text": "${Scratch Points}"},
+        {"<>": "td", "text": "${Elim Points}"},
         {"<>": "td", "text": "${Spr/Kn Points}"},
         {"<>": "td", "text": "${Points R Ponts}"},
         {"<>": "td", "text": "${Points R pos}"},
@@ -95,7 +95,7 @@ function init(dataUrl, hasHeats) {
     if (hasHeats) {
       races = ["tt", "scratch1", "scratch2", "elim1", "elim2", "heats", "sprint", "points", "pointsPrimes"];
     } else {
-      races = ["tt", "scratch", "elim", "sprint", "points", "pointsPrimes"];
+      races = ["tt", "scratch", "elim", "heats", "sprint", "points", "pointsPrimes"];
     }
     
     for (race of races) {
@@ -104,7 +104,7 @@ function init(dataUrl, hasHeats) {
         type: "GET",
         url: dataUrl.replace(".json", "-" + raceName + ".json") + "?t=" + time,
         success: function(data, status, xhr) {
-            renderIndividualTable(raceName, data);
+            renderIndividualTable(raceName, data, hasHeats);
         },
         complete: function() {
         }
@@ -112,7 +112,7 @@ function init(dataUrl, hasHeats) {
     }
 }
 
-function renderIndividualTable(race, data) {
+function renderIndividualTable(race, data, hasHeats) {
   const tableSelector = "#" + race + "Table";
 
   if (data.length == 0) {
@@ -125,22 +125,35 @@ function renderIndividualTable(race, data) {
   if (race == "heats") {
     if ($("#ttTable").is(":hidden") 
       || ($("#scratchTable").is(":hidden") && $("#scratch1Table").is(":hidden") && $("#scratch2Table").is(":hidden"))
-      || ($("#elimTable").is(":hidden") && $("#elim1Table").is(":hidden") && $("#elim2Table").is(":hidden"))) {
-      return;
+      || ($("#elimTable").is(":hidden") && $("#elim1Table").is(":hidden") && $("#elim2Table").is(":hidden"))
+      || (!$("#sprintTable").is(":hidden"))) {
+        $("#heatsTable").hide();
+        return;
     }
   }
 
   let template = [];
 
-  template["tt"] =
-    {"<>": "tr", "html":[
-        {"<>": "th", "scope": "row", "text": "${Placing}"},
-        {"<>": "td", "text": "${Rider Number}"},
-        {"<>": "td", "text": "${Name} ${Surname}"},
-        {"<>": "td", "text": "${TT Time}"},
-        {"<>": "td", "text": "${Points}"},
-        {"<>": "td", "text": "${Bunch Heats}"}
-    ]};
+  if (hasHeats) {
+    template["tt"] =
+      {"<>": "tr", "html":[
+          {"<>": "th", "scope": "row", "text": "${Placing}"},
+          {"<>": "td", "text": "${Rider Number}"},
+          {"<>": "td", "text": "${Name} ${Surname}"},
+          {"<>": "td", "text": "${TT Time}"},
+          {"<>": "td", "text": "${Points}"},
+          {"<>": "td", "text": "${Bunch Heats}"}
+      ]};
+  } else {
+    template["tt"] =
+      {"<>": "tr", "html":[
+          {"<>": "th", "scope": "row", "text": "${Placing}"},
+          {"<>": "td", "text": "${Rider Number}"},
+          {"<>": "td", "text": "${Name} ${Surname}"},
+          {"<>": "td", "text": "${TT Time}"},
+          {"<>": "td", "text": "${Points}"}
+      ]};
+  }
   template["scratch"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Place}"},
