@@ -161,11 +161,11 @@ function renderIndividualTable(race, data, hasHeats) {
         {"<>": "td", "text": "${Name} ${Surname}"},
         {"<>": "td", "text": "${Points}"}
     ]};
-  template["Scratch1"] = template["scratch"];
-  template["Scratch2"] = template["scratch"];
-  template["Elim"] = template["scratch"];
-  template["Elim1"] = template["scratch"];
-  template["Elim2"] = template["scratch"];
+  template["Scratch1"] = template["Scratch"];
+  template["Scratch2"] = template["Scratch"];
+  template["Elim"] = template["Scratch"];
+  template["Elim1"] = template["Scratch"];
+  template["Elim2"] = template["Scratch"];
   template["Heats"] =
     {"<>": "tr", "html":[
         {"<>": "th", "scope": "row", "text": "${Heat}"},
