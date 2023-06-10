@@ -2,6 +2,276 @@
 {
 "Pos":"1"
 ,
+"Num":"36"
+,
+"Name":"Alex Box"
+,
+"Club":"NSP Cycling Team"
+,
+"Cat":"U14B"
+,
+"BC Number":"1705343"
+,
+"Events Started":"1"
+,
+"TT Time":""
+,
+"TT Points":""
+,
+"Elim Points":"0"
+,
+"Scratch Points":"0"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":""
+,
+"Omnium Points":"18"
+,
+"blank":"0"
+,
+"Init":"4"
+,
+"TT points":""
+,
+"TT Place":""
+,
+"Total Points 2":""
+,
+"Rank 2 b BEFORE sprints":""
+,
+"Total Points 3":""
+,
+"Rank 3 before POINTS":""
+,
+"Total Points 4":""
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"1"
+,
+"Num":"35"
+,
+"Name":"Jake Bird"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U14B"
+,
+"BC Number":"1246208"
+,
+"Events Started":"1"
+,
+"TT Time":""
+,
+"TT Points":""
+,
+"Elim Points":"0"
+,
+"Scratch Points":"0"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":""
+,
+"Omnium Points":"18"
+,
+"blank":"0"
+,
+"Init":"3"
+,
+"TT points":""
+,
+"TT Place":""
+,
+"Total Points 2":""
+,
+"Rank 2 b BEFORE sprints":""
+,
+"Total Points 3":""
+,
+"Rank 3 before POINTS":""
+,
+"Total Points 4":""
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"1"
+,
+"Num":"34"
+,
+"Name":"Ezra Bateman"
+,
+"Club":"Clifton CC"
+,
+"Cat":"U14B"
+,
+"BC Number":"1073540"
+,
+"Events Started":"1"
+,
+"TT Time":""
+,
+"TT Points":""
+,
+"Elim Points":"0"
+,
+"Scratch Points":"0"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":""
+,
+"Omnium Points":"18"
+,
+"blank":"0"
+,
+"Init":"2"
+,
+"TT points":""
+,
+"TT Place":""
+,
+"Total Points 2":""
+,
+"Rank 2 b BEFORE sprints":""
+,
+"Total Points 3":""
+,
+"Rank 3 before POINTS":""
+,
+"Total Points 4":""
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"1"
+,
+"Num":"33"
+,
+"Name":"Jack Barden-Beatty"
+,
+"Club":"Lee Valley Youth Cycling Club"
+,
+"Cat":"U14B"
+,
+"BC Number":"1255529"
+,
+"Events Started":"1"
+,
+"TT Time":""
+,
+"TT Points":""
+,
+"Elim Points":"0"
+,
+"Scratch Points":"0"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":""
+,
+"Omnium Points":"18"
+,
+"blank":"0"
+,
+"Init":"1"
+,
+"TT points":""
+,
+"TT Place":""
+,
+"Total Points 2":""
+,
+"Rank 2 b BEFORE sprints":""
+,
+"Total Points 3":""
+,
+"Rank 3 before POINTS":""
+,
+"Total Points 4":""
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"1"
+,
+"Num":"37"
+,
+"Name":"Jake Davidson"
+,
+"Club":"Manilla Cycling"
+,
+"Cat":"U14B"
+,
+"BC Number":"1512547"
+,
+"Events Started":"1"
+,
+"TT Time":""
+,
+"TT Points":""
+,
+"Elim Points":"0"
+,
+"Scratch Points":"0"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":""
+,
+"Omnium Points":"18"
+,
+"blank":"0"
+,
+"Init":"5"
+,
+"TT points":""
+,
+"TT Place":""
+,
+"Total Points 2":""
+,
+"Rank 2 b BEFORE sprints":""
+,
+"Total Points 3":""
+,
+"Rank 3 before POINTS":""
+,
+"Total Points 4":""
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"1"
+,
 "Num":"39"
 ,
 "Name":"Thomas Karra-Betts"
@@ -89,60 +359,6 @@
 "blank":"0"
 ,
 "Init":"11"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"37"
-,
-"Name":"Jake Davidson"
-,
-"Club":"Manilla Cycling"
-,
-"Cat":"U14B"
-,
-"BC Number":"1512547"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"5"
 ,
 "TT points":""
 ,
@@ -272,60 +488,6 @@
 {
 "Pos":"1"
 ,
-"Num":"34"
-,
-"Name":"Ezra Bateman"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U14B"
-,
-"BC Number":"1073540"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
 "Num":"46"
 ,
 "Name":"Freddie Winkley"
@@ -380,60 +542,6 @@
 {
 "Pos":"1"
 ,
-"Num":"35"
-,
-"Name":"Jake Bird"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U14B"
-,
-"BC Number":"1246208"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"3"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
 "Num":"42"
 ,
 "Name":"Micah Myles"
@@ -467,114 +575,6 @@
 "blank":"0"
 ,
 "Init":"10"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"36"
-,
-"Name":"Alex Box"
-,
-"Club":"NSP Cycling Team"
-,
-"Cat":"U14B"
-,
-"BC Number":"1705343"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"33"
-,
-"Name":"Jack Barden-Beatty"
-,
-"Club":"Lee Valley Youth Cycling Club"
-,
-"Cat":"U14B"
-,
-"BC Number":"1255529"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"1"
 ,
 "TT points":""
 ,

@@ -2,167 +2,59 @@
 {
 "Pos":"1"
 ,
-"Num":"1"
+"Num":"4"
 ,
-"Name":"Luca Bednarek"
+"Name":"James Canham"
 ,
-"Club":"Kirklees Cycling Academy"
+"Club":"RTD - JsCycleShack"
 ,
 "Cat":"U16B"
 ,
-"BC Number":"1165834"
+"BC Number":"1240324"
 ,
-"Events Started":"1"
+"Events Started":"5"
 ,
-"TT Time":""
+"TT Time":"01:21.06"
 ,
-"TT Points":""
+"TT Points":"34"
 ,
-"Elim Points":"0"
+"Elim Points":"38"
 ,
-"Scratch Points":"0"
+"Scratch Points":"36"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"36"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"25"
 ,
-"Points R pos":""
+"Points R pos":"2"
 ,
-"Total points":""
+"Total points":"169"
 ,
 "Omnium Points":"18"
 ,
 "blank":"0"
 ,
-"Init":"1"
+"Init":"4"
 ,
-"TT points":""
+"TT points":"34"
 ,
-"TT Place":""
+"TT Place":"4"
 ,
-"Total Points 2":""
+"Total Points 2":"108"
 ,
-"Rank 2 b BEFORE sprints":""
+"Rank 2 b BEFORE sprints":"4"
 ,
-"Total Points 3":""
+"Total Points 3":"144"
 ,
-"Rank 3 before POINTS":""
+"Rank 3 before POINTS":"3"
 ,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"2"
-,
-"Name":"Thomas Brennan"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U16B"
-,
-"BC Number":"1248439"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
+"Total Points 4":"169"
 ,
 "Rank 4 Final":"1"
 }
 ,
 {
-"Pos":"1"
-,
-"Num":"3"
-,
-"Name":"Sam Brownsword"
-,
-"Club":"Solihull CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"892896"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"3"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
+"Pos":"2"
 ,
 "Num":"5"
 ,
@@ -174,49 +66,373 @@
 ,
 "BC Number":"1256202"
 ,
-"Events Started":"1"
+"Events Started":"5"
 ,
-"TT Time":""
+"TT Time":"01:22.45"
 ,
-"TT Points":""
+"TT Points":"30"
 ,
-"Elim Points":"0"
+"Elim Points":"40"
 ,
-"Scratch Points":"0"
+"Scratch Points":"38"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"34"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"19"
 ,
-"Points R pos":""
+"Points R pos":"1"
 ,
-"Total points":""
+"Total points":"161"
 ,
-"Omnium Points":"18"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
 "Init":"5"
 ,
-"TT points":""
+"TT points":"30"
 ,
-"TT Place":""
+"TT Place":"6"
 ,
-"Total Points 2":""
+"Total Points 2":"108"
 ,
-"Rank 2 b BEFORE sprints":""
+"Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":""
+"Total Points 3":"142"
 ,
-"Rank 3 before POINTS":""
+"Rank 3 before POINTS":"5"
 ,
-"Total Points 4":""
+"Total Points 4":"161"
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"2"
 }
 ,
 {
-"Pos":"1"
+"Pos":"3"
+,
+"Num":"2"
+,
+"Name":"Thomas Brennan"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U16B"
+,
+"BC Number":"1248439"
+,
+"Events Started":"5"
+,
+"TT Time":"01:20.05"
+,
+"TT Points":"36"
+,
+"Elim Points":"40"
+,
+"Scratch Points":"40"
+,
+"Spr/Kn Points":"40"
+,
+"Points R Ponts":"5"
+,
+"Points R pos":"3"
+,
+"Total points":"161"
+,
+"Omnium Points":"14"
+,
+"blank":"0"
+,
+"Init":"2"
+,
+"TT points":"36"
+,
+"TT Place":"3"
+,
+"Total Points 2":"116"
+,
+"Rank 2 b BEFORE sprints":"1"
+,
+"Total Points 3":"156"
+,
+"Rank 3 before POINTS":"1"
+,
+"Total Points 4":"161"
+,
+"Rank 4 Final":"3"
+}
+,
+{
+"Pos":"4"
+,
+"Num":"3"
+,
+"Name":"Sam Brownsword"
+,
+"Club":"Solihull CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"892896"
+,
+"Events Started":"5"
+,
+"TT Time":"01:20.02"
+,
+"TT Points":"38"
+,
+"Elim Points":"36"
+,
+"Scratch Points":"40"
+,
+"Spr/Kn Points":"38"
+,
+"Points R Ponts":"9"
+,
+"Points R pos":"4"
+,
+"Total points":"161"
+,
+"Omnium Points":"12"
+,
+"blank":"0"
+,
+"Init":"3"
+,
+"TT points":"38"
+,
+"TT Place":"2"
+,
+"Total Points 2":"114"
+,
+"Rank 2 b BEFORE sprints":"2"
+,
+"Total Points 3":"152"
+,
+"Rank 3 before POINTS":"2"
+,
+"Total Points 4":"161"
+,
+"Rank 4 Final":"4"
+}
+,
+{
+"Pos":"5"
+,
+"Num":"1"
+,
+"Name":"Luca Bednarek"
+,
+"Club":"Kirklees Cycling Academy"
+,
+"Cat":"U16B"
+,
+"BC Number":"1165834"
+,
+"Events Started":"5"
+,
+"TT Time":"01:20.01"
+,
+"TT Points":"40"
+,
+"Elim Points":"34"
+,
+"Scratch Points":"34"
+,
+"Spr/Kn Points":"36"
+,
+"Points R Ponts":"3"
+,
+"Points R pos":"5"
+,
+"Total points":"147"
+,
+"Omnium Points":"10"
+,
+"blank":"0"
+,
+"Init":"1"
+,
+"TT points":"40"
+,
+"TT Place":"1"
+,
+"Total Points 2":"108"
+,
+"Rank 2 b BEFORE sprints":"5"
+,
+"Total Points 3":"144"
+,
+"Rank 3 before POINTS":"4"
+,
+"Total Points 4":"147"
+,
+"Rank 4 Final":"5"
+}
+,
+{
+"Pos":"6"
+,
+"Num":"6"
+,
+"Name":"Fraser Cummings"
+,
+"Club":"Matlock CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1230170"
+,
+"Events Started":"5"
+,
+"TT Time":"01:23.44"
+,
+"TT Points":"28"
+,
+"Elim Points":"38"
+,
+"Scratch Points":"36"
+,
+"Spr/Kn Points":"30"
+,
+"Points R Ponts":"11"
+,
+"Points R pos":"6"
+,
+"Total points":"143"
+,
+"Omnium Points":"8"
+,
+"blank":"0"
+,
+"Init":"6"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"102"
+,
+"Rank 2 b BEFORE sprints":"7"
+,
+"Total Points 3":"132"
+,
+"Rank 3 before POINTS":"7"
+,
+"Total Points 4":"143"
+,
+"Rank 4 Final":"6"
+}
+,
+{
+"Pos":"7"
+,
+"Num":"8"
+,
+"Name":"Alasdair Easton"
+,
+"Club":"Edinburgh RC"
+,
+"Cat":"U16B"
+,
+"BC Number":"934843"
+,
+"Events Started":"5"
+,
+"TT Time":"01:24.33"
+,
+"TT Points":"26"
+,
+"Elim Points":"34"
+,
+"Scratch Points":"34"
+,
+"Spr/Kn Points":"34"
+,
+"Points R Ponts":"9"
+,
+"Points R pos":"7"
+,
+"Total points":"137"
+,
+"Omnium Points":"6"
+,
+"blank":"0"
+,
+"Init":"8"
+,
+"TT points":"26"
+,
+"TT Place":"8"
+,
+"Total Points 2":"94"
+,
+"Rank 2 b BEFORE sprints":"8"
+,
+"Total Points 3":"128"
+,
+"Rank 3 before POINTS":"8"
+,
+"Total Points 4":"137"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"8"
+,
+"Num":"7"
+,
+"Name":"Harrison Dainty"
+,
+"Club":"Cystic Fibrosis Race "
+,
+"Cat":"U16B"
+,
+"BC Number":"1688711"
+,
+"Events Started":"5"
+,
+"TT Time":"01:22.33"
+,
+"TT Points":"32"
+,
+"Elim Points":"36"
+,
+"Scratch Points":"38"
+,
+"Spr/Kn Points":"32"
+,
+"Points R Ponts":"-4"
+,
+"Points R pos":"8"
+,
+"Total points":"134"
+,
+"Omnium Points":"5"
+,
+"blank":"0"
+,
+"Init":"7"
+,
+"TT points":"32"
+,
+"TT Place":"5"
+,
+"Total Points 2":"106"
+,
+"Rank 2 b BEFORE sprints":"6"
+,
+"Total Points 3":"138"
+,
+"Rank 3 before POINTS":"6"
+,
+"Total Points 4":"134"
+,
+"Rank 4 Final":"8"
+}
+,
+{
+"Pos":"9"
 ,
 "Num":"15"
 ,
@@ -246,7 +462,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -266,65 +482,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
-,
-"Num":"7"
-,
-"Name":"Harrison Dainty"
-,
-"Club":"Cystic Fibrosis Race "
-,
-"Cat":"U16B"
-,
-"BC Number":"1688711"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"19"
 ,
@@ -354,7 +516,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -374,11 +536,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"28"
 ,
@@ -408,7 +570,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -428,11 +590,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"18"
 ,
@@ -462,7 +624,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -482,11 +644,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"13"
 ,
@@ -516,7 +678,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -536,11 +698,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"16"
 ,
@@ -570,7 +732,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -590,11 +752,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"20"
 ,
@@ -624,7 +786,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -644,65 +806,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
-,
-"Num":"4"
-,
-"Name":"James Canham"
-,
-"Club":"RTD - JsCycleShack"
-,
-"Cat":"U16B"
-,
-"BC Number":"1240324"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"24"
 ,
@@ -732,7 +840,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -752,65 +860,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
-,
-"Num":"8"
-,
-"Name":"Alasdair Easton"
-,
-"Club":"Edinburgh RC"
-,
-"Cat":"U16B"
-,
-"BC Number":"934843"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"8"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"14"
 ,
@@ -840,7 +894,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -860,11 +914,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"12"
 ,
@@ -894,7 +948,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -914,11 +968,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"29"
 ,
@@ -948,7 +1002,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -968,65 +1022,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
-,
-"Num":"6"
-,
-"Name":"Fraser Cummings"
-,
-"Club":"Matlock CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1230170"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"6"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"11"
 ,
@@ -1056,7 +1056,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1076,11 +1076,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"21"
 ,
@@ -1110,7 +1110,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1130,11 +1130,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"23"
 ,
@@ -1164,7 +1164,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1184,11 +1184,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"17"
 ,
@@ -1218,7 +1218,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1238,11 +1238,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"30"
 ,
@@ -1272,7 +1272,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1292,11 +1292,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"27"
 ,
@@ -1326,7 +1326,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1346,11 +1346,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"10"
 ,
@@ -1380,7 +1380,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1400,11 +1400,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"9"
 ,
@@ -1434,7 +1434,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1454,11 +1454,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"22"
 ,
@@ -1488,7 +1488,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1508,11 +1508,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"26"
 ,
@@ -1542,7 +1542,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1562,11 +1562,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"25"
 ,
@@ -1596,7 +1596,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1616,11 +1616,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"31"
 ,
@@ -1650,7 +1650,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1670,11 +1670,11 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ,
 {
-"Pos":"1"
+"Pos":"9"
 ,
 "Num":"32"
 ,
@@ -1704,7 +1704,7 @@
 ,
 "Total points":""
 ,
-"Omnium Points":"18"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -1724,6 +1724,6 @@
 ,
 "Total Points 4":""
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"9"
 }
 ]
