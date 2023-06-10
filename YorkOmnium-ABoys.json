@@ -12,13 +12,13 @@
 ,
 "BC Number":"1240324"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:21.06"
 ,
 "TT Points":"34"
 ,
-"Elim Points":"38"
+"Elim Points":"0"
 ,
 "Scratch Points":"36"
 ,
@@ -28,7 +28,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"108"
+"Total points":"70"
 ,
 "Omnium Points":"12"
 ,
@@ -40,21 +40,21 @@
 ,
 "TT Place":"4"
 ,
-"Total Points 2":"108"
+"Total Points 2":"70"
 ,
 "Rank 2 b BEFORE sprints":"4"
 ,
-"Total Points 3":"108"
+"Total Points 3":"70"
 ,
-"Rank 3 before POINTS":"3"
+"Rank 3 before POINTS":"4"
 ,
-"Total Points 4":"108"
+"Total Points 4":"70"
 ,
-"Rank 4 Final":"3"
+"Rank 4 Final":"4"
 }
 ,
 {
-"Pos":"3"
+"Pos":"6"
 ,
 "Num":"5"
 ,
@@ -66,13 +66,13 @@
 ,
 "BC Number":"1256202"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:22.45"
 ,
 "TT Points":"30"
 ,
-"Elim Points":"40"
+"Elim Points":"0"
 ,
 "Scratch Points":"38"
 ,
@@ -82,9 +82,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"108"
+"Total points":"68"
 ,
-"Omnium Points":"14"
+"Omnium Points":"8"
 ,
 "blank":"0"
 ,
@@ -94,21 +94,21 @@
 ,
 "TT Place":"6"
 ,
-"Total Points 2":"108"
+"Total Points 2":"68"
 ,
-"Rank 2 b BEFORE sprints":"3"
+"Rank 2 b BEFORE sprints":"6"
 ,
-"Total Points 3":"108"
+"Total Points 3":"68"
 ,
-"Rank 3 before POINTS":"3"
+"Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"108"
+"Total Points 4":"68"
 ,
-"Rank 4 Final":"3"
+"Rank 4 Final":"6"
 }
 ,
 {
-"Pos":"1"
+"Pos":"2"
 ,
 "Num":"2"
 ,
@@ -120,13 +120,13 @@
 ,
 "BC Number":"1248439"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:20.05"
 ,
 "TT Points":"36"
 ,
-"Elim Points":"40"
+"Elim Points":"0"
 ,
 "Scratch Points":"40"
 ,
@@ -136,9 +136,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"116"
+"Total points":"76"
 ,
-"Omnium Points":"18"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
@@ -148,21 +148,21 @@
 ,
 "TT Place":"3"
 ,
-"Total Points 2":"116"
+"Total Points 2":"76"
 ,
-"Rank 2 b BEFORE sprints":"1"
+"Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":"116"
+"Total Points 3":"76"
 ,
-"Rank 3 before POINTS":"1"
+"Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"116"
+"Total Points 4":"76"
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"2"
 }
 ,
 {
-"Pos":"2"
+"Pos":"1"
 ,
 "Num":"3"
 ,
@@ -174,13 +174,13 @@
 ,
 "BC Number":"892896"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:20.02"
 ,
 "TT Points":"38"
 ,
-"Elim Points":"36"
+"Elim Points":"0"
 ,
 "Scratch Points":"40"
 ,
@@ -190,9 +190,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"114"
+"Total points":"78"
 ,
-"Omnium Points":"16"
+"Omnium Points":"18"
 ,
 "blank":"0"
 ,
@@ -202,21 +202,21 @@
 ,
 "TT Place":"2"
 ,
-"Total Points 2":"114"
+"Total Points 2":"78"
 ,
-"Rank 2 b BEFORE sprints":"2"
+"Rank 2 b BEFORE sprints":"1"
 ,
-"Total Points 3":"114"
+"Total Points 3":"78"
 ,
-"Rank 3 before POINTS":"2"
+"Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"114"
+"Total Points 4":"78"
 ,
-"Rank 4 Final":"2"
+"Rank 4 Final":"1"
 }
 ,
 {
-"Pos":"5"
+"Pos":"3"
 ,
 "Num":"1"
 ,
@@ -228,13 +228,13 @@
 ,
 "BC Number":"1165834"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:20.01"
 ,
 "TT Points":"40"
 ,
-"Elim Points":"34"
+"Elim Points":"0"
 ,
 "Scratch Points":"34"
 ,
@@ -244,9 +244,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"108"
+"Total points":"74"
 ,
-"Omnium Points":"10"
+"Omnium Points":"14"
 ,
 "blank":"0"
 ,
@@ -256,15 +256,15 @@
 ,
 "TT Place":"1"
 ,
-"Total Points 2":"108"
+"Total Points 2":"74"
 ,
-"Rank 2 b BEFORE sprints":"5"
+"Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"108"
+"Total Points 3":"74"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"108"
+"Total Points 4":"74"
 ,
 "Rank 4 Final":"3"
 }
@@ -282,13 +282,13 @@
 ,
 "BC Number":"1230170"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:23.44"
 ,
 "TT Points":"28"
 ,
-"Elim Points":"38"
+"Elim Points":"0"
 ,
 "Scratch Points":"36"
 ,
@@ -298,7 +298,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"102"
+"Total points":"64"
 ,
 "Omnium Points":"6"
 ,
@@ -310,15 +310,15 @@
 ,
 "TT Place":"7"
 ,
-"Total Points 2":"102"
+"Total Points 2":"64"
 ,
 "Rank 2 b BEFORE sprints":"7"
 ,
-"Total Points 3":"102"
+"Total Points 3":"64"
 ,
 "Rank 3 before POINTS":"7"
 ,
-"Total Points 4":"102"
+"Total Points 4":"64"
 ,
 "Rank 4 Final":"7"
 }
@@ -336,13 +336,13 @@
 ,
 "BC Number":"934843"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:24.33"
 ,
 "TT Points":"26"
 ,
-"Elim Points":"34"
+"Elim Points":"0"
 ,
 "Scratch Points":"34"
 ,
@@ -352,7 +352,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"94"
+"Total points":"60"
 ,
 "Omnium Points":"5"
 ,
@@ -364,21 +364,21 @@
 ,
 "TT Place":"8"
 ,
-"Total Points 2":"94"
+"Total Points 2":"60"
 ,
 "Rank 2 b BEFORE sprints":"8"
 ,
-"Total Points 3":"94"
+"Total Points 3":"60"
 ,
 "Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"94"
+"Total Points 4":"60"
 ,
 "Rank 4 Final":"8"
 }
 ,
 {
-"Pos":"6"
+"Pos":"5"
 ,
 "Num":"7"
 ,
@@ -390,13 +390,13 @@
 ,
 "BC Number":"1688711"
 ,
-"Events Started":"4"
+"Events Started":"3"
 ,
 "TT Time":"01:22.33"
 ,
 "TT Points":"32"
 ,
-"Elim Points":"36"
+"Elim Points":"0"
 ,
 "Scratch Points":"38"
 ,
@@ -406,9 +406,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"106"
+"Total points":"70"
 ,
-"Omnium Points":"8"
+"Omnium Points":"10"
 ,
 "blank":"0"
 ,
@@ -418,16 +418,16 @@
 ,
 "TT Place":"5"
 ,
-"Total Points 2":"106"
+"Total Points 2":"70"
 ,
-"Rank 2 b BEFORE sprints":"6"
+"Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"106"
+"Total Points 3":"70"
 ,
-"Rank 3 before POINTS":"6"
+"Rank 3 before POINTS":"4"
 ,
-"Total Points 4":"106"
+"Total Points 4":"70"
 ,
-"Rank 4 Final":"6"
+"Rank 4 Final":"4"
 }
 ]
