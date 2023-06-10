@@ -2,25 +2,25 @@
 {
 "Pos":"1"
 ,
-"Num":"57"
+"Num":"49"
 ,
-"Name":"Lydia Turan"
+"Name":"Erin Boothman"
 ,
-"Club":"JRC-INTERFLON Race Team"
+"Club":"East Kilbride Road Club"
 ,
 "Cat":"U16G"
 ,
-"BC Number":"1510163"
+"BC Number":"1323868"
 ,
-"Events Started":"1"
+"Events Started":"3"
 ,
-"TT Time":""
+"TT Time":"01:28.60"
 ,
-"TT Points":""
+"TT Points":"40"
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"38"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -28,249 +28,33 @@
 ,
 "Points R pos":""
 ,
-"Total points":""
+"Total points":"78"
 ,
 "Omnium Points":"18"
 ,
 "blank":"0"
 ,
-"Init":"10"
+"Init":"2"
 ,
-"TT points":""
+"TT points":"40"
 ,
-"TT Place":""
+"TT Place":"1"
 ,
-"Total Points 2":""
+"Total Points 2":"78"
 ,
-"Rank 2 b BEFORE sprints":""
+"Rank 2 b BEFORE sprints":"1"
 ,
-"Total Points 3":""
+"Total Points 3":"78"
 ,
-"Rank 3 before POINTS":""
+"Rank 3 before POINTS":"1"
 ,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"51"
-,
-"Name":"Megan Lloyd"
-,
-"Club":"Harry Middleton Cycling Club"
-,
-"Cat":"U16G"
-,
-"BC Number":"1074455"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
+"Total Points 4":"78"
 ,
 "Rank 4 Final":"1"
 }
 ,
 {
-"Pos":"1"
-,
-"Num":"52"
-,
-"Name":"Abigail Miller"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U16G"
-,
-"BC Number":"1195846"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"5"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"56"
-,
-"Name":"Phoebe Taylor"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16G"
-,
-"BC Number":"1397450"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"9"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"55"
-,
-"Name":"Ella Tandy"
-,
-"Club":"Solihull CC"
-,
-"Cat":"U16G"
-,
-"BC Number":"923820"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"8"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
+"Pos":"2"
 ,
 "Num":"48"
 ,
@@ -282,15 +66,15 @@
 ,
 "BC Number":"1504898"
 ,
-"Events Started":"1"
+"Events Started":"3"
 ,
-"TT Time":""
+"TT Time":"01:30.50"
 ,
-"TT Points":""
+"TT Points":"38"
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"40"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -298,297 +82,27 @@
 ,
 "Points R pos":""
 ,
-"Total points":""
+"Total points":"78"
 ,
-"Omnium Points":"18"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
 "Init":"1"
 ,
-"TT points":""
+"TT points":"38"
 ,
-"TT Place":""
+"TT Place":"2"
 ,
-"Total Points 2":""
+"Total Points 2":"78"
 ,
-"Rank 2 b BEFORE sprints":""
+"Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":""
+"Total Points 3":"78"
 ,
-"Rank 3 before POINTS":""
+"Rank 3 before POINTS":"1"
 ,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"49"
-,
-"Name":"Erin Boothman"
-,
-"Club":"East Kilbride Road Club"
-,
-"Cat":"U16G"
-,
-"BC Number":"1323868"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"54"
-,
-"Name":"Evie Smith"
-,
-"Club":"Shibden Cycling Club"
-,
-"Cat":"U16G"
-,
-"BC Number":"1077708"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"50"
-,
-"Name":"Bethany Goodwin"
-,
-"Club":"Louth Cycle Centre RT"
-,
-"Cat":"U16G"
-,
-"BC Number":"1226330"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"3"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"53"
-,
-"Name":"Millie Salmon"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U16G"
-,
-"BC Number":"1218847"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"6"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"1"
-,
-"Num":"58"
-,
-"Name":"Ayesha Vose"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16G"
-,
-"BC Number":"1678489"
-,
-"Events Started":"1"
-,
-"TT Time":""
-,
-"TT Points":""
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":""
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"11"
-,
-"TT points":""
-,
-"TT Place":""
-,
-"Total Points 2":""
-,
-"Rank 2 b BEFORE sprints":""
-,
-"Total Points 3":""
-,
-"Rank 3 before POINTS":""
-,
-"Total Points 4":""
+"Total Points 4":"78"
 ,
 "Rank 4 Final":"1"
 }
