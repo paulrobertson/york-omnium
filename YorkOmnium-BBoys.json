@@ -12,7 +12,7 @@
 ,
 "BC Number":"1422584"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:16.46"
 ,
@@ -24,11 +24,11 @@
 ,
 "Spr/Kn Points":"40"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"18"
 ,
-"Points R pos":""
+"Points R pos":"4"
 ,
-"Total points":"160"
+"Total points":"178"
 ,
 "Omnium Points":"18"
 ,
@@ -48,7 +48,7 @@
 ,
 "Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"160"
+"Total Points 4":"178"
 ,
 "Rank 4 Final":"1"
 }
@@ -66,7 +66,7 @@
 ,
 "BC Number":"1112734"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:21.52"
 ,
@@ -78,11 +78,11 @@
 ,
 "Spr/Kn Points":"38"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"16"
 ,
-"Points R pos":""
+"Points R pos":"3"
 ,
-"Total points":"150"
+"Total points":"166"
 ,
 "Omnium Points":"16"
 ,
@@ -102,7 +102,7 @@
 ,
 "Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"150"
+"Total Points 4":"166"
 ,
 "Rank 4 Final":"2"
 }
@@ -120,7 +120,7 @@
 ,
 "BC Number":"1103553"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:22.45"
 ,
@@ -132,11 +132,11 @@
 ,
 "Spr/Kn Points":"36"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"11"
 ,
-"Points R pos":""
+"Points R pos":"2"
 ,
-"Total points":"142"
+"Total points":"153"
 ,
 "Omnium Points":"14"
 ,
@@ -156,7 +156,7 @@
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"142"
+"Total Points 4":"153"
 ,
 "Rank 4 Final":"3"
 }
@@ -174,7 +174,7 @@
 ,
 "BC Number":"1246208"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:21.34"
 ,
@@ -186,11 +186,11 @@
 ,
 "Spr/Kn Points":"34"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"5"
 ,
-"Points R pos":""
+"Points R pos":"6"
 ,
-"Total points":"138"
+"Total points":"143"
 ,
 "Omnium Points":"12"
 ,
@@ -210,7 +210,7 @@
 ,
 "Rank 3 before POINTS":"4"
 ,
-"Total Points 4":"138"
+"Total Points 4":"143"
 ,
 "Rank 4 Final":"4"
 }
@@ -228,7 +228,7 @@
 ,
 "BC Number":"1050681"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:23.42"
 ,
@@ -240,11 +240,11 @@
 ,
 "Spr/Kn Points":"36"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"3"
 ,
-"Points R pos":""
+"Points R pos":"7"
 ,
-"Total points":"132"
+"Total points":"135"
 ,
 "Omnium Points":"10"
 ,
@@ -264,7 +264,7 @@
 ,
 "Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"132"
+"Total Points 4":"135"
 ,
 "Rank 4 Final":"5"
 }
@@ -282,7 +282,7 @@
 ,
 "BC Number":"1111262"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:22.46"
 ,
@@ -294,11 +294,11 @@
 ,
 "Spr/Kn Points":"32"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"10"
 ,
-"Points R pos":""
+"Points R pos":"1"
 ,
-"Total points":"116"
+"Total points":"126"
 ,
 "Omnium Points":"8"
 ,
@@ -318,13 +318,67 @@
 ,
 "Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"116"
+"Total Points 4":"126"
 ,
 "Rank 4 Final":"6"
 }
 ,
 {
 "Pos":"7"
+,
+"Num":"36"
+,
+"Name":"Alex Box"
+,
+"Club":"NSP Cycling Team"
+,
+"Cat":"U14B"
+,
+"BC Number":"1705343"
+,
+"Events Started":"5"
+,
+"TT Time":"01:26.11"
+,
+"TT Points":"22"
+,
+"Elim Points":"30"
+,
+"Scratch Points":"28"
+,
+"Spr/Kn Points":"30"
+,
+"Points R Ponts":"10"
+,
+"Points R pos":"5"
+,
+"Total points":"120"
+,
+"Omnium Points":"6"
+,
+"blank":"0"
+,
+"Init":"4"
+,
+"TT points":"22"
+,
+"TT Place":"10"
+,
+"Total Points 2":"80"
+,
+"Rank 2 b BEFORE sprints":"7"
+,
+"Total Points 3":"110"
+,
+"Rank 3 before POINTS":"8"
+,
+"Total Points 4":"120"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"8"
 ,
 "Num":"39"
 ,
@@ -336,7 +390,7 @@
 ,
 "BC Number":"1695543"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:24.79"
 ,
@@ -350,11 +404,11 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"9"
 ,
 "Total points":"114"
 ,
-"Omnium Points":"6"
+"Omnium Points":"5"
 ,
 "blank":"0"
 ,
@@ -374,60 +428,6 @@
 ,
 "Total Points 4":"114"
 ,
-"Rank 4 Final":"7"
-}
-,
-{
-"Pos":"8"
-,
-"Num":"36"
-,
-"Name":"Alex Box"
-,
-"Club":"NSP Cycling Team"
-,
-"Cat":"U14B"
-,
-"BC Number":"1705343"
-,
-"Events Started":"4"
-,
-"TT Time":"01:26.11"
-,
-"TT Points":"22"
-,
-"Elim Points":"30"
-,
-"Scratch Points":"28"
-,
-"Spr/Kn Points":"30"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"110"
-,
-"Omnium Points":"5"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":"22"
-,
-"TT Place":"10"
-,
-"Total Points 2":"80"
-,
-"Rank 2 b BEFORE sprints":"7"
-,
-"Total Points 3":"110"
-,
-"Rank 3 before POINTS":"8"
-,
-"Total Points 4":"110"
-,
 "Rank 4 Final":"8"
 }
 ,
@@ -444,7 +444,7 @@
 ,
 "BC Number":"1395806"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:23.65"
 ,
@@ -456,11 +456,11 @@
 ,
 "Spr/Kn Points":"32"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"1"
 ,
-"Points R pos":""
+"Points R pos":"8"
 ,
-"Total points":"106"
+"Total points":"107"
 ,
 "Omnium Points":"4"
 ,
@@ -480,121 +480,13 @@
 ,
 "Rank 3 before POINTS":"9"
 ,
-"Total Points 4":"106"
+"Total Points 4":"107"
 ,
 "Rank 4 Final":"9"
 }
 ,
 {
 "Pos":"10"
-,
-"Num":"47"
-,
-"Name":"Joshua Wood"
-,
-"Club":"Wolverhampton Wheelers"
-,
-"Cat":"U14B"
-,
-"BC Number":"1309626"
-,
-"Events Started":"4"
-,
-"TT Time":"01:32.68"
-,
-"TT Points":"14"
-,
-"Elim Points":"26"
-,
-"Scratch Points":"24"
-,
-"Spr/Kn Points":"28"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"92"
-,
-"Omnium Points":"3"
-,
-"blank":"0"
-,
-"Init":"15"
-,
-"TT points":"14"
-,
-"TT Place":"14"
-,
-"Total Points 2":"64"
-,
-"Rank 2 b BEFORE sprints":"10"
-,
-"Total Points 3":"92"
-,
-"Rank 3 before POINTS":"10"
-,
-"Total Points 4":"92"
-,
-"Rank 4 Final":"10"
-}
-,
-{
-"Pos":"11"
-,
-"Num":"34"
-,
-"Name":"Ezra Bateman"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U14B"
-,
-"BC Number":"1073540"
-,
-"Events Started":"4"
-,
-"TT Time":"01:31.42"
-,
-"TT Points":"16"
-,
-"Elim Points":"18"
-,
-"Scratch Points":"20"
-,
-"Spr/Kn Points":"30"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"84"
-,
-"Omnium Points":"2"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":"16"
-,
-"TT Place":"13"
-,
-"Total Points 2":"54"
-,
-"Rank 2 b BEFORE sprints":"12"
-,
-"Total Points 3":"84"
-,
-"Rank 3 before POINTS":"11"
-,
-"Total Points 4":"84"
-,
-"Rank 4 Final":"11"
-}
-,
-{
-"Pos":"12"
 ,
 "Num":"42"
 ,
@@ -606,7 +498,7 @@
 ,
 "BC Number":"1557371"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:29.42"
 ,
@@ -618,13 +510,13 @@
 ,
 "Spr/Kn Points":"26"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"3"
 ,
-"Points R pos":""
+"Points R pos":"10"
 ,
-"Total points":"82"
+"Total points":"85"
 ,
-"Omnium Points":"1"
+"Omnium Points":"3"
 ,
 "blank":"0"
 ,
@@ -642,7 +534,115 @@
 ,
 "Rank 3 before POINTS":"12"
 ,
+"Total Points 4":"85"
+,
+"Rank 4 Final":"10"
+}
+,
+{
+"Pos":"11"
+,
+"Num":"47"
+,
+"Name":"Joshua Wood"
+,
+"Club":"Wolverhampton Wheelers"
+,
+"Cat":"U14B"
+,
+"BC Number":"1309626"
+,
+"Events Started":"5"
+,
+"TT Time":"01:32.68"
+,
+"TT Points":"14"
+,
+"Elim Points":"26"
+,
+"Scratch Points":"24"
+,
+"Spr/Kn Points":"28"
+,
+"Points R Ponts":"-10"
+,
+"Points R pos":"11"
+,
+"Total points":"82"
+,
+"Omnium Points":"2"
+,
+"blank":"0"
+,
+"Init":"15"
+,
+"TT points":"14"
+,
+"TT Place":"14"
+,
+"Total Points 2":"64"
+,
+"Rank 2 b BEFORE sprints":"10"
+,
+"Total Points 3":"92"
+,
+"Rank 3 before POINTS":"10"
+,
 "Total Points 4":"82"
+,
+"Rank 4 Final":"11"
+}
+,
+{
+"Pos":"12"
+,
+"Num":"34"
+,
+"Name":"Ezra Bateman"
+,
+"Club":"Clifton CC"
+,
+"Cat":"U14B"
+,
+"BC Number":"1073540"
+,
+"Events Started":"5"
+,
+"TT Time":"01:31.42"
+,
+"TT Points":"16"
+,
+"Elim Points":"18"
+,
+"Scratch Points":"20"
+,
+"Spr/Kn Points":"30"
+,
+"Points R Ponts":"-10"
+,
+"Points R pos":"12"
+,
+"Total points":"74"
+,
+"Omnium Points":"1"
+,
+"blank":"0"
+,
+"Init":"2"
+,
+"TT points":"16"
+,
+"TT Place":"13"
+,
+"Total Points 2":"54"
+,
+"Rank 2 b BEFORE sprints":"12"
+,
+"Total Points 3":"84"
+,
+"Rank 3 before POINTS":"11"
+,
+"Total Points 4":"74"
 ,
 "Rank 4 Final":"12"
 }
