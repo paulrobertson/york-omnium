@@ -2,49 +2,49 @@
 {
 "Heat":"A"
 ,
-"Number":"57"
+"Number":"50"
 ,
-"Name":"Lydia"
+"Name":"Bethany"
 ,
-"Surname":"Turan"
+"Surname":"Goodwin"
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"20"
 ,
-"Rank 2":""
+"Rank 2":"11"
 }
 ,
 {
 "Heat":"A"
 ,
-"Number":""
+"Number":"48"
 ,
-"Name":""
+"Name":"Ruby"
 ,
-"Surname":""
+"Surname":"Blanc"
 ,
-"Cat":""
+"Cat":"U16G"
 ,
-"Points":""
+"Points":"28"
 ,
-"Rank 2":""
+"Rank 2":"7"
 }
 ,
 {
 "Heat":"A"
 ,
-"Number":""
+"Number":"49"
 ,
-"Name":""
+"Name":"Erin"
 ,
-"Surname":""
+"Surname":"Boothman"
 ,
-"Cat":""
+"Cat":"U16G"
 ,
-"Points":""
+"Points":"38"
 ,
-"Rank 2":""
+"Rank 2":"2"
 }
 ,
 {
@@ -58,57 +58,25 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"30"
 ,
-"Rank 2":""
+"Rank 2":"6"
 }
 ,
 {
 "Heat":"B"
 ,
-"Number":""
+"Number":"57"
 ,
-"Name":""
+"Name":"Lydia"
 ,
-"Surname":""
+"Surname":"Turan"
 ,
-"Cat":""
+"Cat":"U16G"
 ,
-"Points":""
+"Points":"26"
 ,
-"Rank 2":""
-}
-,
-{
-"Heat":"B"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"B"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
+"Rank 2":"8"
 }
 ,
 {
@@ -122,13 +90,13 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"40"
 ,
-"Rank 2":""
+"Rank 2":"1"
 }
 ,
 {
-"Heat":"C"
+"Heat":"B"
 ,
 "Number":"56"
 ,
@@ -138,13 +106,13 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"36"
 ,
-"Rank 2":""
+"Rank 2":"3"
 }
 ,
 {
-"Heat":"C"
+"Heat":"B"
 ,
 "Number":"55"
 ,
@@ -154,77 +122,13 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"32"
 ,
-"Rank 2":""
+"Rank 2":"5"
 }
 ,
 {
 "Heat":"C"
-,
-"Number":"48"
-,
-"Name":"Ruby"
-,
-"Surname":"Blanc"
-,
-"Cat":"U16G"
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"C"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"D"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"D"
-,
-"Number":"49"
-,
-"Name":"Erin"
-,
-"Surname":"Boothman"
-,
-"Cat":"U16G"
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"D"
 ,
 "Number":"54"
 ,
@@ -234,29 +138,13 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"34"
 ,
-"Rank 2":""
+"Rank 2":"4"
 }
 ,
 {
-"Heat":"D"
-,
-"Number":"50"
-,
-"Name":"Bethany"
-,
-"Surname":"Goodwin"
-,
-"Cat":"U16G"
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"E"
+"Heat":"C"
 ,
 "Number":"58"
 ,
@@ -266,13 +154,13 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"24"
 ,
-"Rank 2":""
+"Rank 2":"9"
 }
 ,
 {
-"Heat":"E"
+"Heat":"C"
 ,
 "Number":"53"
 ,
@@ -282,8 +170,8 @@
 ,
 "Cat":"U16G"
 ,
-"Points":""
+"Points":"22"
 ,
-"Rank 2":""
+"Rank 2":"10"
 }
 ]
