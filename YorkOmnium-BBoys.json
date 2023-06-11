@@ -12,7 +12,7 @@
 ,
 "BC Number":"1422584"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:16.46"
 ,
@@ -20,7 +20,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"40"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -28,7 +28,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"40"
+"Total points":"80"
 ,
 "Omnium Points":"18"
 ,
@@ -40,75 +40,21 @@
 ,
 "TT Place":"1"
 ,
-"Total Points 2":"40"
+"Total Points 2":"80"
 ,
 "Rank 2 b BEFORE sprints":"1"
 ,
-"Total Points 3":"40"
+"Total Points 3":"80"
 ,
 "Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"40"
+"Total Points 4":"80"
 ,
 "Rank 4 Final":"1"
 }
 ,
 {
 "Pos":"2"
-,
-"Num":"35"
-,
-"Name":"Jake Bird"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U14B"
-,
-"BC Number":"1246208"
-,
-"Events Started":"2"
-,
-"TT Time":"01:21.34"
-,
-"TT Points":"38"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"38"
-,
-"Omnium Points":"16"
-,
-"blank":"0"
-,
-"Init":"3"
-,
-"TT points":"38"
-,
-"TT Place":"2"
-,
-"Total Points 2":"38"
-,
-"Rank 2 b BEFORE sprints":"2"
-,
-"Total Points 3":"38"
-,
-"Rank 3 before POINTS":"2"
-,
-"Total Points 4":"38"
-,
-"Rank 4 Final":"2"
-}
-,
-{
-"Pos":"3"
 ,
 "Num":"46"
 ,
@@ -120,7 +66,7 @@
 ,
 "BC Number":"1112734"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:21.52"
 ,
@@ -128,7 +74,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"38"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -136,9 +82,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"36"
+"Total points":"74"
 ,
-"Omnium Points":"14"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
@@ -148,15 +94,69 @@
 ,
 "TT Place":"3"
 ,
-"Total Points 2":"36"
+"Total Points 2":"74"
+,
+"Rank 2 b BEFORE sprints":"2"
+,
+"Total Points 3":"74"
+,
+"Rank 3 before POINTS":"2"
+,
+"Total Points 4":"74"
+,
+"Rank 4 Final":"2"
+}
+,
+{
+"Pos":"3"
+,
+"Num":"35"
+,
+"Name":"Jake Bird"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U14B"
+,
+"BC Number":"1246208"
+,
+"Events Started":"3"
+,
+"TT Time":"01:21.34"
+,
+"TT Points":"38"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"32"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"70"
+,
+"Omnium Points":"14"
+,
+"blank":"0"
+,
+"Init":"3"
+,
+"TT points":"38"
+,
+"TT Place":"2"
+,
+"Total Points 2":"70"
 ,
 "Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"36"
+"Total Points 3":"70"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"36"
+"Total Points 4":"70"
 ,
 "Rank 4 Final":"3"
 }
@@ -174,7 +174,7 @@
 ,
 "BC Number":"1103553"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:22.45"
 ,
@@ -182,7 +182,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"36"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -190,7 +190,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"34"
+"Total points":"70"
 ,
 "Omnium Points":"12"
 ,
@@ -202,75 +202,21 @@
 ,
 "TT Place":"4"
 ,
-"Total Points 2":"34"
+"Total Points 2":"70"
 ,
 "Rank 2 b BEFORE sprints":"4"
 ,
-"Total Points 3":"34"
+"Total Points 3":"70"
 ,
-"Rank 3 before POINTS":"4"
+"Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"34"
+"Total Points 4":"70"
 ,
-"Rank 4 Final":"4"
+"Rank 4 Final":"3"
 }
 ,
 {
 "Pos":"5"
-,
-"Num":"41"
-,
-"Name":"Daniel Middlebrooke"
-,
-"Club":"Otley CC"
-,
-"Cat":"U14B"
-,
-"BC Number":"1111262"
-,
-"Events Started":"2"
-,
-"TT Time":"01:22.46"
-,
-"TT Points":"32"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"32"
-,
-"Omnium Points":"10"
-,
-"blank":"0"
-,
-"Init":"9"
-,
-"TT points":"32"
-,
-"TT Place":"5"
-,
-"Total Points 2":"32"
-,
-"Rank 2 b BEFORE sprints":"5"
-,
-"Total Points 3":"32"
-,
-"Rank 3 before POINTS":"5"
-,
-"Total Points 4":"32"
-,
-"Rank 4 Final":"5"
-}
-,
-{
-"Pos":"6"
 ,
 "Num":"40"
 ,
@@ -282,7 +228,7 @@
 ,
 "BC Number":"1050681"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:23.42"
 ,
@@ -290,7 +236,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"34"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -298,9 +244,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"30"
+"Total points":"64"
 ,
-"Omnium Points":"8"
+"Omnium Points":"10"
 ,
 "blank":"0"
 ,
@@ -310,41 +256,41 @@
 ,
 "TT Place":"6"
 ,
-"Total Points 2":"30"
+"Total Points 2":"64"
 ,
-"Rank 2 b BEFORE sprints":"6"
+"Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"30"
+"Total Points 3":"64"
 ,
-"Rank 3 before POINTS":"6"
+"Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"30"
+"Total Points 4":"64"
 ,
-"Rank 4 Final":"6"
+"Rank 4 Final":"5"
 }
 ,
 {
-"Pos":"7"
+"Pos":"6"
 ,
-"Num":"38"
+"Num":"41"
 ,
-"Name":"Samuel Grundy"
+"Name":"Daniel Middlebrooke"
 ,
-"Club":"Witham Wheelers Cycling Club"
+"Club":"Otley CC"
 ,
 "Cat":"U14B"
 ,
-"BC Number":"1395806"
+"BC Number":"1111262"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
-"TT Time":"01:23.65"
+"TT Time":"01:22.46"
 ,
-"TT Points":"28"
+"TT Points":"32"
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"30"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -352,33 +298,33 @@
 ,
 "Points R pos":""
 ,
-"Total points":"28"
+"Total points":"62"
 ,
-"Omnium Points":"6"
+"Omnium Points":"8"
 ,
 "blank":"0"
 ,
-"Init":"6"
+"Init":"9"
 ,
-"TT points":"28"
+"TT points":"32"
 ,
-"TT Place":"7"
+"TT Place":"5"
 ,
-"Total Points 2":"28"
+"Total Points 2":"62"
 ,
-"Rank 2 b BEFORE sprints":"7"
+"Rank 2 b BEFORE sprints":"6"
 ,
-"Total Points 3":"28"
+"Total Points 3":"62"
 ,
-"Rank 3 before POINTS":"7"
+"Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"28"
+"Total Points 4":"62"
 ,
-"Rank 4 Final":"7"
+"Rank 4 Final":"6"
 }
 ,
 {
-"Pos":"8"
+"Pos":"7"
 ,
 "Num":"39"
 ,
@@ -390,7 +336,7 @@
 ,
 "BC Number":"1695543"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:24.79"
 ,
@@ -398,7 +344,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"26"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -406,9 +352,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"26"
+"Total points":"52"
 ,
-"Omnium Points":"5"
+"Omnium Points":"6"
 ,
 "blank":"0"
 ,
@@ -418,21 +364,291 @@
 ,
 "TT Place":"8"
 ,
-"Total Points 2":"26"
+"Total Points 2":"52"
+,
+"Rank 2 b BEFORE sprints":"7"
+,
+"Total Points 3":"52"
+,
+"Rank 3 before POINTS":"7"
+,
+"Total Points 4":"52"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"8"
+,
+"Num":"38"
+,
+"Name":"Samuel Grundy"
+,
+"Club":"Witham Wheelers Cycling Club"
+,
+"Cat":"U14B"
+,
+"BC Number":"1395806"
+,
+"Events Started":"3"
+,
+"TT Time":"01:23.65"
+,
+"TT Points":"28"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"50"
+,
+"Omnium Points":"5"
+,
+"blank":"0"
+,
+"Init":"6"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"50"
 ,
 "Rank 2 b BEFORE sprints":"8"
 ,
-"Total Points 3":"26"
+"Total Points 3":"50"
 ,
 "Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"26"
+"Total Points 4":"50"
 ,
 "Rank 4 Final":"8"
 }
 ,
 {
 "Pos":"9"
+,
+"Num":"36"
+,
+"Name":"Alex Box"
+,
+"Club":"NSP Cycling Team"
+,
+"Cat":"U14B"
+,
+"BC Number":"1705343"
+,
+"Events Started":"3"
+,
+"TT Time":"01:26.11"
+,
+"TT Points":"22"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"28"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"50"
+,
+"Omnium Points":"4"
+,
+"blank":"0"
+,
+"Init":"4"
+,
+"TT points":"22"
+,
+"TT Place":"10"
+,
+"Total Points 2":"50"
+,
+"Rank 2 b BEFORE sprints":"9"
+,
+"Total Points 3":"50"
+,
+"Rank 3 before POINTS":"8"
+,
+"Total Points 4":"50"
+,
+"Rank 4 Final":"8"
+}
+,
+{
+"Pos":"10"
+,
+"Num":"47"
+,
+"Name":"Joshua Wood"
+,
+"Club":"Wolverhampton Wheelers"
+,
+"Cat":"U14B"
+,
+"BC Number":"1309626"
+,
+"Events Started":"3"
+,
+"TT Time":"01:32.68"
+,
+"TT Points":"14"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"24"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"38"
+,
+"Omnium Points":"3"
+,
+"blank":"0"
+,
+"Init":"15"
+,
+"TT points":"14"
+,
+"TT Place":"14"
+,
+"Total Points 2":"38"
+,
+"Rank 2 b BEFORE sprints":"10"
+,
+"Total Points 3":"38"
+,
+"Rank 3 before POINTS":"10"
+,
+"Total Points 4":"38"
+,
+"Rank 4 Final":"10"
+}
+,
+{
+"Pos":"11"
+,
+"Num":"42"
+,
+"Name":"Micah Myles"
+,
+"Club":"Edinburgh RC"
+,
+"Cat":"U14B"
+,
+"BC Number":"1557371"
+,
+"Events Started":"3"
+,
+"TT Time":"01:29.42"
+,
+"TT Points":"18"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"18"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"36"
+,
+"Omnium Points":"2"
+,
+"blank":"0"
+,
+"Init":"10"
+,
+"TT points":"18"
+,
+"TT Place":"12"
+,
+"Total Points 2":"36"
+,
+"Rank 2 b BEFORE sprints":"11"
+,
+"Total Points 3":"36"
+,
+"Rank 3 before POINTS":"11"
+,
+"Total Points 4":"36"
+,
+"Rank 4 Final":"11"
+}
+,
+{
+"Pos":"12"
+,
+"Num":"34"
+,
+"Name":"Ezra Bateman"
+,
+"Club":"Clifton CC"
+,
+"Cat":"U14B"
+,
+"BC Number":"1073540"
+,
+"Events Started":"3"
+,
+"TT Time":"01:31.42"
+,
+"TT Points":"16"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"20"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"36"
+,
+"Omnium Points":"1"
+,
+"blank":"0"
+,
+"Init":"2"
+,
+"TT points":"16"
+,
+"TT Place":"13"
+,
+"Total Points 2":"36"
+,
+"Rank 2 b BEFORE sprints":"12"
+,
+"Total Points 3":"36"
+,
+"Rank 3 before POINTS":"11"
+,
+"Total Points 4":"36"
+,
+"Rank 4 Final":"11"
+}
+,
+{
+"Pos":"13"
 ,
 "Num":"45"
 ,
@@ -444,7 +660,7 @@
 ,
 "BC Number":"1343699"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:25.07"
 ,
@@ -462,7 +678,7 @@
 ,
 "Total points":"24"
 ,
-"Omnium Points":"4"
+"Omnium Points":"0"
 ,
 "blank":"0"
 ,
@@ -474,73 +690,19 @@
 ,
 "Total Points 2":"24"
 ,
-"Rank 2 b BEFORE sprints":"9"
+"Rank 2 b BEFORE sprints":"13"
 ,
 "Total Points 3":"24"
 ,
-"Rank 3 before POINTS":"9"
+"Rank 3 before POINTS":"13"
 ,
 "Total Points 4":"24"
 ,
-"Rank 4 Final":"9"
+"Rank 4 Final":"13"
 }
 ,
 {
-"Pos":"10"
-,
-"Num":"36"
-,
-"Name":"Alex Box"
-,
-"Club":"NSP Cycling Team"
-,
-"Cat":"U14B"
-,
-"BC Number":"1705343"
-,
-"Events Started":"2"
-,
-"TT Time":"01:26.11"
-,
-"TT Points":"22"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"22"
-,
-"Omnium Points":"3"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":"22"
-,
-"TT Place":"10"
-,
-"Total Points 2":"22"
-,
-"Rank 2 b BEFORE sprints":"10"
-,
-"Total Points 3":"22"
-,
-"Rank 3 before POINTS":"10"
-,
-"Total Points 4":"22"
-,
-"Rank 4 Final":"10"
-}
-,
-{
-"Pos":"11"
+"Pos":"14"
 ,
 "Num":"37"
 ,
@@ -552,7 +714,7 @@
 ,
 "BC Number":"1512547"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:28.86"
 ,
@@ -570,7 +732,7 @@
 ,
 "Total points":"20"
 ,
-"Omnium Points":"2"
+"Omnium Points":"0"
 ,
 "blank":"0"
 ,
@@ -582,175 +744,13 @@
 ,
 "Total Points 2":"20"
 ,
-"Rank 2 b BEFORE sprints":"11"
+"Rank 2 b BEFORE sprints":"14"
 ,
 "Total Points 3":"20"
 ,
-"Rank 3 before POINTS":"11"
-,
-"Total Points 4":"20"
-,
-"Rank 4 Final":"11"
-}
-,
-{
-"Pos":"12"
-,
-"Num":"42"
-,
-"Name":"Micah Myles"
-,
-"Club":"Edinburgh RC"
-,
-"Cat":"U14B"
-,
-"BC Number":"1557371"
-,
-"Events Started":"2"
-,
-"TT Time":"01:29.42"
-,
-"TT Points":"18"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"18"
-,
-"Omnium Points":"1"
-,
-"blank":"0"
-,
-"Init":"10"
-,
-"TT points":"18"
-,
-"TT Place":"12"
-,
-"Total Points 2":"18"
-,
-"Rank 2 b BEFORE sprints":"12"
-,
-"Total Points 3":"18"
-,
-"Rank 3 before POINTS":"12"
-,
-"Total Points 4":"18"
-,
-"Rank 4 Final":"12"
-}
-,
-{
-"Pos":"13"
-,
-"Num":"34"
-,
-"Name":"Ezra Bateman"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U14B"
-,
-"BC Number":"1073540"
-,
-"Events Started":"2"
-,
-"TT Time":"01:31.42"
-,
-"TT Points":"16"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"16"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":"16"
-,
-"TT Place":"13"
-,
-"Total Points 2":"16"
-,
-"Rank 2 b BEFORE sprints":"13"
-,
-"Total Points 3":"16"
-,
-"Rank 3 before POINTS":"13"
-,
-"Total Points 4":"16"
-,
-"Rank 4 Final":"13"
-}
-,
-{
-"Pos":"14"
-,
-"Num":"47"
-,
-"Name":"Joshua Wood"
-,
-"Club":"Wolverhampton Wheelers"
-,
-"Cat":"U14B"
-,
-"BC Number":"1309626"
-,
-"Events Started":"2"
-,
-"TT Time":"01:32.68"
-,
-"TT Points":"14"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"14"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"15"
-,
-"TT points":"14"
-,
-"TT Place":"14"
-,
-"Total Points 2":"14"
-,
-"Rank 2 b BEFORE sprints":"14"
-,
-"Total Points 3":"14"
-,
 "Rank 3 before POINTS":"14"
 ,
-"Total Points 4":"14"
+"Total Points 4":"20"
 ,
 "Rank 4 Final":"14"
 }
