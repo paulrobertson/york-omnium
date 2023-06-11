@@ -2,6 +2,60 @@
 {
 "Pos":"1"
 ,
+"Num":"7"
+,
+"Name":"Harrison Dainty"
+,
+"Club":"Cystic Fibrosis Race "
+,
+"Cat":"U16B"
+,
+"BC Number":"1688711"
+,
+"Events Started":"5"
+,
+"TT Time":"01:13.38"
+,
+"TT Points":"32"
+,
+"Elim Points":"38"
+,
+"Scratch Points":"38"
+,
+"Spr/Kn Points":"34"
+,
+"Points R Ponts":"19"
+,
+"Points R pos":"4"
+,
+"Total points":"161"
+,
+"Omnium Points":"18"
+,
+"blank":"0"
+,
+"Init":"7"
+,
+"TT points":"32"
+,
+"TT Place":"5"
+,
+"Total Points 2":"108"
+,
+"Rank 2 b BEFORE sprints":"2"
+,
+"Total Points 3":"142"
+,
+"Rank 3 before POINTS":"2"
+,
+"Total Points 4":"161"
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"2"
+,
 "Num":"17"
 ,
 "Name":"Matthew Kent"
@@ -12,7 +66,7 @@
 ,
 "BC Number":"1244441"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:10.62"
 ,
@@ -24,13 +78,13 @@
 ,
 "Spr/Kn Points":"38"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"9"
 ,
-"Points R pos":""
+"Points R pos":"9"
 ,
-"Total points":"152"
+"Total points":"161"
 ,
-"Omnium Points":"18"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
@@ -48,13 +102,1147 @@
 ,
 "Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"152"
+"Total Points 4":"161"
 ,
-"Rank 4 Final":"1"
+"Rank 4 Final":"2"
 }
 ,
 {
-"Pos":"2"
+"Pos":"3"
+,
+"Num":"18"
+,
+"Name":"Cillian Lewis"
+,
+"Club":"Manilla Cycling"
+,
+"Cat":"U16B"
+,
+"BC Number":"1603703"
+,
+"Events Started":"5"
+,
+"TT Time":"01:13.72"
+,
+"TT Points":"28"
+,
+"Elim Points":"40"
+,
+"Scratch Points":"32"
+,
+"Spr/Kn Points":"36"
+,
+"Points R Ponts":"11"
+,
+"Points R pos":"3"
+,
+"Total points":"147"
+,
+"Omnium Points":"14"
+,
+"blank":"0"
+,
+"Init":"18"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"100"
+,
+"Rank 2 b BEFORE sprints":"4"
+,
+"Total Points 3":"136"
+,
+"Rank 3 before POINTS":"4"
+,
+"Total Points 4":"147"
+,
+"Rank 4 Final":"3"
+}
+,
+{
+"Pos":"4"
+,
+"Num":"1"
+,
+"Name":"Luca Bednarek"
+,
+"Club":"Kirklees Cycling Academy"
+,
+"Cat":"U16B"
+,
+"BC Number":"1165834"
+,
+"Events Started":"5"
+,
+"TT Time":"01:13.47"
+,
+"TT Points":"30"
+,
+"Elim Points":"40"
+,
+"Scratch Points":"32"
+,
+"Spr/Kn Points":"36"
+,
+"Points R Ponts":"4"
+,
+"Points R pos":"5"
+,
+"Total points":"142"
+,
+"Omnium Points":"12"
+,
+"blank":"0"
+,
+"Init":"1"
+,
+"TT points":"30"
+,
+"TT Place":"6"
+,
+"Total Points 2":"102"
+,
+"Rank 2 b BEFORE sprints":"3"
+,
+"Total Points 3":"138"
+,
+"Rank 3 before POINTS":"3"
+,
+"Total Points 4":"142"
+,
+"Rank 4 Final":"4"
+}
+,
+{
+"Pos":"5"
+,
+"Num":"25"
+,
+"Name":"Ethan Squires"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U16B"
+,
+"BC Number":"1226900"
+,
+"Events Started":"5"
+,
+"TT Time":"01:13.04"
+,
+"TT Points":"34"
+,
+"Elim Points":"34"
+,
+"Scratch Points":"30"
+,
+"Spr/Kn Points":"32"
+,
+"Points R Ponts":"9"
+,
+"Points R pos":"2"
+,
+"Total points":"139"
+,
+"Omnium Points":"10"
+,
+"blank":"0"
+,
+"Init":"25"
+,
+"TT points":"34"
+,
+"TT Place":"4"
+,
+"Total Points 2":"98"
+,
+"Rank 2 b BEFORE sprints":"7"
+,
+"Total Points 3":"130"
+,
+"Rank 3 before POINTS":"6"
+,
+"Total Points 4":"139"
+,
+"Rank 4 Final":"5"
+}
+,
+{
+"Pos":"6"
+,
+"Num":"23"
+,
+"Name":"Struan Shaw"
+,
+"Club":"Edinburgh RC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1003158"
+,
+"Events Started":"5"
+,
+"TT Time":"01:13.75"
+,
+"TT Points":"26"
+,
+"Elim Points":"38"
+,
+"Scratch Points":"34"
+,
+"Spr/Kn Points":"30"
+,
+"Points R Ponts":"4"
+,
+"Points R pos":"6"
+,
+"Total points":"132"
+,
+"Omnium Points":"8"
+,
+"blank":"0"
+,
+"Init":"23"
+,
+"TT points":"26"
+,
+"TT Place":"8"
+,
+"Total Points 2":"98"
+,
+"Rank 2 b BEFORE sprints":"5"
+,
+"Total Points 3":"128"
+,
+"Rank 3 before POINTS":"7"
+,
+"Total Points 4":"132"
+,
+"Rank 4 Final":"6"
+}
+,
+{
+"Pos":"7"
+,
+"Num":"5"
+,
+"Name":"Aaron Cocker"
+,
+"Club":"RTD - JsCycleShack"
+,
+"Cat":"U16B"
+,
+"BC Number":"1256202"
+,
+"Events Started":"5"
+,
+"TT Time":"01:12.39"
+,
+"TT Points":"36"
+,
+"Elim Points":"36"
+,
+"Scratch Points":"26"
+,
+"Spr/Kn Points":"34"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"16"
+,
+"Total points":"132"
+,
+"Omnium Points":"6"
+,
+"blank":"0"
+,
+"Init":"5"
+,
+"TT points":"36"
+,
+"TT Place":"3"
+,
+"Total Points 2":"98"
+,
+"Rank 2 b BEFORE sprints":"6"
+,
+"Total Points 3":"132"
+,
+"Rank 3 before POINTS":"5"
+,
+"Total Points 4":"132"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"8"
+,
+"Num":"13"
+,
+"Name":"Seth Jackson"
+,
+"Club":"Acrog-Tormans"
+,
+"Cat":"U16B"
+,
+"BC Number":"1120498"
+,
+"Events Started":"5"
+,
+"TT Time":"01:13.88"
+,
+"TT Points":"24"
+,
+"Elim Points":"30"
+,
+"Scratch Points":"24"
+,
+"Spr/Kn Points":"26"
+,
+"Points R Ponts":"18"
+,
+"Points R pos":"1"
+,
+"Total points":"122"
+,
+"Omnium Points":"5"
+,
+"blank":"0"
+,
+"Init":"13"
+,
+"TT points":"24"
+,
+"TT Place":"9"
+,
+"Total Points 2":"78"
+,
+"Rank 2 b BEFORE sprints":"9"
+,
+"Total Points 3":"104"
+,
+"Rank 3 before POINTS":"11"
+,
+"Total Points 4":"122"
+,
+"Rank 4 Final":"8"
+}
+,
+{
+"Pos":"9"
+,
+"Num":"28"
+,
+"Name":"Daniel Thompson"
+,
+"Club":"Cleveland Wheelers CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1080386"
+,
+"Events Started":"5"
+,
+"TT Time":"01:15.45"
+,
+"TT Points":"14"
+,
+"Elim Points":"36"
+,
+"Scratch Points":"40"
+,
+"Spr/Kn Points":"28"
+,
+"Points R Ponts":"2"
+,
+"Points R pos":"12"
+,
+"Total points":"120"
+,
+"Omnium Points":"4"
+,
+"blank":"0"
+,
+"Init":"28"
+,
+"TT points":"14"
+,
+"TT Place":"14"
+,
+"Total Points 2":"90"
+,
+"Rank 2 b BEFORE sprints":"8"
+,
+"Total Points 3":"118"
+,
+"Rank 3 before POINTS":"8"
+,
+"Total Points 4":"120"
+,
+"Rank 4 Final":"9"
+}
+,
+{
+"Pos":"10"
+,
+"Num":"14"
+,
+"Name":"Joshua Jewitt"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U16B"
+,
+"BC Number":"1145447"
+,
+"Events Started":"5"
+,
+"TT Time":"01:14.26"
+,
+"TT Points":"22"
+,
+"Elim Points":"18"
+,
+"Scratch Points":"38"
+,
+"Spr/Kn Points":"30"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"13"
+,
+"Total points":"108"
+,
+"Omnium Points":"3"
+,
+"blank":"0"
+,
+"Init":"14"
+,
+"TT points":"22"
+,
+"TT Place":"10"
+,
+"Total Points 2":"78"
+,
+"Rank 2 b BEFORE sprints":"10"
+,
+"Total Points 3":"108"
+,
+"Rank 3 before POINTS":"10"
+,
+"Total Points 4":"108"
+,
+"Rank 4 Final":"10"
+}
+,
+{
+"Pos":"11"
+,
+"Num":"27"
+,
+"Name":"James Sweeney"
+,
+"Club":"Edinburgh RC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1556089"
+,
+"Events Started":"5"
+,
+"TT Time":"01:16.37"
+,
+"TT Points":"8"
+,
+"Elim Points":"32"
+,
+"Scratch Points":"36"
+,
+"Spr/Kn Points":"32"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"17"
+,
+"Total points":"108"
+,
+"Omnium Points":"2"
+,
+"blank":"0"
+,
+"Init":"27"
+,
+"TT points":"8"
+,
+"TT Place":"17"
+,
+"Total Points 2":"76"
+,
+"Rank 2 b BEFORE sprints":"11"
+,
+"Total Points 3":"108"
+,
+"Rank 3 before POINTS":"9"
+,
+"Total Points 4":"108"
+,
+"Rank 4 Final":"11"
+}
+,
+{
+"Pos":"12"
+,
+"Num":"11"
+,
+"Name":"Alex Hodgkins"
+,
+"Club":"Otley CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"982258"
+,
+"Events Started":"5"
+,
+"TT Time":"01:15.25"
+,
+"TT Points":"18"
+,
+"Elim Points":"30"
+,
+"Scratch Points":"26"
+,
+"Spr/Kn Points":"28"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"7"
+,
+"Total points":"102"
+,
+"Omnium Points":"1"
+,
+"blank":"0"
+,
+"Init":"11"
+,
+"TT points":"18"
+,
+"TT Place":"12"
+,
+"Total Points 2":"74"
+,
+"Rank 2 b BEFORE sprints":"12"
+,
+"Total Points 3":"102"
+,
+"Rank 3 before POINTS":"12"
+,
+"Total Points 4":"102"
+,
+"Rank 4 Final":"12"
+}
+,
+{
+"Pos":"13"
+,
+"Num":"19"
+,
+"Name":"Zack Lowe"
+,
+"Club":"Clifton CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1568098"
+,
+"Events Started":"5"
+,
+"TT Time":"01:14.53"
+,
+"TT Points":"20"
+,
+"Elim Points":"18"
+,
+"Scratch Points":"34"
+,
+"Spr/Kn Points":"24"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"11"
+,
+"Total points":"96"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"19"
+,
+"TT points":"20"
+,
+"TT Place":"11"
+,
+"Total Points 2":"72"
+,
+"Rank 2 b BEFORE sprints":"13"
+,
+"Total Points 3":"96"
+,
+"Rank 3 before POINTS":"13"
+,
+"Total Points 4":"96"
+,
+"Rank 4 Final":"13"
+}
+,
+{
+"Pos":"14"
+,
+"Num":"2"
+,
+"Name":"Thomas Brennan"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U16B"
+,
+"BC Number":"1248439"
+,
+"Events Started":"5"
+,
+"TT Time":"01:16.30"
+,
+"TT Points":"10"
+,
+"Elim Points":"32"
+,
+"Scratch Points":"24"
+,
+"Spr/Kn Points":"26"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"14"
+,
+"Total points":"92"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"2"
+,
+"TT points":"10"
+,
+"TT Place":"16"
+,
+"Total Points 2":"66"
+,
+"Rank 2 b BEFORE sprints":"15"
+,
+"Total Points 3":"92"
+,
+"Rank 3 before POINTS":"14"
+,
+"Total Points 4":"92"
+,
+"Rank 4 Final":"14"
+}
+,
+{
+"Pos":"15"
+,
+"Num":"24"
+,
+"Name":"Elliot Speedie"
+,
+"Club":"Edinburgh RC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1562624"
+,
+"Events Started":"5"
+,
+"TT Time":"01:15.60"
+,
+"TT Points":"12"
+,
+"Elim Points":"26"
+,
+"Scratch Points":"30"
+,
+"Spr/Kn Points":"22"
+,
+"Points R Ponts":"1"
+,
+"Points R pos":"20"
+,
+"Total points":"91"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"24"
+,
+"TT points":"12"
+,
+"TT Place":"15"
+,
+"Total Points 2":"68"
+,
+"Rank 2 b BEFORE sprints":"14"
+,
+"Total Points 3":"90"
+,
+"Rank 3 before POINTS":"15"
+,
+"Total Points 4":"91"
+,
+"Rank 4 Final":"15"
+}
+,
+{
+"Pos":"16"
+,
+"Num":"29"
+,
+"Name":"Oliver Thorpe"
+,
+"Club":"RTD - JsCycleShack"
+,
+"Cat":"U16B"
+,
+"BC Number":"1398106"
+,
+"Events Started":"5"
+,
+"TT Time":"01:15.43"
+,
+"TT Points":"16"
+,
+"Elim Points":"22"
+,
+"Scratch Points":"20"
+,
+"Spr/Kn Points":"24"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"19"
+,
+"Total points":"82"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"29"
+,
+"TT points":"16"
+,
+"TT Place":"13"
+,
+"Total Points 2":"58"
+,
+"Rank 2 b BEFORE sprints":"17"
+,
+"Total Points 3":"82"
+,
+"Rank 3 before POINTS":"16"
+,
+"Total Points 4":"82"
+,
+"Rank 4 Final":"16"
+}
+,
+{
+"Pos":"17"
+,
+"Num":"26"
+,
+"Name":"Samuel Stewart-Ball"
+,
+"Club":"ESV Manchester"
+,
+"Cat":"U16B"
+,
+"BC Number":"1379003"
+,
+"Events Started":"5"
+,
+"TT Time":"01:16.60"
+,
+"TT Points":"6"
+,
+"Elim Points":"26"
+,
+"Scratch Points":"28"
+,
+"Spr/Kn Points":"18"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"15"
+,
+"Total points":"78"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"26"
+,
+"TT points":"6"
+,
+"TT Place":"18"
+,
+"Total Points 2":"60"
+,
+"Rank 2 b BEFORE sprints":"16"
+,
+"Total Points 3":"78"
+,
+"Rank 3 before POINTS":"17"
+,
+"Total Points 4":"78"
+,
+"Rank 4 Final":"17"
+}
+,
+{
+"Pos":"18"
+,
+"Num":"4"
+,
+"Name":"James Canham"
+,
+"Club":"RTD - JsCycleShack"
+,
+"Cat":"U16B"
+,
+"BC Number":"1240324"
+,
+"Events Started":"5"
+,
+"TT Time":"01:17.26"
+,
+"TT Points":"1"
+,
+"Elim Points":"20"
+,
+"Scratch Points":"28"
+,
+"Spr/Kn Points":"22"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"10"
+,
+"Total points":"71"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"4"
+,
+"TT points":"1"
+,
+"TT Place":"23"
+,
+"Total Points 2":"49"
+,
+"Rank 2 b BEFORE sprints":"19"
+,
+"Total Points 3":"71"
+,
+"Rank 3 before POINTS":"18"
+,
+"Total Points 4":"71"
+,
+"Rank 4 Final":"18"
+}
+,
+{
+"Pos":"19"
+,
+"Num":"8"
+,
+"Name":"Alasdair Easton"
+,
+"Club":"Edinburgh RC"
+,
+"Cat":"U16B"
+,
+"BC Number":"934843"
+,
+"Events Started":"5"
+,
+"TT Time":"01:17.81"
+,
+"TT Points":"1"
+,
+"Elim Points":"20"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"14"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"18"
+,
+"Total points":"57"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"8"
+,
+"TT points":"1"
+,
+"TT Place":"24"
+,
+"Total Points 2":"43"
+,
+"Rank 2 b BEFORE sprints":"21"
+,
+"Total Points 3":"57"
+,
+"Rank 3 before POINTS":"22"
+,
+"Total Points 4":"57"
+,
+"Rank 4 Final":"19"
+}
+,
+{
+"Pos":"20"
+,
+"Num":"31"
+,
+"Name":"Harley Widdowson"
+,
+"Club":"Clancy Briggs Cycling Academy"
+,
+"Cat":"U16B"
+,
+"BC Number":"1700559"
+,
+"Events Started":"5"
+,
+"TT Time":"01:17.00"
+,
+"TT Points":"2"
+,
+"Elim Points":"16"
+,
+"Scratch Points":"20"
+,
+"Spr/Kn Points":"18"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"8"
+,
+"Total points":"56"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"31"
+,
+"TT points":"2"
+,
+"TT Place":"20"
+,
+"Total Points 2":"38"
+,
+"Rank 2 b BEFORE sprints":"23"
+,
+"Total Points 3":"56"
+,
+"Rank 3 before POINTS":"23"
+,
+"Total Points 4":"56"
+,
+"Rank 4 Final":"20"
+}
+,
+{
+"Pos":"21"
+,
+"Num":"3"
+,
+"Name":"Sam Brownsword"
+,
+"Club":"Solihull CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"892896"
+,
+"Events Started":"5"
+,
+"TT Time":"01:17.02"
+,
+"TT Points":"1"
+,
+"Elim Points":"28"
+,
+"Scratch Points":"18"
+,
+"Spr/Kn Points":"16"
+,
+"Points R Ponts":"-10"
+,
+"Points R pos":"21"
+,
+"Total points":"53"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"3"
+,
+"TT points":"1"
+,
+"TT Place":"21"
+,
+"Total Points 2":"47"
+,
+"Rank 2 b BEFORE sprints":"20"
+,
+"Total Points 3":"63"
+,
+"Rank 3 before POINTS":"20"
+,
+"Total Points 4":"53"
+,
+"Rank 4 Final":"21"
+}
+,
+{
+"Pos":"22"
+,
+"Num":"30"
+,
+"Name":"Harry Tozer"
+,
+"Club":"Fenland Clarion CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"1247991"
+,
+"Events Started":"5"
+,
+"TT Time":"01:16.65"
+,
+"TT Points":"4"
+,
+"Elim Points":"24"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"20"
+,
+"Points R Ponts":"-20"
+,
+"Points R pos":"22"
+,
+"Total points":"50"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"30"
+,
+"TT points":"4"
+,
+"TT Place":"19"
+,
+"Total Points 2":"50"
+,
+"Rank 2 b BEFORE sprints":"18"
+,
+"Total Points 3":"70"
+,
+"Rank 3 before POINTS":"19"
+,
+"Total Points 4":"50"
+,
+"Rank 4 Final":"22"
+}
+,
+{
+"Pos":"23"
+,
+"Num":"12"
+,
+"Name":"Charlie Holt"
+,
+"Club":"ESV Manchester"
+,
+"Cat":"U16B"
+,
+"BC Number":"1714984"
+,
+"Events Started":"5"
+,
+"TT Time":"01:17.20"
+,
+"TT Points":"1"
+,
+"Elim Points":"24"
+,
+"Scratch Points":"16"
+,
+"Spr/Kn Points":"20"
+,
+"Points R Ponts":"-40"
+,
+"Points R pos":"23"
+,
+"Total points":"21"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"12"
+,
+"TT points":"1"
+,
+"TT Place":"22"
+,
+"Total Points 2":"41"
+,
+"Rank 2 b BEFORE sprints":"22"
+,
+"Total Points 3":"61"
+,
+"Rank 3 before POINTS":"21"
+,
+"Total Points 4":"21"
+,
+"Rank 4 Final":"23"
+}
+,
+{
+"Pos":"24"
 ,
 "Num":"9"
 ,
@@ -84,7 +1272,7 @@
 ,
 "Total points":"142"
 ,
-"Omnium Points":"16"
+"Omnium Points":"0"
 ,
 "blank":"0"
 ,
@@ -96,1201 +1284,13 @@
 ,
 "Total Points 2":"102"
 ,
-"Rank 2 b BEFORE sprints":"4"
-,
-"Total Points 3":"142"
-,
-"Rank 3 before POINTS":"2"
-,
-"Total Points 4":"142"
-,
-"Rank 4 Final":"2"
-}
-,
-{
-"Pos":"3"
-,
-"Num":"7"
-,
-"Name":"Harrison Dainty"
-,
-"Club":"Cystic Fibrosis Race "
-,
-"Cat":"U16B"
-,
-"BC Number":"1688711"
-,
-"Events Started":"4"
-,
-"TT Time":"01:13.38"
-,
-"TT Points":"32"
-,
-"Elim Points":"38"
-,
-"Scratch Points":"38"
-,
-"Spr/Kn Points":"34"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"142"
-,
-"Omnium Points":"14"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":"32"
-,
-"TT Place":"5"
-,
-"Total Points 2":"108"
-,
-"Rank 2 b BEFORE sprints":"2"
-,
-"Total Points 3":"142"
-,
-"Rank 3 before POINTS":"3"
-,
-"Total Points 4":"142"
-,
-"Rank 4 Final":"2"
-}
-,
-{
-"Pos":"4"
-,
-"Num":"1"
-,
-"Name":"Luca Bednarek"
-,
-"Club":"Kirklees Cycling Academy"
-,
-"Cat":"U16B"
-,
-"BC Number":"1165834"
-,
-"Events Started":"4"
-,
-"TT Time":"01:13.47"
-,
-"TT Points":"30"
-,
-"Elim Points":"40"
-,
-"Scratch Points":"32"
-,
-"Spr/Kn Points":"36"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"138"
-,
-"Omnium Points":"12"
-,
-"blank":"0"
-,
-"Init":"1"
-,
-"TT points":"30"
-,
-"TT Place":"6"
-,
-"Total Points 2":"102"
-,
-"Rank 2 b BEFORE sprints":"3"
-,
-"Total Points 3":"138"
-,
-"Rank 3 before POINTS":"4"
-,
-"Total Points 4":"138"
-,
-"Rank 4 Final":"4"
-}
-,
-{
-"Pos":"5"
-,
-"Num":"18"
-,
-"Name":"Cillian Lewis"
-,
-"Club":"Manilla Cycling"
-,
-"Cat":"U16B"
-,
-"BC Number":"1603703"
-,
-"Events Started":"4"
-,
-"TT Time":"01:13.72"
-,
-"TT Points":"28"
-,
-"Elim Points":"40"
-,
-"Scratch Points":"32"
-,
-"Spr/Kn Points":"36"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"136"
-,
-"Omnium Points":"10"
-,
-"blank":"0"
-,
-"Init":"18"
-,
-"TT points":"28"
-,
-"TT Place":"7"
-,
-"Total Points 2":"100"
-,
-"Rank 2 b BEFORE sprints":"5"
-,
-"Total Points 3":"136"
-,
-"Rank 3 before POINTS":"5"
-,
-"Total Points 4":"136"
-,
-"Rank 4 Final":"5"
-}
-,
-{
-"Pos":"6"
-,
-"Num":"5"
-,
-"Name":"Aaron Cocker"
-,
-"Club":"RTD - JsCycleShack"
-,
-"Cat":"U16B"
-,
-"BC Number":"1256202"
-,
-"Events Started":"4"
-,
-"TT Time":"01:12.39"
-,
-"TT Points":"36"
-,
-"Elim Points":"36"
-,
-"Scratch Points":"26"
-,
-"Spr/Kn Points":"34"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"132"
-,
-"Omnium Points":"8"
-,
-"blank":"0"
-,
-"Init":"5"
-,
-"TT points":"36"
-,
-"TT Place":"3"
-,
-"Total Points 2":"98"
-,
-"Rank 2 b BEFORE sprints":"7"
-,
-"Total Points 3":"132"
-,
-"Rank 3 before POINTS":"6"
-,
-"Total Points 4":"132"
-,
-"Rank 4 Final":"6"
-}
-,
-{
-"Pos":"7"
-,
-"Num":"25"
-,
-"Name":"Ethan Squires"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U16B"
-,
-"BC Number":"1226900"
-,
-"Events Started":"4"
-,
-"TT Time":"01:13.04"
-,
-"TT Points":"34"
-,
-"Elim Points":"34"
-,
-"Scratch Points":"30"
-,
-"Spr/Kn Points":"32"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"130"
-,
-"Omnium Points":"6"
-,
-"blank":"0"
-,
-"Init":"25"
-,
-"TT points":"34"
-,
-"TT Place":"4"
-,
-"Total Points 2":"98"
-,
-"Rank 2 b BEFORE sprints":"8"
-,
-"Total Points 3":"130"
-,
-"Rank 3 before POINTS":"7"
-,
-"Total Points 4":"130"
-,
-"Rank 4 Final":"7"
-}
-,
-{
-"Pos":"8"
-,
-"Num":"23"
-,
-"Name":"Struan Shaw"
-,
-"Club":"Edinburgh RC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1003158"
-,
-"Events Started":"4"
-,
-"TT Time":"01:13.75"
-,
-"TT Points":"26"
-,
-"Elim Points":"38"
-,
-"Scratch Points":"34"
-,
-"Spr/Kn Points":"30"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"128"
-,
-"Omnium Points":"5"
-,
-"blank":"0"
-,
-"Init":"23"
-,
-"TT points":"26"
-,
-"TT Place":"8"
-,
-"Total Points 2":"98"
-,
-"Rank 2 b BEFORE sprints":"6"
-,
-"Total Points 3":"128"
-,
-"Rank 3 before POINTS":"8"
-,
-"Total Points 4":"128"
-,
-"Rank 4 Final":"8"
-}
-,
-{
-"Pos":"9"
-,
-"Num":"28"
-,
-"Name":"Daniel Thompson"
-,
-"Club":"Cleveland Wheelers CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1080386"
-,
-"Events Started":"4"
-,
-"TT Time":"01:15.45"
-,
-"TT Points":"14"
-,
-"Elim Points":"36"
-,
-"Scratch Points":"40"
-,
-"Spr/Kn Points":"28"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"118"
-,
-"Omnium Points":"4"
-,
-"blank":"0"
-,
-"Init":"28"
-,
-"TT points":"14"
-,
-"TT Place":"14"
-,
-"Total Points 2":"90"
-,
-"Rank 2 b BEFORE sprints":"9"
-,
-"Total Points 3":"118"
-,
-"Rank 3 before POINTS":"9"
-,
-"Total Points 4":"118"
-,
-"Rank 4 Final":"9"
-}
-,
-{
-"Pos":"10"
-,
-"Num":"27"
-,
-"Name":"James Sweeney"
-,
-"Club":"Edinburgh RC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1556089"
-,
-"Events Started":"4"
-,
-"TT Time":"01:16.37"
-,
-"TT Points":"8"
-,
-"Elim Points":"32"
-,
-"Scratch Points":"36"
-,
-"Spr/Kn Points":"32"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"108"
-,
-"Omnium Points":"3"
-,
-"blank":"0"
-,
-"Init":"27"
-,
-"TT points":"8"
-,
-"TT Place":"17"
-,
-"Total Points 2":"76"
-,
-"Rank 2 b BEFORE sprints":"12"
-,
-"Total Points 3":"108"
-,
-"Rank 3 before POINTS":"10"
-,
-"Total Points 4":"108"
-,
-"Rank 4 Final":"10"
-}
-,
-{
-"Pos":"11"
-,
-"Num":"14"
-,
-"Name":"Joshua Jewitt"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U16B"
-,
-"BC Number":"1145447"
-,
-"Events Started":"4"
-,
-"TT Time":"01:14.26"
-,
-"TT Points":"22"
-,
-"Elim Points":"18"
-,
-"Scratch Points":"38"
-,
-"Spr/Kn Points":"30"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"108"
-,
-"Omnium Points":"2"
-,
-"blank":"0"
-,
-"Init":"14"
-,
-"TT points":"22"
-,
-"TT Place":"10"
-,
-"Total Points 2":"78"
-,
-"Rank 2 b BEFORE sprints":"11"
-,
-"Total Points 3":"108"
-,
-"Rank 3 before POINTS":"11"
-,
-"Total Points 4":"108"
-,
-"Rank 4 Final":"10"
-}
-,
-{
-"Pos":"12"
-,
-"Num":"13"
-,
-"Name":"Seth Jackson"
-,
-"Club":"Acrog-Tormans"
-,
-"Cat":"U16B"
-,
-"BC Number":"1120498"
-,
-"Events Started":"4"
-,
-"TT Time":"01:13.88"
-,
-"TT Points":"24"
-,
-"Elim Points":"30"
-,
-"Scratch Points":"24"
-,
-"Spr/Kn Points":"26"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"104"
-,
-"Omnium Points":"1"
-,
-"blank":"0"
-,
-"Init":"13"
-,
-"TT points":"24"
-,
-"TT Place":"9"
-,
-"Total Points 2":"78"
-,
-"Rank 2 b BEFORE sprints":"10"
-,
-"Total Points 3":"104"
-,
-"Rank 3 before POINTS":"12"
-,
-"Total Points 4":"104"
-,
-"Rank 4 Final":"12"
-}
-,
-{
-"Pos":"13"
-,
-"Num":"11"
-,
-"Name":"Alex Hodgkins"
-,
-"Club":"Otley CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"982258"
-,
-"Events Started":"4"
-,
-"TT Time":"01:15.25"
-,
-"TT Points":"18"
-,
-"Elim Points":"30"
-,
-"Scratch Points":"26"
-,
-"Spr/Kn Points":"28"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"102"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"11"
-,
-"TT points":"18"
-,
-"TT Place":"12"
-,
-"Total Points 2":"74"
-,
-"Rank 2 b BEFORE sprints":"13"
-,
-"Total Points 3":"102"
-,
-"Rank 3 before POINTS":"13"
-,
-"Total Points 4":"102"
-,
-"Rank 4 Final":"13"
-}
-,
-{
-"Pos":"14"
-,
-"Num":"19"
-,
-"Name":"Zack Lowe"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1568098"
-,
-"Events Started":"4"
-,
-"TT Time":"01:14.53"
-,
-"TT Points":"20"
-,
-"Elim Points":"18"
-,
-"Scratch Points":"34"
-,
-"Spr/Kn Points":"24"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"96"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"19"
-,
-"TT points":"20"
-,
-"TT Place":"11"
-,
-"Total Points 2":"72"
-,
-"Rank 2 b BEFORE sprints":"14"
-,
-"Total Points 3":"96"
-,
-"Rank 3 before POINTS":"14"
-,
-"Total Points 4":"96"
-,
-"Rank 4 Final":"14"
-}
-,
-{
-"Pos":"15"
-,
-"Num":"2"
-,
-"Name":"Thomas Brennan"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U16B"
-,
-"BC Number":"1248439"
-,
-"Events Started":"4"
-,
-"TT Time":"01:16.30"
-,
-"TT Points":"10"
-,
-"Elim Points":"32"
-,
-"Scratch Points":"24"
-,
-"Spr/Kn Points":"26"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"92"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":"10"
-,
-"TT Place":"16"
-,
-"Total Points 2":"66"
-,
-"Rank 2 b BEFORE sprints":"16"
-,
-"Total Points 3":"92"
-,
-"Rank 3 before POINTS":"15"
-,
-"Total Points 4":"92"
-,
-"Rank 4 Final":"15"
-}
-,
-{
-"Pos":"16"
-,
-"Num":"24"
-,
-"Name":"Elliot Speedie"
-,
-"Club":"Edinburgh RC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1562624"
-,
-"Events Started":"4"
-,
-"TT Time":"01:15.60"
-,
-"TT Points":"12"
-,
-"Elim Points":"26"
-,
-"Scratch Points":"30"
-,
-"Spr/Kn Points":"22"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"90"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"24"
-,
-"TT points":"12"
-,
-"TT Place":"15"
-,
-"Total Points 2":"68"
-,
-"Rank 2 b BEFORE sprints":"15"
-,
-"Total Points 3":"90"
-,
-"Rank 3 before POINTS":"16"
-,
-"Total Points 4":"90"
-,
-"Rank 4 Final":"16"
-}
-,
-{
-"Pos":"17"
-,
-"Num":"29"
-,
-"Name":"Oliver Thorpe"
-,
-"Club":"RTD - JsCycleShack"
-,
-"Cat":"U16B"
-,
-"BC Number":"1398106"
-,
-"Events Started":"4"
-,
-"TT Time":"01:15.43"
-,
-"TT Points":"16"
-,
-"Elim Points":"22"
-,
-"Scratch Points":"20"
-,
-"Spr/Kn Points":"24"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"82"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"29"
-,
-"TT points":"16"
-,
-"TT Place":"13"
-,
-"Total Points 2":"58"
-,
-"Rank 2 b BEFORE sprints":"18"
-,
-"Total Points 3":"82"
-,
-"Rank 3 before POINTS":"17"
-,
-"Total Points 4":"82"
-,
-"Rank 4 Final":"17"
-}
-,
-{
-"Pos":"18"
-,
-"Num":"26"
-,
-"Name":"Samuel Stewart-Ball"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16B"
-,
-"BC Number":"1379003"
-,
-"Events Started":"4"
-,
-"TT Time":"01:16.60"
-,
-"TT Points":"6"
-,
-"Elim Points":"26"
-,
-"Scratch Points":"28"
-,
-"Spr/Kn Points":"18"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"78"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"26"
-,
-"TT points":"6"
-,
-"TT Place":"18"
-,
-"Total Points 2":"60"
-,
-"Rank 2 b BEFORE sprints":"17"
-,
-"Total Points 3":"78"
-,
-"Rank 3 before POINTS":"18"
-,
-"Total Points 4":"78"
-,
-"Rank 4 Final":"18"
-}
-,
-{
-"Pos":"19"
-,
-"Num":"4"
-,
-"Name":"James Canham"
-,
-"Club":"RTD - JsCycleShack"
-,
-"Cat":"U16B"
-,
-"BC Number":"1240324"
-,
-"Events Started":"4"
-,
-"TT Time":"01:17.26"
-,
-"TT Points":"1"
-,
-"Elim Points":"20"
-,
-"Scratch Points":"28"
-,
-"Spr/Kn Points":"22"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"71"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":"1"
-,
-"TT Place":"23"
-,
-"Total Points 2":"49"
-,
-"Rank 2 b BEFORE sprints":"20"
-,
-"Total Points 3":"71"
-,
-"Rank 3 before POINTS":"19"
-,
-"Total Points 4":"71"
-,
-"Rank 4 Final":"19"
-}
-,
-{
-"Pos":"20"
-,
-"Num":"30"
-,
-"Name":"Harry Tozer"
-,
-"Club":"Fenland Clarion CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"1247991"
-,
-"Events Started":"4"
-,
-"TT Time":"01:16.65"
-,
-"TT Points":"4"
-,
-"Elim Points":"24"
-,
-"Scratch Points":"22"
-,
-"Spr/Kn Points":"20"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"70"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"30"
-,
-"TT points":"4"
-,
-"TT Place":"19"
-,
-"Total Points 2":"50"
-,
-"Rank 2 b BEFORE sprints":"19"
-,
-"Total Points 3":"70"
-,
-"Rank 3 before POINTS":"20"
-,
-"Total Points 4":"70"
-,
-"Rank 4 Final":"20"
-}
-,
-{
-"Pos":"21"
-,
-"Num":"3"
-,
-"Name":"Sam Brownsword"
-,
-"Club":"Solihull CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"892896"
-,
-"Events Started":"4"
-,
-"TT Time":"01:17.02"
-,
-"TT Points":"1"
-,
-"Elim Points":"28"
-,
-"Scratch Points":"18"
-,
-"Spr/Kn Points":"16"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"63"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"3"
-,
-"TT points":"1"
-,
-"TT Place":"21"
-,
-"Total Points 2":"47"
-,
-"Rank 2 b BEFORE sprints":"21"
-,
-"Total Points 3":"63"
-,
-"Rank 3 before POINTS":"21"
-,
-"Total Points 4":"63"
-,
-"Rank 4 Final":"21"
-}
-,
-{
-"Pos":"22"
-,
-"Num":"12"
-,
-"Name":"Charlie Holt"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16B"
-,
-"BC Number":"1714984"
-,
-"Events Started":"4"
-,
-"TT Time":"01:17.20"
-,
-"TT Points":"1"
-,
-"Elim Points":"24"
-,
-"Scratch Points":"16"
-,
-"Spr/Kn Points":"20"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"61"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"12"
-,
-"TT points":"1"
-,
-"TT Place":"22"
-,
-"Total Points 2":"41"
-,
-"Rank 2 b BEFORE sprints":"23"
-,
-"Total Points 3":"61"
-,
-"Rank 3 before POINTS":"22"
-,
-"Total Points 4":"61"
-,
-"Rank 4 Final":"22"
-}
-,
-{
-"Pos":"23"
-,
-"Num":"8"
-,
-"Name":"Alasdair Easton"
-,
-"Club":"Edinburgh RC"
-,
-"Cat":"U16B"
-,
-"BC Number":"934843"
-,
-"Events Started":"4"
-,
-"TT Time":"01:17.81"
-,
-"TT Points":"1"
-,
-"Elim Points":"20"
-,
-"Scratch Points":"22"
-,
-"Spr/Kn Points":"14"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"57"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"8"
-,
-"TT points":"1"
-,
-"TT Place":"24"
-,
-"Total Points 2":"43"
-,
-"Rank 2 b BEFORE sprints":"22"
-,
-"Total Points 3":"57"
-,
-"Rank 3 before POINTS":"23"
-,
-"Total Points 4":"57"
-,
-"Rank 4 Final":"23"
-}
-,
-{
-"Pos":"24"
-,
-"Num":"31"
-,
-"Name":"Harley Widdowson"
-,
-"Club":"Clancy Briggs Cycling Academy"
-,
-"Cat":"U16B"
-,
-"BC Number":"1700559"
-,
-"Events Started":"4"
-,
-"TT Time":"01:17.00"
-,
-"TT Points":"2"
-,
-"Elim Points":"16"
-,
-"Scratch Points":"20"
-,
-"Spr/Kn Points":"18"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"56"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"31"
-,
-"TT points":"2"
-,
-"TT Place":"20"
-,
-"Total Points 2":"38"
-,
 "Rank 2 b BEFORE sprints":"24"
 ,
-"Total Points 3":"56"
+"Total Points 3":"142"
 ,
 "Rank 3 before POINTS":"24"
 ,
-"Total Points 4":"56"
+"Total Points 4":"142"
 ,
 "Rank 4 Final":"24"
 }

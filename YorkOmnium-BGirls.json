@@ -12,7 +12,7 @@
 ,
 "BC Number":"1440795"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:21.27"
 ,
@@ -24,11 +24,11 @@
 ,
 "Spr/Kn Points":"40"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"13"
 ,
-"Points R pos":""
+"Points R pos":"3"
 ,
-"Total points":"156"
+"Total points":"169"
 ,
 "Omnium Points":"18"
 ,
@@ -48,7 +48,7 @@
 ,
 "Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"156"
+"Total Points 4":"169"
 ,
 "Rank 4 Final":"1"
 }
@@ -66,7 +66,7 @@
 ,
 "BC Number":"1378061"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:24.80"
 ,
@@ -78,11 +78,11 @@
 ,
 "Spr/Kn Points":"36"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"14"
 ,
-"Points R pos":""
+"Points R pos":"4"
 ,
-"Total points":"152"
+"Total points":"166"
 ,
 "Omnium Points":"16"
 ,
@@ -102,7 +102,7 @@
 ,
 "Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"152"
+"Total Points 4":"166"
 ,
 "Rank 4 Final":"2"
 }
@@ -120,7 +120,7 @@
 ,
 "BC Number":"1555438"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:28.22"
 ,
@@ -132,11 +132,11 @@
 ,
 "Spr/Kn Points":"34"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"7"
 ,
-"Points R pos":""
+"Points R pos":"5"
 ,
-"Total points":"140"
+"Total points":"147"
 ,
 "Omnium Points":"14"
 ,
@@ -156,67 +156,13 @@
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"140"
+"Total Points 4":"147"
 ,
 "Rank 4 Final":"3"
 }
 ,
 {
 "Pos":"4"
-,
-"Num":"67"
-,
-"Name":"Melissa Moscrop"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U14G"
-,
-"BC Number":"1460441"
-,
-"Events Started":"4"
-,
-"TT Time":"01:29.81"
-,
-"TT Points":"28"
-,
-"Elim Points":"36"
-,
-"Scratch Points":"34"
-,
-"Spr/Kn Points":"38"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"136"
-,
-"Omnium Points":"12"
-,
-"blank":"0"
-,
-"Init":"9"
-,
-"TT points":"28"
-,
-"TT Place":"7"
-,
-"Total Points 2":"98"
-,
-"Rank 2 b BEFORE sprints":"4"
-,
-"Total Points 3":"136"
-,
-"Rank 3 before POINTS":"4"
-,
-"Total Points 4":"136"
-,
-"Rank 4 Final":"4"
-}
-,
-{
-"Pos":"5"
 ,
 "Num":"63"
 ,
@@ -228,7 +174,7 @@
 ,
 "BC Number":"1569564"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:28.36"
 ,
@@ -240,13 +186,13 @@
 ,
 "Spr/Kn Points":"36"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"16"
 ,
-"Points R pos":""
+"Points R pos":"1"
 ,
-"Total points":"130"
+"Total points":"146"
 ,
-"Omnium Points":"10"
+"Omnium Points":"12"
 ,
 "blank":"0"
 ,
@@ -264,7 +210,61 @@
 ,
 "Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"130"
+"Total Points 4":"146"
+,
+"Rank 4 Final":"4"
+}
+,
+{
+"Pos":"5"
+,
+"Num":"67"
+,
+"Name":"Melissa Moscrop"
+,
+"Club":"ESV Manchester"
+,
+"Cat":"U14G"
+,
+"BC Number":"1460441"
+,
+"Events Started":"5"
+,
+"TT Time":"01:29.81"
+,
+"TT Points":"28"
+,
+"Elim Points":"36"
+,
+"Scratch Points":"34"
+,
+"Spr/Kn Points":"38"
+,
+"Points R Ponts":"6"
+,
+"Points R pos":"8"
+,
+"Total points":"142"
+,
+"Omnium Points":"10"
+,
+"blank":"0"
+,
+"Init":"9"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"98"
+,
+"Rank 2 b BEFORE sprints":"4"
+,
+"Total Points 3":"136"
+,
+"Rank 3 before POINTS":"4"
+,
+"Total Points 4":"142"
 ,
 "Rank 4 Final":"5"
 }
@@ -282,7 +282,7 @@
 ,
 "BC Number":"1226329"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:27.57"
 ,
@@ -294,11 +294,11 @@
 ,
 "Spr/Kn Points":"34"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"16"
 ,
-"Points R pos":""
+"Points R pos":"2"
 ,
-"Total points":"118"
+"Total points":"134"
 ,
 "Omnium Points":"8"
 ,
@@ -318,7 +318,7 @@
 ,
 "Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"118"
+"Total Points 4":"134"
 ,
 "Rank 4 Final":"6"
 }
@@ -336,7 +336,7 @@
 ,
 "BC Number":"1346615"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:29.73"
 ,
@@ -350,7 +350,7 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"6"
 ,
 "Total points":"118"
 ,
@@ -374,7 +374,7 @@
 ,
 "Total Points 4":"118"
 ,
-"Rank 4 Final":"6"
+"Rank 4 Final":"7"
 }
 ,
 {
@@ -390,7 +390,7 @@
 ,
 "BC Number":"1342846"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:30.76"
 ,
@@ -402,11 +402,11 @@
 ,
 "Spr/Kn Points":"32"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"5"
 ,
-"Points R pos":""
+"Points R pos":"9"
 ,
-"Total points":"110"
+"Total points":"115"
 ,
 "Omnium Points":"5"
 ,
@@ -426,67 +426,13 @@
 ,
 "Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"110"
+"Total Points 4":"115"
 ,
 "Rank 4 Final":"8"
 }
 ,
 {
 "Pos":"9"
-,
-"Num":"65"
-,
-"Name":"Eva-Joan Leavis"
-,
-"Club":"Leicester Forest CC"
-,
-"Cat":"U14G"
-,
-"BC Number":"1293221"
-,
-"Events Started":"4"
-,
-"TT Time":"01:31.19"
-,
-"TT Points":"24"
-,
-"Elim Points":"28"
-,
-"Scratch Points":"22"
-,
-"Spr/Kn Points":"32"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"106"
-,
-"Omnium Points":"4"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":"24"
-,
-"TT Place":"9"
-,
-"Total Points 2":"74"
-,
-"Rank 2 b BEFORE sprints":"10"
-,
-"Total Points 3":"106"
-,
-"Rank 3 before POINTS":"9"
-,
-"Total Points 4":"106"
-,
-"Rank 4 Final":"9"
-}
-,
-{
-"Pos":"10"
 ,
 "Num":"59"
 ,
@@ -498,7 +444,7 @@
 ,
 "BC Number":"1323869"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:33.25"
 ,
@@ -512,11 +458,11 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"7"
 ,
 "Total points":"106"
 ,
-"Omnium Points":"3"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -537,5 +483,59 @@
 "Total Points 4":"106"
 ,
 "Rank 4 Final":"9"
+}
+,
+{
+"Pos":"10"
+,
+"Num":"65"
+,
+"Name":"Eva-Joan Leavis"
+,
+"Club":"Leicester Forest CC"
+,
+"Cat":"U14G"
+,
+"BC Number":"1293221"
+,
+"Events Started":"5"
+,
+"TT Time":"01:31.19"
+,
+"TT Points":"24"
+,
+"Elim Points":"28"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"32"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":"10"
+,
+"Total points":"106"
+,
+"Omnium Points":"3"
+,
+"blank":"0"
+,
+"Init":"7"
+,
+"TT points":"24"
+,
+"TT Place":"9"
+,
+"Total Points 2":"74"
+,
+"Rank 2 b BEFORE sprints":"10"
+,
+"Total Points 3":"106"
+,
+"Rank 3 before POINTS":"9"
+,
+"Total Points 4":"106"
+,
+"Rank 4 Final":"10"
 }
 ]
