@@ -2,22 +2,6 @@
 {
 "Heat":"A"
 ,
-"Number":"36"
-,
-"Name":"Alex"
-,
-"Surname":"Box"
-,
-"Cat":"U14B"
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"A"
-,
 "Number":"34"
 ,
 "Name":"Ezra"
@@ -26,9 +10,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"16"
 ,
-"Rank 2":""
+"Rank 2":"13"
 }
 ,
 {
@@ -42,35 +26,51 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"38"
 ,
-"Rank 2":""
+"Rank 2":"2"
 }
 ,
 {
 "Heat":"A"
 ,
-"Number":"33"
+"Number":"36"
 ,
-"Name":"Jack"
+"Name":"Alex"
 ,
-"Surname":"Barden-Beatty"
+"Surname":"Box"
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"22"
 ,
-"Rank 2":""
+"Rank 2":"10"
 }
 ,
 {
-"Heat":"B"
+"Heat":"A"
 ,
 "Number":"37"
 ,
 "Name":"Jake"
 ,
 "Surname":"Davidson"
+,
+"Cat":"U14B"
+,
+"Points":"20"
+,
+"Rank 2":"11"
+}
+,
+{
+"Heat":"B"
+,
+"Number":"33"
+,
+"Name":"Jack"
+,
+"Surname":"Barden-Beatty"
 ,
 "Cat":"U14B"
 ,
@@ -90,9 +90,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"34"
 ,
-"Rank 2":""
+"Rank 2":"4"
 }
 ,
 {
@@ -106,9 +106,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"32"
 ,
-"Rank 2":""
+"Rank 2":"5"
 }
 ,
 {
@@ -122,9 +122,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"26"
 ,
-"Rank 2":""
+"Rank 2":"8"
 }
 ,
 {
@@ -138,9 +138,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"40"
 ,
-"Rank 2":""
+"Rank 2":"1"
 }
 ,
 {
@@ -154,9 +154,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"36"
 ,
-"Rank 2":""
+"Rank 2":"3"
 }
 ,
 {
@@ -170,9 +170,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"24"
 ,
-"Rank 2":""
+"Rank 2":"9"
 }
 ,
 {
@@ -186,9 +186,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"18"
 ,
-"Rank 2":""
+"Rank 2":"12"
 }
 ,
 {
@@ -202,9 +202,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"28"
 ,
-"Rank 2":""
+"Rank 2":"7"
 }
 ,
 {
@@ -218,9 +218,9 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"30"
 ,
-"Rank 2":""
+"Rank 2":"6"
 }
 ,
 {
@@ -234,8 +234,8 @@
 ,
 "Cat":"U14B"
 ,
-"Points":""
+"Points":"14"
 ,
-"Rank 2":""
+"Rank 2":"14"
 }
 ]
