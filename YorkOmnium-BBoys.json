@@ -12,13 +12,13 @@
 ,
 "BC Number":"1422584"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:16.46"
 ,
 "TT Points":"40"
 ,
-"Elim Points":"0"
+"Elim Points":"40"
 ,
 "Scratch Points":"40"
 ,
@@ -28,7 +28,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"80"
+"Total points":"120"
 ,
 "Omnium Points":"18"
 ,
@@ -40,15 +40,15 @@
 ,
 "TT Place":"1"
 ,
-"Total Points 2":"80"
+"Total Points 2":"120"
 ,
 "Rank 2 b BEFORE sprints":"1"
 ,
-"Total Points 3":"80"
+"Total Points 3":"120"
 ,
 "Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"80"
+"Total Points 4":"120"
 ,
 "Rank 4 Final":"1"
 }
@@ -66,13 +66,13 @@
 ,
 "BC Number":"1112734"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:21.52"
 ,
 "TT Points":"36"
 ,
-"Elim Points":"0"
+"Elim Points":"38"
 ,
 "Scratch Points":"38"
 ,
@@ -82,7 +82,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"74"
+"Total points":"112"
 ,
 "Omnium Points":"16"
 ,
@@ -94,75 +94,21 @@
 ,
 "TT Place":"3"
 ,
-"Total Points 2":"74"
+"Total Points 2":"112"
 ,
 "Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":"74"
+"Total Points 3":"112"
 ,
 "Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"74"
+"Total Points 4":"112"
 ,
 "Rank 4 Final":"2"
 }
 ,
 {
 "Pos":"3"
-,
-"Num":"35"
-,
-"Name":"Jake Bird"
-,
-"Club":"Beeston Cycling Club"
-,
-"Cat":"U14B"
-,
-"BC Number":"1246208"
-,
-"Events Started":"3"
-,
-"TT Time":"01:21.34"
-,
-"TT Points":"38"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"32"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"70"
-,
-"Omnium Points":"14"
-,
-"blank":"0"
-,
-"Init":"3"
-,
-"TT points":"38"
-,
-"TT Place":"2"
-,
-"Total Points 2":"70"
-,
-"Rank 2 b BEFORE sprints":"3"
-,
-"Total Points 3":"70"
-,
-"Rank 3 before POINTS":"3"
-,
-"Total Points 4":"70"
-,
-"Rank 4 Final":"3"
-}
-,
-{
-"Pos":"4"
 ,
 "Num":"44"
 ,
@@ -174,13 +120,13 @@
 ,
 "BC Number":"1103553"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:22.45"
 ,
 "TT Points":"34"
 ,
-"Elim Points":"0"
+"Elim Points":"36"
 ,
 "Scratch Points":"36"
 ,
@@ -190,9 +136,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"70"
+"Total points":"106"
 ,
-"Omnium Points":"12"
+"Omnium Points":"14"
 ,
 "blank":"0"
 ,
@@ -202,17 +148,71 @@
 ,
 "TT Place":"4"
 ,
-"Total Points 2":"70"
+"Total Points 2":"106"
 ,
-"Rank 2 b BEFORE sprints":"4"
+"Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"70"
+"Total Points 3":"106"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"70"
+"Total Points 4":"106"
 ,
 "Rank 4 Final":"3"
+}
+,
+{
+"Pos":"4"
+,
+"Num":"35"
+,
+"Name":"Jake Bird"
+,
+"Club":"Beeston Cycling Club"
+,
+"Cat":"U14B"
+,
+"BC Number":"1246208"
+,
+"Events Started":"4"
+,
+"TT Time":"01:21.34"
+,
+"TT Points":"38"
+,
+"Elim Points":"34"
+,
+"Scratch Points":"32"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"104"
+,
+"Omnium Points":"12"
+,
+"blank":"0"
+,
+"Init":"3"
+,
+"TT points":"38"
+,
+"TT Place":"2"
+,
+"Total Points 2":"104"
+,
+"Rank 2 b BEFORE sprints":"4"
+,
+"Total Points 3":"104"
+,
+"Rank 3 before POINTS":"4"
+,
+"Total Points 4":"104"
+,
+"Rank 4 Final":"4"
 }
 ,
 {
@@ -228,13 +228,13 @@
 ,
 "BC Number":"1050681"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:23.42"
 ,
 "TT Points":"30"
 ,
-"Elim Points":"0"
+"Elim Points":"32"
 ,
 "Scratch Points":"34"
 ,
@@ -244,7 +244,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"64"
+"Total points":"96"
 ,
 "Omnium Points":"10"
 ,
@@ -256,15 +256,15 @@
 ,
 "TT Place":"6"
 ,
-"Total Points 2":"64"
+"Total Points 2":"96"
 ,
 "Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"64"
+"Total Points 3":"96"
 ,
 "Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"64"
+"Total Points 4":"96"
 ,
 "Rank 4 Final":"5"
 }
@@ -282,13 +282,13 @@
 ,
 "BC Number":"1111262"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:22.46"
 ,
 "TT Points":"32"
 ,
-"Elim Points":"0"
+"Elim Points":"22"
 ,
 "Scratch Points":"30"
 ,
@@ -298,7 +298,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"62"
+"Total points":"84"
 ,
 "Omnium Points":"8"
 ,
@@ -310,129 +310,21 @@
 ,
 "TT Place":"5"
 ,
-"Total Points 2":"62"
+"Total Points 2":"84"
 ,
 "Rank 2 b BEFORE sprints":"6"
 ,
-"Total Points 3":"62"
+"Total Points 3":"84"
 ,
 "Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"62"
+"Total Points 4":"84"
 ,
 "Rank 4 Final":"6"
 }
 ,
 {
 "Pos":"7"
-,
-"Num":"39"
-,
-"Name":"Thomas Karra-Betts"
-,
-"Club":"Lichfield City CC"
-,
-"Cat":"U14B"
-,
-"BC Number":"1695543"
-,
-"Events Started":"3"
-,
-"TT Time":"01:24.79"
-,
-"TT Points":"26"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"26"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"52"
-,
-"Omnium Points":"6"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":"26"
-,
-"TT Place":"8"
-,
-"Total Points 2":"52"
-,
-"Rank 2 b BEFORE sprints":"7"
-,
-"Total Points 3":"52"
-,
-"Rank 3 before POINTS":"7"
-,
-"Total Points 4":"52"
-,
-"Rank 4 Final":"7"
-}
-,
-{
-"Pos":"8"
-,
-"Num":"38"
-,
-"Name":"Samuel Grundy"
-,
-"Club":"Witham Wheelers Cycling Club"
-,
-"Cat":"U14B"
-,
-"BC Number":"1395806"
-,
-"Events Started":"3"
-,
-"TT Time":"01:23.65"
-,
-"TT Points":"28"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"22"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"50"
-,
-"Omnium Points":"5"
-,
-"blank":"0"
-,
-"Init":"6"
-,
-"TT points":"28"
-,
-"TT Place":"7"
-,
-"Total Points 2":"50"
-,
-"Rank 2 b BEFORE sprints":"8"
-,
-"Total Points 3":"50"
-,
-"Rank 3 before POINTS":"8"
-,
-"Total Points 4":"50"
-,
-"Rank 4 Final":"8"
-}
-,
-{
-"Pos":"9"
 ,
 "Num":"36"
 ,
@@ -444,13 +336,13 @@
 ,
 "BC Number":"1705343"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:26.11"
 ,
 "TT Points":"22"
 ,
-"Elim Points":"0"
+"Elim Points":"30"
 ,
 "Scratch Points":"28"
 ,
@@ -460,9 +352,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"50"
+"Total points":"80"
 ,
-"Omnium Points":"4"
+"Omnium Points":"6"
 ,
 "blank":"0"
 ,
@@ -472,17 +364,125 @@
 ,
 "TT Place":"10"
 ,
-"Total Points 2":"50"
+"Total Points 2":"80"
+,
+"Rank 2 b BEFORE sprints":"7"
+,
+"Total Points 3":"80"
+,
+"Rank 3 before POINTS":"7"
+,
+"Total Points 4":"80"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"8"
+,
+"Num":"39"
+,
+"Name":"Thomas Karra-Betts"
+,
+"Club":"Lichfield City CC"
+,
+"Cat":"U14B"
+,
+"BC Number":"1695543"
+,
+"Events Started":"4"
+,
+"TT Time":"01:24.79"
+,
+"TT Points":"26"
+,
+"Elim Points":"28"
+,
+"Scratch Points":"26"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"80"
+,
+"Omnium Points":"5"
+,
+"blank":"0"
+,
+"Init":"7"
+,
+"TT points":"26"
+,
+"TT Place":"8"
+,
+"Total Points 2":"80"
+,
+"Rank 2 b BEFORE sprints":"8"
+,
+"Total Points 3":"80"
+,
+"Rank 3 before POINTS":"7"
+,
+"Total Points 4":"80"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"9"
+,
+"Num":"38"
+,
+"Name":"Samuel Grundy"
+,
+"Club":"Witham Wheelers Cycling Club"
+,
+"Cat":"U14B"
+,
+"BC Number":"1395806"
+,
+"Events Started":"4"
+,
+"TT Time":"01:23.65"
+,
+"TT Points":"28"
+,
+"Elim Points":"24"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"74"
+,
+"Omnium Points":"4"
+,
+"blank":"0"
+,
+"Init":"6"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"74"
 ,
 "Rank 2 b BEFORE sprints":"9"
 ,
-"Total Points 3":"50"
+"Total Points 3":"74"
 ,
-"Rank 3 before POINTS":"8"
+"Rank 3 before POINTS":"9"
 ,
-"Total Points 4":"50"
+"Total Points 4":"74"
 ,
-"Rank 4 Final":"8"
+"Rank 4 Final":"9"
 }
 ,
 {
@@ -498,13 +498,13 @@
 ,
 "BC Number":"1309626"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:32.68"
 ,
 "TT Points":"14"
 ,
-"Elim Points":"0"
+"Elim Points":"26"
 ,
 "Scratch Points":"24"
 ,
@@ -514,7 +514,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"38"
+"Total points":"64"
 ,
 "Omnium Points":"3"
 ,
@@ -526,15 +526,15 @@
 ,
 "TT Place":"14"
 ,
-"Total Points 2":"38"
+"Total Points 2":"64"
 ,
 "Rank 2 b BEFORE sprints":"10"
 ,
-"Total Points 3":"38"
+"Total Points 3":"64"
 ,
 "Rank 3 before POINTS":"10"
 ,
-"Total Points 4":"38"
+"Total Points 4":"64"
 ,
 "Rank 4 Final":"10"
 }
@@ -552,13 +552,13 @@
 ,
 "BC Number":"1557371"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:29.42"
 ,
 "TT Points":"18"
 ,
-"Elim Points":"0"
+"Elim Points":"20"
 ,
 "Scratch Points":"18"
 ,
@@ -568,7 +568,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"36"
+"Total points":"56"
 ,
 "Omnium Points":"2"
 ,
@@ -580,15 +580,15 @@
 ,
 "TT Place":"12"
 ,
-"Total Points 2":"36"
+"Total Points 2":"56"
 ,
 "Rank 2 b BEFORE sprints":"11"
 ,
-"Total Points 3":"36"
+"Total Points 3":"56"
 ,
 "Rank 3 before POINTS":"11"
 ,
-"Total Points 4":"36"
+"Total Points 4":"56"
 ,
 "Rank 4 Final":"11"
 }
@@ -606,13 +606,13 @@
 ,
 "BC Number":"1073540"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:31.42"
 ,
 "TT Points":"16"
 ,
-"Elim Points":"0"
+"Elim Points":"18"
 ,
 "Scratch Points":"20"
 ,
@@ -622,7 +622,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"36"
+"Total points":"54"
 ,
 "Omnium Points":"1"
 ,
@@ -634,17 +634,17 @@
 ,
 "TT Place":"13"
 ,
-"Total Points 2":"36"
+"Total Points 2":"54"
 ,
 "Rank 2 b BEFORE sprints":"12"
 ,
-"Total Points 3":"36"
+"Total Points 3":"54"
 ,
-"Rank 3 before POINTS":"11"
+"Rank 3 before POINTS":"12"
 ,
-"Total Points 4":"36"
+"Total Points 4":"54"
 ,
-"Rank 4 Final":"11"
+"Rank 4 Final":"12"
 }
 ,
 {
