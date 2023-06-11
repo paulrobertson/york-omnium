@@ -46,7 +46,7 @@
 ,
 "Total Points 3":"142"
 ,
-"Rank 3 before POINTS":"2"
+"Rank 3 before POINTS":"3"
 ,
 "Total Points 4":"161"
 ,
@@ -150,11 +150,11 @@
 ,
 "Total Points 2":"100"
 ,
-"Rank 2 b BEFORE sprints":"4"
+"Rank 2 b BEFORE sprints":"5"
 ,
 "Total Points 3":"136"
 ,
-"Rank 3 before POINTS":"4"
+"Rank 3 before POINTS":"5"
 ,
 "Total Points 4":"147"
 ,
@@ -208,7 +208,7 @@
 ,
 "Total Points 3":"138"
 ,
-"Rank 3 before POINTS":"3"
+"Rank 3 before POINTS":"4"
 ,
 "Total Points 4":"142"
 ,
@@ -258,11 +258,11 @@
 ,
 "Total Points 2":"98"
 ,
-"Rank 2 b BEFORE sprints":"7"
+"Rank 2 b BEFORE sprints":"8"
 ,
 "Total Points 3":"130"
 ,
-"Rank 3 before POINTS":"6"
+"Rank 3 before POINTS":"7"
 ,
 "Total Points 4":"139"
 ,
@@ -312,11 +312,11 @@
 ,
 "Total Points 2":"98"
 ,
-"Rank 2 b BEFORE sprints":"5"
+"Rank 2 b BEFORE sprints":"6"
 ,
 "Total Points 3":"128"
 ,
-"Rank 3 before POINTS":"7"
+"Rank 3 before POINTS":"8"
 ,
 "Total Points 4":"132"
 ,
@@ -366,11 +366,11 @@
 ,
 "Total Points 2":"98"
 ,
-"Rank 2 b BEFORE sprints":"6"
+"Rank 2 b BEFORE sprints":"7"
 ,
 "Total Points 3":"132"
 ,
-"Rank 3 before POINTS":"5"
+"Rank 3 before POINTS":"6"
 ,
 "Total Points 4":"132"
 ,
@@ -420,11 +420,11 @@
 ,
 "Total Points 2":"78"
 ,
-"Rank 2 b BEFORE sprints":"9"
+"Rank 2 b BEFORE sprints":"10"
 ,
 "Total Points 3":"104"
 ,
-"Rank 3 before POINTS":"11"
+"Rank 3 before POINTS":"12"
 ,
 "Total Points 4":"122"
 ,
@@ -474,11 +474,11 @@
 ,
 "Total Points 2":"90"
 ,
-"Rank 2 b BEFORE sprints":"8"
+"Rank 2 b BEFORE sprints":"9"
 ,
 "Total Points 3":"118"
 ,
-"Rank 3 before POINTS":"8"
+"Rank 3 before POINTS":"9"
 ,
 "Total Points 4":"120"
 ,
@@ -528,11 +528,11 @@
 ,
 "Total Points 2":"78"
 ,
-"Rank 2 b BEFORE sprints":"10"
+"Rank 2 b BEFORE sprints":"11"
 ,
 "Total Points 3":"108"
 ,
-"Rank 3 before POINTS":"10"
+"Rank 3 before POINTS":"11"
 ,
 "Total Points 4":"108"
 ,
@@ -582,11 +582,11 @@
 ,
 "Total Points 2":"76"
 ,
-"Rank 2 b BEFORE sprints":"11"
+"Rank 2 b BEFORE sprints":"12"
 ,
 "Total Points 3":"108"
 ,
-"Rank 3 before POINTS":"9"
+"Rank 3 before POINTS":"10"
 ,
 "Total Points 4":"108"
 ,
@@ -636,11 +636,11 @@
 ,
 "Total Points 2":"74"
 ,
-"Rank 2 b BEFORE sprints":"12"
+"Rank 2 b BEFORE sprints":"13"
 ,
 "Total Points 3":"102"
 ,
-"Rank 3 before POINTS":"12"
+"Rank 3 before POINTS":"13"
 ,
 "Total Points 4":"102"
 ,
@@ -649,6 +649,60 @@
 ,
 {
 "Pos":"13"
+,
+"Num":"9"
+,
+"Name":"Archie Gill"
+,
+"Club":"Otley CC"
+,
+"Cat":"U16B"
+,
+"BC Number":"877840"
+,
+"Events Started":"5"
+,
+"TT Time":"01:12.17"
+,
+"TT Points":"38"
+,
+"Elim Points":"28"
+,
+"Scratch Points":"36"
+,
+"Spr/Kn Points":"40"
+,
+"Points R Ponts":"-40"
+,
+"Points R pos":"24"
+,
+"Total points":"102"
+,
+"Omnium Points":"0"
+,
+"blank":"0"
+,
+"Init":"9"
+,
+"TT points":"38"
+,
+"TT Place":"2"
+,
+"Total Points 2":"102"
+,
+"Rank 2 b BEFORE sprints":"4"
+,
+"Total Points 3":"142"
+,
+"Rank 3 before POINTS":"2"
+,
+"Total Points 4":"102"
+,
+"Rank 4 Final":"13"
+}
+,
+{
+"Pos":"14"
 ,
 "Num":"19"
 ,
@@ -690,19 +744,19 @@
 ,
 "Total Points 2":"72"
 ,
-"Rank 2 b BEFORE sprints":"13"
+"Rank 2 b BEFORE sprints":"14"
 ,
 "Total Points 3":"96"
 ,
-"Rank 3 before POINTS":"13"
+"Rank 3 before POINTS":"14"
 ,
 "Total Points 4":"96"
 ,
-"Rank 4 Final":"13"
+"Rank 4 Final":"14"
 }
 ,
 {
-"Pos":"14"
+"Pos":"15"
 ,
 "Num":"2"
 ,
@@ -744,19 +798,19 @@
 ,
 "Total Points 2":"66"
 ,
-"Rank 2 b BEFORE sprints":"15"
+"Rank 2 b BEFORE sprints":"16"
 ,
 "Total Points 3":"92"
 ,
-"Rank 3 before POINTS":"14"
+"Rank 3 before POINTS":"15"
 ,
 "Total Points 4":"92"
 ,
-"Rank 4 Final":"14"
+"Rank 4 Final":"15"
 }
 ,
 {
-"Pos":"15"
+"Pos":"16"
 ,
 "Num":"24"
 ,
@@ -798,19 +852,19 @@
 ,
 "Total Points 2":"68"
 ,
-"Rank 2 b BEFORE sprints":"14"
+"Rank 2 b BEFORE sprints":"15"
 ,
 "Total Points 3":"90"
 ,
-"Rank 3 before POINTS":"15"
+"Rank 3 before POINTS":"16"
 ,
 "Total Points 4":"91"
 ,
-"Rank 4 Final":"15"
+"Rank 4 Final":"16"
 }
 ,
 {
-"Pos":"16"
+"Pos":"17"
 ,
 "Num":"29"
 ,
@@ -852,19 +906,19 @@
 ,
 "Total Points 2":"58"
 ,
-"Rank 2 b BEFORE sprints":"17"
+"Rank 2 b BEFORE sprints":"18"
 ,
 "Total Points 3":"82"
 ,
-"Rank 3 before POINTS":"16"
+"Rank 3 before POINTS":"17"
 ,
 "Total Points 4":"82"
 ,
-"Rank 4 Final":"16"
+"Rank 4 Final":"17"
 }
 ,
 {
-"Pos":"17"
+"Pos":"18"
 ,
 "Num":"26"
 ,
@@ -906,19 +960,19 @@
 ,
 "Total Points 2":"60"
 ,
-"Rank 2 b BEFORE sprints":"16"
+"Rank 2 b BEFORE sprints":"17"
 ,
 "Total Points 3":"78"
 ,
-"Rank 3 before POINTS":"17"
+"Rank 3 before POINTS":"18"
 ,
 "Total Points 4":"78"
 ,
-"Rank 4 Final":"17"
+"Rank 4 Final":"18"
 }
 ,
 {
-"Pos":"18"
+"Pos":"19"
 ,
 "Num":"4"
 ,
@@ -960,19 +1014,19 @@
 ,
 "Total Points 2":"49"
 ,
-"Rank 2 b BEFORE sprints":"19"
+"Rank 2 b BEFORE sprints":"20"
 ,
 "Total Points 3":"71"
 ,
-"Rank 3 before POINTS":"18"
+"Rank 3 before POINTS":"19"
 ,
 "Total Points 4":"71"
 ,
-"Rank 4 Final":"18"
+"Rank 4 Final":"19"
 }
 ,
 {
-"Pos":"19"
+"Pos":"20"
 ,
 "Num":"8"
 ,
@@ -1014,19 +1068,19 @@
 ,
 "Total Points 2":"43"
 ,
-"Rank 2 b BEFORE sprints":"21"
+"Rank 2 b BEFORE sprints":"22"
 ,
 "Total Points 3":"57"
 ,
-"Rank 3 before POINTS":"22"
+"Rank 3 before POINTS":"23"
 ,
 "Total Points 4":"57"
 ,
-"Rank 4 Final":"19"
+"Rank 4 Final":"20"
 }
 ,
 {
-"Pos":"20"
+"Pos":"21"
 ,
 "Num":"31"
 ,
@@ -1068,19 +1122,19 @@
 ,
 "Total Points 2":"38"
 ,
-"Rank 2 b BEFORE sprints":"23"
+"Rank 2 b BEFORE sprints":"24"
 ,
 "Total Points 3":"56"
 ,
-"Rank 3 before POINTS":"23"
+"Rank 3 before POINTS":"24"
 ,
 "Total Points 4":"56"
 ,
-"Rank 4 Final":"20"
+"Rank 4 Final":"21"
 }
 ,
 {
-"Pos":"21"
+"Pos":"22"
 ,
 "Num":"3"
 ,
@@ -1122,19 +1176,19 @@
 ,
 "Total Points 2":"47"
 ,
-"Rank 2 b BEFORE sprints":"20"
+"Rank 2 b BEFORE sprints":"21"
 ,
 "Total Points 3":"63"
 ,
-"Rank 3 before POINTS":"20"
+"Rank 3 before POINTS":"21"
 ,
 "Total Points 4":"53"
 ,
-"Rank 4 Final":"21"
+"Rank 4 Final":"22"
 }
 ,
 {
-"Pos":"22"
+"Pos":"23"
 ,
 "Num":"30"
 ,
@@ -1176,19 +1230,19 @@
 ,
 "Total Points 2":"50"
 ,
-"Rank 2 b BEFORE sprints":"18"
+"Rank 2 b BEFORE sprints":"19"
 ,
 "Total Points 3":"70"
 ,
-"Rank 3 before POINTS":"19"
+"Rank 3 before POINTS":"20"
 ,
 "Total Points 4":"50"
 ,
-"Rank 4 Final":"22"
+"Rank 4 Final":"23"
 }
 ,
 {
-"Pos":"23"
+"Pos":"24"
 ,
 "Num":"12"
 ,
@@ -1230,67 +1284,13 @@
 ,
 "Total Points 2":"41"
 ,
-"Rank 2 b BEFORE sprints":"22"
+"Rank 2 b BEFORE sprints":"23"
 ,
 "Total Points 3":"61"
 ,
-"Rank 3 before POINTS":"21"
+"Rank 3 before POINTS":"22"
 ,
 "Total Points 4":"21"
-,
-"Rank 4 Final":"23"
-}
-,
-{
-"Pos":"24"
-,
-"Num":"9"
-,
-"Name":"Archie Gill"
-,
-"Club":"Otley CC"
-,
-"Cat":"U16B"
-,
-"BC Number":"877840"
-,
-"Events Started":"4"
-,
-"TT Time":"01:12.17"
-,
-"TT Points":"38"
-,
-"Elim Points":"28"
-,
-"Scratch Points":"36"
-,
-"Spr/Kn Points":"40"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"142"
-,
-"Omnium Points":"0"
-,
-"blank":"0"
-,
-"Init":"9"
-,
-"TT points":"38"
-,
-"TT Place":"2"
-,
-"Total Points 2":"102"
-,
-"Rank 2 b BEFORE sprints":"24"
-,
-"Total Points 3":"142"
-,
-"Rank 3 before POINTS":"24"
-,
-"Total Points 4":"142"
 ,
 "Rank 4 Final":"24"
 }
