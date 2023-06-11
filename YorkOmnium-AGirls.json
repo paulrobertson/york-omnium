@@ -2,60 +2,6 @@
 {
 "Pos":"1"
 ,
-"Num":"56"
-,
-"Name":"Phoebe Taylor"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16G"
-,
-"BC Number":"1397450"
-,
-"Events Started":"4"
-,
-"TT Time":"01:18.28"
-,
-"TT Points":"36"
-,
-"Elim Points":"40"
-,
-"Scratch Points":"32"
-,
-"Spr/Kn Points":"40"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"148"
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"9"
-,
-"TT points":"36"
-,
-"TT Place":"3"
-,
-"Total Points 2":"108"
-,
-"Rank 2 b BEFORE sprints":"2"
-,
-"Total Points 3":"148"
-,
-"Rank 3 before POINTS":"1"
-,
-"Total Points 4":"148"
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"2"
-,
 "Num":"49"
 ,
 "Name":"Erin Boothman"
@@ -66,7 +12,7 @@
 ,
 "BC Number":"1323868"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:18.19"
 ,
@@ -78,13 +24,13 @@
 ,
 "Spr/Kn Points":"38"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"40"
 ,
-"Points R pos":""
+"Points R pos":"9"
 ,
-"Total points":"148"
+"Total points":"188"
 ,
-"Omnium Points":"16"
+"Omnium Points":"18"
 ,
 "blank":"0"
 ,
@@ -102,67 +48,13 @@
 ,
 "Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"148"
+"Total Points 4":"188"
 ,
 "Rank 4 Final":"1"
 }
 ,
 {
-"Pos":"3"
-,
-"Num":"54"
-,
-"Name":"Evie Smith"
-,
-"Club":"Shibden Cycling Club"
-,
-"Cat":"U16G"
-,
-"BC Number":"1077708"
-,
-"Events Started":"4"
-,
-"TT Time":"01:19.10"
-,
-"TT Points":"34"
-,
-"Elim Points":"38"
-,
-"Scratch Points":"34"
-,
-"Spr/Kn Points":"36"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"142"
-,
-"Omnium Points":"14"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":"34"
-,
-"TT Place":"4"
-,
-"Total Points 2":"106"
-,
-"Rank 2 b BEFORE sprints":"3"
-,
-"Total Points 3":"142"
-,
-"Rank 3 before POINTS":"3"
-,
-"Total Points 4":"142"
-,
-"Rank 4 Final":"3"
-}
-,
-{
-"Pos":"4"
+"Pos":"2"
 ,
 "Num":"52"
 ,
@@ -174,7 +66,7 @@
 ,
 "BC Number":"1195846"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:17.49"
 ,
@@ -186,13 +78,13 @@
 ,
 "Spr/Kn Points":"34"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"32"
 ,
-"Points R pos":""
+"Points R pos":"1"
 ,
-"Total points":"140"
+"Total points":"172"
 ,
-"Omnium Points":"12"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
@@ -210,7 +102,115 @@
 ,
 "Rank 3 before POINTS":"4"
 ,
-"Total Points 4":"140"
+"Total Points 4":"172"
+,
+"Rank 4 Final":"2"
+}
+,
+{
+"Pos":"3"
+,
+"Num":"56"
+,
+"Name":"Phoebe Taylor"
+,
+"Club":"ESV Manchester"
+,
+"Cat":"U16G"
+,
+"BC Number":"1397450"
+,
+"Events Started":"5"
+,
+"TT Time":"01:18.28"
+,
+"TT Points":"36"
+,
+"Elim Points":"40"
+,
+"Scratch Points":"32"
+,
+"Spr/Kn Points":"40"
+,
+"Points R Ponts":"19"
+,
+"Points R pos":"10"
+,
+"Total points":"167"
+,
+"Omnium Points":"14"
+,
+"blank":"0"
+,
+"Init":"9"
+,
+"TT points":"36"
+,
+"TT Place":"3"
+,
+"Total Points 2":"108"
+,
+"Rank 2 b BEFORE sprints":"2"
+,
+"Total Points 3":"148"
+,
+"Rank 3 before POINTS":"1"
+,
+"Total Points 4":"167"
+,
+"Rank 4 Final":"3"
+}
+,
+{
+"Pos":"4"
+,
+"Num":"54"
+,
+"Name":"Evie Smith"
+,
+"Club":"Shibden Cycling Club"
+,
+"Cat":"U16G"
+,
+"BC Number":"1077708"
+,
+"Events Started":"5"
+,
+"TT Time":"01:19.10"
+,
+"TT Points":"34"
+,
+"Elim Points":"38"
+,
+"Scratch Points":"34"
+,
+"Spr/Kn Points":"36"
+,
+"Points R Ponts":"17"
+,
+"Points R pos":"2"
+,
+"Total points":"159"
+,
+"Omnium Points":"12"
+,
+"blank":"0"
+,
+"Init":"7"
+,
+"TT points":"34"
+,
+"TT Place":"4"
+,
+"Total Points 2":"106"
+,
+"Rank 2 b BEFORE sprints":"3"
+,
+"Total Points 3":"142"
+,
+"Rank 3 before POINTS":"3"
+,
+"Total Points 4":"159"
 ,
 "Rank 4 Final":"4"
 }
@@ -228,7 +228,7 @@
 ,
 "BC Number":"923820"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:21.13"
 ,
@@ -240,11 +240,11 @@
 ,
 "Spr/Kn Points":"34"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"6"
 ,
-"Points R pos":""
+"Points R pos":"3"
 ,
-"Total points":"134"
+"Total points":"140"
 ,
 "Omnium Points":"10"
 ,
@@ -264,7 +264,7 @@
 ,
 "Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"134"
+"Total Points 4":"140"
 ,
 "Rank 4 Final":"5"
 }
@@ -282,7 +282,7 @@
 ,
 "BC Number":"1074455"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:22.21"
 ,
@@ -294,11 +294,11 @@
 ,
 "Spr/Kn Points":"36"
 ,
-"Points R Ponts":"0"
+"Points R Ponts":"2"
 ,
-"Points R pos":""
+"Points R pos":"4"
 ,
-"Total points":"124"
+"Total points":"126"
 ,
 "Omnium Points":"8"
 ,
@@ -318,7 +318,7 @@
 ,
 "Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"124"
+"Total Points 4":"126"
 ,
 "Rank 4 Final":"6"
 }
@@ -336,7 +336,7 @@
 ,
 "BC Number":"1678489"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:25.47"
 ,
@@ -350,7 +350,7 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"7"
 ,
 "Total points":"116"
 ,
@@ -390,7 +390,7 @@
 ,
 "BC Number":"1510163"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:25.32"
 ,
@@ -404,7 +404,7 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"6"
 ,
 "Total points":"110"
 ,
@@ -444,7 +444,7 @@
 ,
 "BC Number":"1504898"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:23.91"
 ,
@@ -458,7 +458,7 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"5"
 ,
 "Total points":"104"
 ,
@@ -498,7 +498,7 @@
 ,
 "BC Number":"1218847"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:25.87"
 ,
@@ -512,7 +512,7 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"11"
 ,
 "Total points":"102"
 ,
@@ -552,7 +552,7 @@
 ,
 "BC Number":"1226330"
 ,
-"Events Started":"4"
+"Events Started":"5"
 ,
 "TT Time":"01:26.29"
 ,
@@ -566,7 +566,7 @@
 ,
 "Points R Ponts":"0"
 ,
-"Points R pos":""
+"Points R pos":"8"
 ,
 "Total points":"92"
 ,
