@@ -2,22 +2,6 @@
 {
 "Heat":"A"
 ,
-"Number":"62"
-,
-"Name":"Isabelle"
-,
-"Surname":"Goodwin"
-,
-"Cat":"U14G"
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"A"
-,
 "Number":"60"
 ,
 "Name":"Sophia "
@@ -26,9 +10,9 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"26"
 ,
-"Rank 2":""
+"Rank 2":"8"
 }
 ,
 {
@@ -42,29 +26,13 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"22"
 ,
-"Rank 2":""
+"Rank 2":"10"
 }
 ,
 {
 "Heat":"A"
-,
-"Number":"63"
-,
-"Name":"Tilly"
-,
-"Surname":"Hofert"
-,
-"Cat":"U14G"
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"B"
 ,
 "Number":"61"
 ,
@@ -74,9 +42,41 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"34"
 ,
-"Rank 2":""
+"Rank 2":"4"
+}
+,
+{
+"Heat":"A"
+,
+"Number":"62"
+,
+"Name":"Isabelle"
+,
+"Surname":"Goodwin"
+,
+"Cat":"U14G"
+,
+"Points":"36"
+,
+"Rank 2":"3"
+}
+,
+{
+"Heat":"B"
+,
+"Number":"63"
+,
+"Name":"Tilly"
+,
+"Surname":"Hofert"
+,
+"Cat":"U14G"
+,
+"Points":"32"
+,
+"Rank 2":"5"
 }
 ,
 {
@@ -90,9 +90,9 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"40"
 ,
-"Rank 2":""
+"Rank 2":"1"
 }
 ,
 {
@@ -106,45 +106,13 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"38"
 ,
-"Rank 2":""
+"Rank 2":"2"
 }
 ,
 {
 "Heat":"B"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"C"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"C"
 ,
 "Number":"66"
 ,
@@ -154,45 +122,13 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"30"
 ,
-"Rank 2":""
+"Rank 2":"6"
 }
 ,
 {
 "Heat":"C"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"C"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"D"
 ,
 "Number":"70"
 ,
@@ -208,55 +144,7 @@
 }
 ,
 {
-"Heat":"D"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"D"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"D"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"E"
+"Heat":"C"
 ,
 "Number":"67"
 ,
@@ -266,29 +154,13 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"28"
 ,
-"Rank 2":""
+"Rank 2":"7"
 }
 ,
 {
-"Heat":"E"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"E"
+"Heat":"C"
 ,
 "Number":"65"
 ,
@@ -298,109 +170,13 @@
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"24"
 ,
-"Rank 2":""
+"Rank 2":"9"
 }
 ,
 {
-"Heat":"E"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"F"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"F"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"F"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"F"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"G"
-,
-"Number":""
-,
-"Name":""
-,
-"Surname":""
-,
-"Cat":""
-,
-"Points":""
-,
-"Rank 2":""
-}
-,
-{
-"Heat":"G"
+"Heat":"C"
 ,
 "Number":"68"
 ,
