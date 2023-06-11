@@ -2,60 +2,6 @@
 {
 "Pos":"1"
 ,
-"Num":"49"
-,
-"Name":"Erin Boothman"
-,
-"Club":"East Kilbride Road Club"
-,
-"Cat":"U16G"
-,
-"BC Number":"1323868"
-,
-"Events Started":"4"
-,
-"TT Time":"01:18.19"
-,
-"TT Points":"38"
-,
-"Elim Points":"34"
-,
-"Scratch Points":"38"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"110"
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"2"
-,
-"TT points":"38"
-,
-"TT Place":"2"
-,
-"Total Points 2":"110"
-,
-"Rank 2 b BEFORE sprints":"1"
-,
-"Total Points 3":"110"
-,
-"Rank 3 before POINTS":"1"
-,
-"Total Points 4":"110"
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"2"
-,
 "Num":"56"
 ,
 "Name":"Phoebe Taylor"
@@ -76,15 +22,15 @@
 ,
 "Scratch Points":"32"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"40"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"108"
+"Total points":"148"
 ,
-"Omnium Points":"16"
+"Omnium Points":"18"
 ,
 "blank":"0"
 ,
@@ -98,13 +44,67 @@
 ,
 "Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":"108"
+"Total Points 3":"148"
+,
+"Rank 3 before POINTS":"1"
+,
+"Total Points 4":"148"
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"2"
+,
+"Num":"49"
+,
+"Name":"Erin Boothman"
+,
+"Club":"East Kilbride Road Club"
+,
+"Cat":"U16G"
+,
+"BC Number":"1323868"
+,
+"Events Started":"4"
+,
+"TT Time":"01:18.19"
+,
+"TT Points":"38"
+,
+"Elim Points":"34"
+,
+"Scratch Points":"38"
+,
+"Spr/Kn Points":"38"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"148"
+,
+"Omnium Points":"16"
+,
+"blank":"0"
+,
+"Init":"2"
+,
+"TT points":"38"
+,
+"TT Place":"2"
+,
+"Total Points 2":"110"
+,
+"Rank 2 b BEFORE sprints":"1"
+,
+"Total Points 3":"148"
 ,
 "Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"108"
+"Total Points 4":"148"
 ,
-"Rank 4 Final":"2"
+"Rank 4 Final":"1"
 }
 ,
 {
@@ -130,13 +130,13 @@
 ,
 "Scratch Points":"34"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"36"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"106"
+"Total points":"142"
 ,
 "Omnium Points":"14"
 ,
@@ -152,11 +152,11 @@
 ,
 "Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"106"
+"Total Points 3":"142"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"106"
+"Total Points 4":"142"
 ,
 "Rank 4 Final":"3"
 }
@@ -184,13 +184,13 @@
 ,
 "Scratch Points":"30"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"34"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"106"
+"Total points":"140"
 ,
 "Omnium Points":"12"
 ,
@@ -206,13 +206,13 @@
 ,
 "Rank 2 b BEFORE sprints":"4"
 ,
-"Total Points 3":"106"
+"Total Points 3":"140"
 ,
-"Rank 3 before POINTS":"3"
+"Rank 3 before POINTS":"4"
 ,
-"Total Points 4":"106"
+"Total Points 4":"140"
 ,
-"Rank 4 Final":"3"
+"Rank 4 Final":"4"
 }
 ,
 {
@@ -238,13 +238,13 @@
 ,
 "Scratch Points":"36"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"34"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"100"
+"Total points":"134"
 ,
 "Omnium Points":"10"
 ,
@@ -260,11 +260,11 @@
 ,
 "Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"100"
+"Total Points 3":"134"
 ,
 "Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"100"
+"Total Points 4":"134"
 ,
 "Rank 4 Final":"5"
 }
@@ -292,13 +292,13 @@
 ,
 "Scratch Points":"28"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"36"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"88"
+"Total points":"124"
 ,
 "Omnium Points":"8"
 ,
@@ -314,11 +314,11 @@
 ,
 "Rank 2 b BEFORE sprints":"6"
 ,
-"Total Points 3":"88"
+"Total Points 3":"124"
 ,
 "Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"88"
+"Total Points 4":"124"
 ,
 "Rank 4 Final":"6"
 }
@@ -346,13 +346,13 @@
 ,
 "Scratch Points":"40"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"30"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"86"
+"Total points":"116"
 ,
 "Omnium Points":"6"
 ,
@@ -368,11 +368,11 @@
 ,
 "Rank 2 b BEFORE sprints":"7"
 ,
-"Total Points 3":"86"
+"Total Points 3":"116"
 ,
 "Rank 3 before POINTS":"7"
 ,
-"Total Points 4":"86"
+"Total Points 4":"116"
 ,
 "Rank 4 Final":"7"
 }
@@ -400,13 +400,13 @@
 ,
 "Scratch Points":"24"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"32"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"78"
+"Total points":"110"
 ,
 "Omnium Points":"5"
 ,
@@ -422,11 +422,11 @@
 ,
 "Rank 2 b BEFORE sprints":"8"
 ,
-"Total Points 3":"78"
+"Total Points 3":"110"
 ,
 "Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"78"
+"Total Points 4":"110"
 ,
 "Rank 4 Final":"8"
 }
@@ -454,13 +454,13 @@
 ,
 "Scratch Points":"22"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"28"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"76"
+"Total points":"104"
 ,
 "Omnium Points":"4"
 ,
@@ -476,11 +476,11 @@
 ,
 "Rank 2 b BEFORE sprints":"9"
 ,
-"Total Points 3":"76"
+"Total Points 3":"104"
 ,
 "Rank 3 before POINTS":"9"
 ,
-"Total Points 4":"76"
+"Total Points 4":"104"
 ,
 "Rank 4 Final":"9"
 }
@@ -508,13 +508,13 @@
 ,
 "Scratch Points":"26"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"30"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"72"
+"Total points":"102"
 ,
 "Omnium Points":"3"
 ,
@@ -530,11 +530,11 @@
 ,
 "Rank 2 b BEFORE sprints":"10"
 ,
-"Total Points 3":"72"
+"Total Points 3":"102"
 ,
 "Rank 3 before POINTS":"10"
 ,
-"Total Points 4":"72"
+"Total Points 4":"102"
 ,
 "Rank 4 Final":"10"
 }
@@ -562,13 +562,13 @@
 ,
 "Scratch Points":"20"
 ,
-"Spr/Kn Points":"0"
+"Spr/Kn Points":"32"
 ,
 "Points R Ponts":"0"
 ,
 "Points R pos":""
 ,
-"Total points":"60"
+"Total points":"92"
 ,
 "Omnium Points":"2"
 ,
@@ -584,11 +584,11 @@
 ,
 "Rank 2 b BEFORE sprints":"11"
 ,
-"Total Points 3":"60"
+"Total Points 3":"92"
 ,
 "Rank 3 before POINTS":"11"
 ,
-"Total Points 4":"60"
+"Total Points 4":"92"
 ,
 "Rank 4 Final":"11"
 }
