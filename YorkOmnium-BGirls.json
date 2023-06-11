@@ -2,60 +2,6 @@
 {
 "Pos":"1"
 ,
-"Num":"64"
-,
-"Name":"Katie Lawson"
-,
-"Club":"Secret-Training.cc"
-,
-"Cat":"U14G"
-,
-"BC Number":"1378061"
-,
-"Events Started":"3"
-,
-"TT Time":"01:24.80"
-,
-"TT Points":"38"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"40"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"78"
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"6"
-,
-"TT points":"38"
-,
-"TT Place":"2"
-,
-"Total Points 2":"78"
-,
-"Rank 2 b BEFORE sprints":"1"
-,
-"Total Points 3":"78"
-,
-"Rank 3 before POINTS":"1"
-,
-"Total Points 4":"78"
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"2"
-,
 "Num":"69"
 ,
 "Name":"Katie Robertson"
@@ -66,13 +12,13 @@
 ,
 "BC Number":"1440795"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:21.27"
 ,
 "TT Points":"40"
 ,
-"Elim Points":"0"
+"Elim Points":"40"
 ,
 "Scratch Points":"36"
 ,
@@ -82,9 +28,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"76"
+"Total points":"116"
 ,
-"Omnium Points":"16"
+"Omnium Points":"18"
 ,
 "blank":"0"
 ,
@@ -94,17 +40,71 @@
 ,
 "TT Place":"1"
 ,
-"Total Points 2":"76"
+"Total Points 2":"116"
+,
+"Rank 2 b BEFORE sprints":"1"
+,
+"Total Points 3":"116"
+,
+"Rank 3 before POINTS":"1"
+,
+"Total Points 4":"116"
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"2"
+,
+"Num":"64"
+,
+"Name":"Katie Lawson"
+,
+"Club":"Secret-Training.cc"
+,
+"Cat":"U14G"
+,
+"BC Number":"1378061"
+,
+"Events Started":"4"
+,
+"TT Time":"01:24.80"
+,
+"TT Points":"38"
+,
+"Elim Points":"38"
+,
+"Scratch Points":"40"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"116"
+,
+"Omnium Points":"16"
+,
+"blank":"0"
+,
+"Init":"6"
+,
+"TT points":"38"
+,
+"TT Place":"2"
+,
+"Total Points 2":"116"
 ,
 "Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":"76"
+"Total Points 3":"116"
 ,
-"Rank 3 before POINTS":"2"
+"Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"76"
+"Total Points 4":"116"
 ,
-"Rank 4 Final":"2"
+"Rank 4 Final":"1"
 }
 ,
 {
@@ -120,13 +120,13 @@
 ,
 "BC Number":"1555438"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:28.22"
 ,
 "TT Points":"34"
 ,
-"Elim Points":"0"
+"Elim Points":"34"
 ,
 "Scratch Points":"38"
 ,
@@ -136,7 +136,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"72"
+"Total points":"106"
 ,
 "Omnium Points":"14"
 ,
@@ -148,15 +148,15 @@
 ,
 "TT Place":"4"
 ,
-"Total Points 2":"72"
+"Total Points 2":"106"
 ,
 "Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"72"
+"Total Points 3":"106"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"72"
+"Total Points 4":"106"
 ,
 "Rank 4 Final":"3"
 }
@@ -164,25 +164,25 @@
 {
 "Pos":"4"
 ,
-"Num":"62"
+"Num":"67"
 ,
-"Name":"Isabelle Goodwin"
+"Name":"Melissa Moscrop"
 ,
-"Club":"Louth Cycle Centre RT"
+"Club":"ESV Manchester"
 ,
 "Cat":"U14G"
 ,
-"BC Number":"1226329"
+"BC Number":"1460441"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
-"TT Time":"01:27.57"
+"TT Time":"01:29.81"
 ,
-"TT Points":"36"
+"TT Points":"28"
 ,
-"Elim Points":"0"
+"Elim Points":"36"
 ,
-"Scratch Points":"26"
+"Scratch Points":"34"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -190,27 +190,27 @@
 ,
 "Points R pos":""
 ,
-"Total points":"62"
+"Total points":"98"
 ,
 "Omnium Points":"12"
 ,
 "blank":"0"
 ,
-"Init":"4"
+"Init":"9"
 ,
-"TT points":"36"
+"TT points":"28"
 ,
-"TT Place":"3"
+"TT Place":"7"
 ,
-"Total Points 2":"62"
+"Total Points 2":"98"
 ,
 "Rank 2 b BEFORE sprints":"4"
 ,
-"Total Points 3":"62"
+"Total Points 3":"98"
 ,
 "Rank 3 before POINTS":"4"
 ,
-"Total Points 4":"62"
+"Total Points 4":"98"
 ,
 "Rank 4 Final":"4"
 }
@@ -228,13 +228,13 @@
 ,
 "BC Number":"1569564"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:28.36"
 ,
 "TT Points":"32"
 ,
-"Elim Points":"0"
+"Elim Points":"32"
 ,
 "Scratch Points":"30"
 ,
@@ -244,7 +244,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"62"
+"Total points":"94"
 ,
 "Omnium Points":"10"
 ,
@@ -256,17 +256,17 @@
 ,
 "TT Place":"5"
 ,
-"Total Points 2":"62"
+"Total Points 2":"94"
 ,
 "Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"62"
+"Total Points 3":"94"
 ,
-"Rank 3 before POINTS":"4"
+"Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"62"
+"Total Points 4":"94"
 ,
-"Rank 4 Final":"4"
+"Rank 4 Final":"5"
 }
 ,
 {
@@ -282,13 +282,13 @@
 ,
 "BC Number":"1346615"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:29.73"
 ,
 "TT Points":"30"
 ,
-"Elim Points":"0"
+"Elim Points":"26"
 ,
 "Scratch Points":"32"
 ,
@@ -298,7 +298,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"62"
+"Total points":"88"
 ,
 "Omnium Points":"8"
 ,
@@ -310,41 +310,41 @@
 ,
 "TT Place":"6"
 ,
-"Total Points 2":"62"
+"Total Points 2":"88"
 ,
 "Rank 2 b BEFORE sprints":"6"
 ,
-"Total Points 3":"62"
+"Total Points 3":"88"
 ,
-"Rank 3 before POINTS":"4"
+"Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"62"
+"Total Points 4":"88"
 ,
-"Rank 4 Final":"4"
+"Rank 4 Final":"6"
 }
 ,
 {
 "Pos":"7"
 ,
-"Num":"67"
+"Num":"62"
 ,
-"Name":"Melissa Moscrop"
+"Name":"Isabelle Goodwin"
 ,
-"Club":"ESV Manchester"
+"Club":"Louth Cycle Centre RT"
 ,
 "Cat":"U14G"
 ,
-"BC Number":"1460441"
+"BC Number":"1226329"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
-"TT Time":"01:29.81"
+"TT Time":"01:27.57"
 ,
-"TT Points":"28"
+"TT Points":"36"
 ,
-"Elim Points":"0"
+"Elim Points":"22"
 ,
-"Scratch Points":"34"
+"Scratch Points":"26"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -352,29 +352,29 @@
 ,
 "Points R pos":""
 ,
-"Total points":"62"
+"Total points":"84"
 ,
 "Omnium Points":"6"
 ,
 "blank":"0"
 ,
-"Init":"9"
+"Init":"4"
 ,
-"TT points":"28"
+"TT points":"36"
 ,
-"TT Place":"7"
+"TT Place":"3"
 ,
-"Total Points 2":"62"
+"Total Points 2":"84"
 ,
 "Rank 2 b BEFORE sprints":"7"
 ,
-"Total Points 3":"62"
+"Total Points 3":"84"
 ,
-"Rank 3 before POINTS":"4"
+"Rank 3 before POINTS":"7"
 ,
-"Total Points 4":"62"
+"Total Points 4":"84"
 ,
-"Rank 4 Final":"4"
+"Rank 4 Final":"7"
 }
 ,
 {
@@ -390,13 +390,13 @@
 ,
 "BC Number":"1342846"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:30.76"
 ,
 "TT Points":"26"
 ,
-"Elim Points":"0"
+"Elim Points":"24"
 ,
 "Scratch Points":"28"
 ,
@@ -406,7 +406,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"54"
+"Total points":"78"
 ,
 "Omnium Points":"5"
 ,
@@ -418,75 +418,21 @@
 ,
 "TT Place":"8"
 ,
-"Total Points 2":"54"
+"Total Points 2":"78"
 ,
 "Rank 2 b BEFORE sprints":"8"
 ,
-"Total Points 3":"54"
+"Total Points 3":"78"
 ,
 "Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"54"
+"Total Points 4":"78"
 ,
 "Rank 4 Final":"8"
 }
 ,
 {
 "Pos":"9"
-,
-"Num":"65"
-,
-"Name":"Eva-Joan Leavis"
-,
-"Club":"Leicester Forest CC"
-,
-"Cat":"U14G"
-,
-"BC Number":"1293221"
-,
-"Events Started":"3"
-,
-"TT Time":"01:31.19"
-,
-"TT Points":"24"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"22"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"46"
-,
-"Omnium Points":"4"
-,
-"blank":"0"
-,
-"Init":"7"
-,
-"TT points":"24"
-,
-"TT Place":"9"
-,
-"Total Points 2":"46"
-,
-"Rank 2 b BEFORE sprints":"9"
-,
-"Total Points 3":"46"
-,
-"Rank 3 before POINTS":"9"
-,
-"Total Points 4":"46"
-,
-"Rank 4 Final":"9"
-}
-,
-{
-"Pos":"10"
 ,
 "Num":"59"
 ,
@@ -498,13 +444,13 @@
 ,
 "BC Number":"1323869"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:33.25"
 ,
 "TT Points":"22"
 ,
-"Elim Points":"0"
+"Elim Points":"30"
 ,
 "Scratch Points":"24"
 ,
@@ -514,9 +460,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"46"
+"Total points":"76"
 ,
-"Omnium Points":"3"
+"Omnium Points":"4"
 ,
 "blank":"0"
 ,
@@ -526,16 +472,70 @@
 ,
 "TT Place":"10"
 ,
-"Total Points 2":"46"
+"Total Points 2":"76"
 ,
-"Rank 2 b BEFORE sprints":"10"
+"Rank 2 b BEFORE sprints":"9"
 ,
-"Total Points 3":"46"
+"Total Points 3":"76"
 ,
 "Rank 3 before POINTS":"9"
 ,
-"Total Points 4":"46"
+"Total Points 4":"76"
 ,
 "Rank 4 Final":"9"
+}
+,
+{
+"Pos":"10"
+,
+"Num":"65"
+,
+"Name":"Eva-Joan Leavis"
+,
+"Club":"Leicester Forest CC"
+,
+"Cat":"U14G"
+,
+"BC Number":"1293221"
+,
+"Events Started":"4"
+,
+"TT Time":"01:31.19"
+,
+"TT Points":"24"
+,
+"Elim Points":"28"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"74"
+,
+"Omnium Points":"3"
+,
+"blank":"0"
+,
+"Init":"7"
+,
+"TT points":"24"
+,
+"TT Place":"9"
+,
+"Total Points 2":"74"
+,
+"Rank 2 b BEFORE sprints":"10"
+,
+"Total Points 3":"74"
+,
+"Rank 3 before POINTS":"10"
+,
+"Total Points 4":"74"
+,
+"Rank 4 Final":"10"
 }
 ]

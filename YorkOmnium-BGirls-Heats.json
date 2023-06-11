@@ -2,33 +2,33 @@
 {
 "Heat":"A"
 ,
-"Number":"60"
+"Number":"69"
 ,
-"Name":"Sophia "
+"Name":"Katie"
 ,
-"Surname":"Brooks "
+"Surname":"Robertson"
 ,
 "Cat":"U14G"
 ,
-"Points":"54"
+"Points":"116"
 ,
-"Rank 2":"8"
+"Rank 2":"1"
 }
 ,
 {
 "Heat":"A"
 ,
-"Number":"59"
+"Number":"64"
 ,
-"Name":"Millie"
+"Name":"Katie"
 ,
-"Surname":"Boothman"
+"Surname":"Lawson"
 ,
 "Cat":"U14G"
 ,
-"Points":"46"
+"Points":"116"
 ,
-"Rank 2":"10"
+"Rank 2":"2"
 }
 ,
 {
@@ -42,7 +42,7 @@
 ,
 "Cat":"U14G"
 ,
-"Points":"72"
+"Points":"106"
 ,
 "Rank 2":"3"
 }
@@ -50,15 +50,15 @@
 {
 "Heat":"A"
 ,
-"Number":"62"
+"Number":"67"
 ,
-"Name":"Isabelle"
+"Name":"Melissa"
 ,
-"Surname":"Goodwin"
+"Surname":"Moscrop"
 ,
 "Cat":"U14G"
 ,
-"Points":"62"
+"Points":"98"
 ,
 "Rank 2":"4"
 }
@@ -74,41 +74,9 @@
 ,
 "Cat":"U14G"
 ,
-"Points":"62"
+"Points":"94"
 ,
 "Rank 2":"5"
-}
-,
-{
-"Heat":"B"
-,
-"Number":"69"
-,
-"Name":"Katie"
-,
-"Surname":"Robertson"
-,
-"Cat":"U14G"
-,
-"Points":"76"
-,
-"Rank 2":"2"
-}
-,
-{
-"Heat":"B"
-,
-"Number":"64"
-,
-"Name":"Katie"
-,
-"Surname":"Lawson"
-,
-"Cat":"U14G"
-,
-"Points":"78"
-,
-"Rank 2":"1"
 }
 ,
 {
@@ -122,41 +90,57 @@
 ,
 "Cat":"U14G"
 ,
-"Points":"62"
+"Points":"88"
 ,
 "Rank 2":"6"
 }
 ,
 {
-"Heat":"C"
+"Heat":"B"
 ,
-"Number":"70"
+"Number":"62"
 ,
-"Name":"Melanie"
+"Name":"Isabelle"
 ,
-"Surname":"Rowe"
+"Surname":"Goodwin"
 ,
 "Cat":"U14G"
 ,
-"Points":""
+"Points":"84"
 ,
-"Rank 2":""
+"Rank 2":"7"
+}
+,
+{
+"Heat":"B"
+,
+"Number":"60"
+,
+"Name":"Sophia "
+,
+"Surname":"Brooks "
+,
+"Cat":"U14G"
+,
+"Points":"78"
+,
+"Rank 2":"8"
 }
 ,
 {
 "Heat":"C"
 ,
-"Number":"67"
+"Number":"59"
 ,
-"Name":"Melissa"
+"Name":"Millie"
 ,
-"Surname":"Moscrop"
+"Surname":"Boothman"
 ,
 "Cat":"U14G"
 ,
-"Points":"62"
+"Points":"76"
 ,
-"Rank 2":"7"
+"Rank 2":"9"
 }
 ,
 {
@@ -170,24 +154,8 @@
 ,
 "Cat":"U14G"
 ,
-"Points":"46"
+"Points":"74"
 ,
-"Rank 2":"9"
-}
-,
-{
-"Heat":"C"
-,
-"Number":"68"
-,
-"Name":"Kasey"
-,
-"Surname":"Park"
-,
-"Cat":"U14G"
-,
-"Points":""
-,
-"Rank 2":""
+"Rank 2":"10"
 }
 ]
