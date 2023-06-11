@@ -2,60 +2,6 @@
 {
 "Pos":"1"
 ,
-"Num":"52"
-,
-"Name":"Abigail Miller"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U16G"
-,
-"BC Number":"1195846"
-,
-"Events Started":"2"
-,
-"TT Time":"01:17.49"
-,
-"TT Points":"40"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"40"
-,
-"Omnium Points":"18"
-,
-"blank":"0"
-,
-"Init":"5"
-,
-"TT points":"40"
-,
-"TT Place":"1"
-,
-"Total Points 2":"40"
-,
-"Rank 2 b BEFORE sprints":"1"
-,
-"Total Points 3":"40"
-,
-"Rank 3 before POINTS":"1"
-,
-"Total Points 4":"40"
-,
-"Rank 4 Final":"1"
-}
-,
-{
-"Pos":"2"
-,
 "Num":"49"
 ,
 "Name":"Erin Boothman"
@@ -66,7 +12,7 @@
 ,
 "BC Number":"1323868"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:18.19"
 ,
@@ -74,7 +20,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"38"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -82,9 +28,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"38"
+"Total points":"76"
 ,
-"Omnium Points":"16"
+"Omnium Points":"18"
 ,
 "blank":"0"
 ,
@@ -94,15 +40,69 @@
 ,
 "TT Place":"2"
 ,
-"Total Points 2":"38"
+"Total Points 2":"76"
+,
+"Rank 2 b BEFORE sprints":"1"
+,
+"Total Points 3":"76"
+,
+"Rank 3 before POINTS":"1"
+,
+"Total Points 4":"76"
+,
+"Rank 4 Final":"1"
+}
+,
+{
+"Pos":"2"
+,
+"Num":"52"
+,
+"Name":"Abigail Miller"
+,
+"Club":"Clifton CC"
+,
+"Cat":"U16G"
+,
+"BC Number":"1195846"
+,
+"Events Started":"3"
+,
+"TT Time":"01:17.49"
+,
+"TT Points":"40"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"30"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"70"
+,
+"Omnium Points":"16"
+,
+"blank":"0"
+,
+"Init":"5"
+,
+"TT points":"40"
+,
+"TT Place":"1"
+,
+"Total Points 2":"70"
 ,
 "Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":"38"
+"Total Points 3":"70"
 ,
 "Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"38"
+"Total Points 4":"70"
 ,
 "Rank 4 Final":"2"
 }
@@ -120,7 +120,7 @@
 ,
 "BC Number":"1397450"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:18.28"
 ,
@@ -128,7 +128,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"32"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -136,7 +136,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"36"
+"Total points":"68"
 ,
 "Omnium Points":"14"
 ,
@@ -148,15 +148,15 @@
 ,
 "TT Place":"3"
 ,
-"Total Points 2":"36"
+"Total Points 2":"68"
 ,
 "Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"36"
+"Total Points 3":"68"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"36"
+"Total Points 4":"68"
 ,
 "Rank 4 Final":"3"
 }
@@ -174,7 +174,7 @@
 ,
 "BC Number":"1077708"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:19.10"
 ,
@@ -182,7 +182,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"34"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -190,7 +190,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"34"
+"Total points":"68"
 ,
 "Omnium Points":"12"
 ,
@@ -202,17 +202,17 @@
 ,
 "TT Place":"4"
 ,
-"Total Points 2":"34"
+"Total Points 2":"68"
 ,
 "Rank 2 b BEFORE sprints":"4"
 ,
-"Total Points 3":"34"
+"Total Points 3":"68"
 ,
-"Rank 3 before POINTS":"4"
+"Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"34"
+"Total Points 4":"68"
 ,
-"Rank 4 Final":"4"
+"Rank 4 Final":"3"
 }
 ,
 {
@@ -228,7 +228,7 @@
 ,
 "BC Number":"923820"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:21.13"
 ,
@@ -236,7 +236,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"36"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -244,7 +244,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"32"
+"Total points":"68"
 ,
 "Omnium Points":"10"
 ,
@@ -256,183 +256,21 @@
 ,
 "TT Place":"5"
 ,
-"Total Points 2":"32"
+"Total Points 2":"68"
 ,
 "Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"32"
+"Total Points 3":"68"
 ,
-"Rank 3 before POINTS":"5"
+"Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"32"
+"Total Points 4":"68"
 ,
-"Rank 4 Final":"5"
+"Rank 4 Final":"3"
 }
 ,
 {
 "Pos":"6"
-,
-"Num":"51"
-,
-"Name":"Megan Lloyd"
-,
-"Club":"Harry Middleton Cycling Club"
-,
-"Cat":"U16G"
-,
-"BC Number":"1074455"
-,
-"Events Started":"2"
-,
-"TT Time":"01:22.21"
-,
-"TT Points":"30"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"30"
-,
-"Omnium Points":"8"
-,
-"blank":"0"
-,
-"Init":"4"
-,
-"TT points":"30"
-,
-"TT Place":"6"
-,
-"Total Points 2":"30"
-,
-"Rank 2 b BEFORE sprints":"6"
-,
-"Total Points 3":"30"
-,
-"Rank 3 before POINTS":"6"
-,
-"Total Points 4":"30"
-,
-"Rank 4 Final":"6"
-}
-,
-{
-"Pos":"7"
-,
-"Num":"48"
-,
-"Name":"Ruby Blanc"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16G"
-,
-"BC Number":"1504898"
-,
-"Events Started":"2"
-,
-"TT Time":"01:23.91"
-,
-"TT Points":"28"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"28"
-,
-"Omnium Points":"6"
-,
-"blank":"0"
-,
-"Init":"1"
-,
-"TT points":"28"
-,
-"TT Place":"7"
-,
-"Total Points 2":"28"
-,
-"Rank 2 b BEFORE sprints":"7"
-,
-"Total Points 3":"28"
-,
-"Rank 3 before POINTS":"7"
-,
-"Total Points 4":"28"
-,
-"Rank 4 Final":"7"
-}
-,
-{
-"Pos":"8"
-,
-"Num":"57"
-,
-"Name":"Lydia Turan"
-,
-"Club":"JRC-INTERFLON Race Team"
-,
-"Cat":"U16G"
-,
-"BC Number":"1510163"
-,
-"Events Started":"2"
-,
-"TT Time":"01:25.32"
-,
-"TT Points":"26"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"0"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"26"
-,
-"Omnium Points":"5"
-,
-"blank":"0"
-,
-"Init":"10"
-,
-"TT points":"26"
-,
-"TT Place":"8"
-,
-"Total Points 2":"26"
-,
-"Rank 2 b BEFORE sprints":"8"
-,
-"Total Points 3":"26"
-,
-"Rank 3 before POINTS":"8"
-,
-"Total Points 4":"26"
-,
-"Rank 4 Final":"8"
-}
-,
-{
-"Pos":"9"
 ,
 "Num":"58"
 ,
@@ -444,7 +282,7 @@
 ,
 "BC Number":"1678489"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:25.47"
 ,
@@ -452,7 +290,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"40"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -460,9 +298,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"24"
+"Total points":"64"
 ,
-"Omnium Points":"4"
+"Omnium Points":"8"
 ,
 "blank":"0"
 ,
@@ -472,17 +310,179 @@
 ,
 "TT Place":"9"
 ,
-"Total Points 2":"24"
+"Total Points 2":"64"
+,
+"Rank 2 b BEFORE sprints":"6"
+,
+"Total Points 3":"64"
+,
+"Rank 3 before POINTS":"6"
+,
+"Total Points 4":"64"
+,
+"Rank 4 Final":"6"
+}
+,
+{
+"Pos":"7"
+,
+"Num":"51"
+,
+"Name":"Megan Lloyd"
+,
+"Club":"Harry Middleton Cycling Club"
+,
+"Cat":"U16G"
+,
+"BC Number":"1074455"
+,
+"Events Started":"3"
+,
+"TT Time":"01:22.21"
+,
+"TT Points":"30"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"28"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"58"
+,
+"Omnium Points":"6"
+,
+"blank":"0"
+,
+"Init":"4"
+,
+"TT points":"30"
+,
+"TT Place":"6"
+,
+"Total Points 2":"58"
+,
+"Rank 2 b BEFORE sprints":"7"
+,
+"Total Points 3":"58"
+,
+"Rank 3 before POINTS":"7"
+,
+"Total Points 4":"58"
+,
+"Rank 4 Final":"7"
+}
+,
+{
+"Pos":"8"
+,
+"Num":"48"
+,
+"Name":"Ruby Blanc"
+,
+"Club":"ESV Manchester"
+,
+"Cat":"U16G"
+,
+"BC Number":"1504898"
+,
+"Events Started":"3"
+,
+"TT Time":"01:23.91"
+,
+"TT Points":"28"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"50"
+,
+"Omnium Points":"5"
+,
+"blank":"0"
+,
+"Init":"1"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"50"
+,
+"Rank 2 b BEFORE sprints":"8"
+,
+"Total Points 3":"50"
+,
+"Rank 3 before POINTS":"8"
+,
+"Total Points 4":"50"
+,
+"Rank 4 Final":"8"
+}
+,
+{
+"Pos":"9"
+,
+"Num":"57"
+,
+"Name":"Lydia Turan"
+,
+"Club":"JRC-INTERFLON Race Team"
+,
+"Cat":"U16G"
+,
+"BC Number":"1510163"
+,
+"Events Started":"3"
+,
+"TT Time":"01:25.32"
+,
+"TT Points":"26"
+,
+"Elim Points":"0"
+,
+"Scratch Points":"24"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"50"
+,
+"Omnium Points":"4"
+,
+"blank":"0"
+,
+"Init":"10"
+,
+"TT points":"26"
+,
+"TT Place":"8"
+,
+"Total Points 2":"50"
 ,
 "Rank 2 b BEFORE sprints":"9"
 ,
-"Total Points 3":"24"
+"Total Points 3":"50"
 ,
-"Rank 3 before POINTS":"9"
+"Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"24"
+"Total Points 4":"50"
 ,
-"Rank 4 Final":"9"
+"Rank 4 Final":"8"
 }
 ,
 {
@@ -498,7 +498,7 @@
 ,
 "BC Number":"1218847"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:25.87"
 ,
@@ -506,7 +506,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"26"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -514,7 +514,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"22"
+"Total points":"48"
 ,
 "Omnium Points":"3"
 ,
@@ -526,15 +526,15 @@
 ,
 "TT Place":"10"
 ,
-"Total Points 2":"22"
+"Total Points 2":"48"
 ,
 "Rank 2 b BEFORE sprints":"10"
 ,
-"Total Points 3":"22"
+"Total Points 3":"48"
 ,
 "Rank 3 before POINTS":"10"
 ,
-"Total Points 4":"22"
+"Total Points 4":"48"
 ,
 "Rank 4 Final":"10"
 }
@@ -552,7 +552,7 @@
 ,
 "BC Number":"1226330"
 ,
-"Events Started":"2"
+"Events Started":"3"
 ,
 "TT Time":"01:26.29"
 ,
@@ -560,7 +560,7 @@
 ,
 "Elim Points":"0"
 ,
-"Scratch Points":"0"
+"Scratch Points":"20"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -568,7 +568,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"20"
+"Total points":"40"
 ,
 "Omnium Points":"2"
 ,
@@ -580,15 +580,15 @@
 ,
 "TT Place":"11"
 ,
-"Total Points 2":"20"
+"Total Points 2":"40"
 ,
 "Rank 2 b BEFORE sprints":"11"
 ,
-"Total Points 3":"20"
+"Total Points 3":"40"
 ,
 "Rank 3 before POINTS":"11"
 ,
-"Total Points 4":"20"
+"Total Points 4":"40"
 ,
 "Rank 4 Final":"11"
 }
