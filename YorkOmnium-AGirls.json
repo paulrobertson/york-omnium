@@ -12,13 +12,13 @@
 ,
 "BC Number":"1323868"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:18.19"
 ,
 "TT Points":"38"
 ,
-"Elim Points":"0"
+"Elim Points":"34"
 ,
 "Scratch Points":"38"
 ,
@@ -28,7 +28,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"76"
+"Total points":"110"
 ,
 "Omnium Points":"18"
 ,
@@ -40,75 +40,21 @@
 ,
 "TT Place":"2"
 ,
-"Total Points 2":"76"
+"Total Points 2":"110"
 ,
 "Rank 2 b BEFORE sprints":"1"
 ,
-"Total Points 3":"76"
+"Total Points 3":"110"
 ,
 "Rank 3 before POINTS":"1"
 ,
-"Total Points 4":"76"
+"Total Points 4":"110"
 ,
 "Rank 4 Final":"1"
 }
 ,
 {
 "Pos":"2"
-,
-"Num":"52"
-,
-"Name":"Abigail Miller"
-,
-"Club":"Clifton CC"
-,
-"Cat":"U16G"
-,
-"BC Number":"1195846"
-,
-"Events Started":"3"
-,
-"TT Time":"01:17.49"
-,
-"TT Points":"40"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"30"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"70"
-,
-"Omnium Points":"16"
-,
-"blank":"0"
-,
-"Init":"5"
-,
-"TT points":"40"
-,
-"TT Place":"1"
-,
-"Total Points 2":"70"
-,
-"Rank 2 b BEFORE sprints":"2"
-,
-"Total Points 3":"70"
-,
-"Rank 3 before POINTS":"2"
-,
-"Total Points 4":"70"
-,
-"Rank 4 Final":"2"
-}
-,
-{
-"Pos":"3"
 ,
 "Num":"56"
 ,
@@ -120,13 +66,13 @@
 ,
 "BC Number":"1397450"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:18.28"
 ,
 "TT Points":"36"
 ,
-"Elim Points":"0"
+"Elim Points":"40"
 ,
 "Scratch Points":"32"
 ,
@@ -136,9 +82,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"68"
+"Total points":"108"
 ,
-"Omnium Points":"14"
+"Omnium Points":"16"
 ,
 "blank":"0"
 ,
@@ -148,21 +94,21 @@
 ,
 "TT Place":"3"
 ,
-"Total Points 2":"68"
+"Total Points 2":"108"
 ,
-"Rank 2 b BEFORE sprints":"3"
+"Rank 2 b BEFORE sprints":"2"
 ,
-"Total Points 3":"68"
+"Total Points 3":"108"
 ,
-"Rank 3 before POINTS":"3"
+"Rank 3 before POINTS":"2"
 ,
-"Total Points 4":"68"
+"Total Points 4":"108"
 ,
-"Rank 4 Final":"3"
+"Rank 4 Final":"2"
 }
 ,
 {
-"Pos":"4"
+"Pos":"3"
 ,
 "Num":"54"
 ,
@@ -174,13 +120,13 @@
 ,
 "BC Number":"1077708"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:19.10"
 ,
 "TT Points":"34"
 ,
-"Elim Points":"0"
+"Elim Points":"38"
 ,
 "Scratch Points":"34"
 ,
@@ -190,9 +136,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"68"
+"Total points":"106"
 ,
-"Omnium Points":"12"
+"Omnium Points":"14"
 ,
 "blank":"0"
 ,
@@ -202,15 +148,69 @@
 ,
 "TT Place":"4"
 ,
-"Total Points 2":"68"
+"Total Points 2":"106"
 ,
-"Rank 2 b BEFORE sprints":"4"
+"Rank 2 b BEFORE sprints":"3"
 ,
-"Total Points 3":"68"
+"Total Points 3":"106"
 ,
 "Rank 3 before POINTS":"3"
 ,
-"Total Points 4":"68"
+"Total Points 4":"106"
+,
+"Rank 4 Final":"3"
+}
+,
+{
+"Pos":"4"
+,
+"Num":"52"
+,
+"Name":"Abigail Miller"
+,
+"Club":"Clifton CC"
+,
+"Cat":"U16G"
+,
+"BC Number":"1195846"
+,
+"Events Started":"4"
+,
+"TT Time":"01:17.49"
+,
+"TT Points":"40"
+,
+"Elim Points":"36"
+,
+"Scratch Points":"30"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"106"
+,
+"Omnium Points":"12"
+,
+"blank":"0"
+,
+"Init":"5"
+,
+"TT points":"40"
+,
+"TT Place":"1"
+,
+"Total Points 2":"106"
+,
+"Rank 2 b BEFORE sprints":"4"
+,
+"Total Points 3":"106"
+,
+"Rank 3 before POINTS":"3"
+,
+"Total Points 4":"106"
 ,
 "Rank 4 Final":"3"
 }
@@ -228,13 +228,13 @@
 ,
 "BC Number":"923820"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:21.13"
 ,
 "TT Points":"32"
 ,
-"Elim Points":"0"
+"Elim Points":"32"
 ,
 "Scratch Points":"36"
 ,
@@ -244,7 +244,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"68"
+"Total points":"100"
 ,
 "Omnium Points":"10"
 ,
@@ -256,75 +256,21 @@
 ,
 "TT Place":"5"
 ,
-"Total Points 2":"68"
+"Total Points 2":"100"
 ,
 "Rank 2 b BEFORE sprints":"5"
 ,
-"Total Points 3":"68"
+"Total Points 3":"100"
 ,
-"Rank 3 before POINTS":"3"
+"Rank 3 before POINTS":"5"
 ,
-"Total Points 4":"68"
+"Total Points 4":"100"
 ,
-"Rank 4 Final":"3"
+"Rank 4 Final":"5"
 }
 ,
 {
 "Pos":"6"
-,
-"Num":"58"
-,
-"Name":"Ayesha Vose"
-,
-"Club":"ESV Manchester"
-,
-"Cat":"U16G"
-,
-"BC Number":"1678489"
-,
-"Events Started":"3"
-,
-"TT Time":"01:25.47"
-,
-"TT Points":"24"
-,
-"Elim Points":"0"
-,
-"Scratch Points":"40"
-,
-"Spr/Kn Points":"0"
-,
-"Points R Ponts":"0"
-,
-"Points R pos":""
-,
-"Total points":"64"
-,
-"Omnium Points":"8"
-,
-"blank":"0"
-,
-"Init":"11"
-,
-"TT points":"24"
-,
-"TT Place":"9"
-,
-"Total Points 2":"64"
-,
-"Rank 2 b BEFORE sprints":"6"
-,
-"Total Points 3":"64"
-,
-"Rank 3 before POINTS":"6"
-,
-"Total Points 4":"64"
-,
-"Rank 4 Final":"6"
-}
-,
-{
-"Pos":"7"
 ,
 "Num":"51"
 ,
@@ -336,13 +282,13 @@
 ,
 "BC Number":"1074455"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:22.21"
 ,
 "TT Points":"30"
 ,
-"Elim Points":"0"
+"Elim Points":"30"
 ,
 "Scratch Points":"28"
 ,
@@ -352,9 +298,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"58"
+"Total points":"88"
 ,
-"Omnium Points":"6"
+"Omnium Points":"8"
 ,
 "blank":"0"
 ,
@@ -364,41 +310,41 @@
 ,
 "TT Place":"6"
 ,
-"Total Points 2":"58"
+"Total Points 2":"88"
 ,
-"Rank 2 b BEFORE sprints":"7"
+"Rank 2 b BEFORE sprints":"6"
 ,
-"Total Points 3":"58"
+"Total Points 3":"88"
 ,
-"Rank 3 before POINTS":"7"
+"Rank 3 before POINTS":"6"
 ,
-"Total Points 4":"58"
+"Total Points 4":"88"
 ,
-"Rank 4 Final":"7"
+"Rank 4 Final":"6"
 }
 ,
 {
-"Pos":"8"
+"Pos":"7"
 ,
-"Num":"48"
+"Num":"58"
 ,
-"Name":"Ruby Blanc"
+"Name":"Ayesha Vose"
 ,
 "Club":"ESV Manchester"
 ,
 "Cat":"U16G"
 ,
-"BC Number":"1504898"
+"BC Number":"1678489"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
-"TT Time":"01:23.91"
+"TT Time":"01:25.47"
 ,
-"TT Points":"28"
+"TT Points":"24"
 ,
-"Elim Points":"0"
+"Elim Points":"22"
 ,
-"Scratch Points":"22"
+"Scratch Points":"40"
 ,
 "Spr/Kn Points":"0"
 ,
@@ -406,33 +352,33 @@
 ,
 "Points R pos":""
 ,
-"Total points":"50"
+"Total points":"86"
 ,
-"Omnium Points":"5"
+"Omnium Points":"6"
 ,
 "blank":"0"
 ,
-"Init":"1"
+"Init":"11"
 ,
-"TT points":"28"
+"TT points":"24"
 ,
-"TT Place":"7"
+"TT Place":"9"
 ,
-"Total Points 2":"50"
+"Total Points 2":"86"
 ,
-"Rank 2 b BEFORE sprints":"8"
+"Rank 2 b BEFORE sprints":"7"
 ,
-"Total Points 3":"50"
+"Total Points 3":"86"
 ,
-"Rank 3 before POINTS":"8"
+"Rank 3 before POINTS":"7"
 ,
-"Total Points 4":"50"
+"Total Points 4":"86"
 ,
-"Rank 4 Final":"8"
+"Rank 4 Final":"7"
 }
 ,
 {
-"Pos":"9"
+"Pos":"8"
 ,
 "Num":"57"
 ,
@@ -444,13 +390,13 @@
 ,
 "BC Number":"1510163"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:25.32"
 ,
 "TT Points":"26"
 ,
-"Elim Points":"0"
+"Elim Points":"28"
 ,
 "Scratch Points":"24"
 ,
@@ -460,9 +406,9 @@
 ,
 "Points R pos":""
 ,
-"Total points":"50"
+"Total points":"78"
 ,
-"Omnium Points":"4"
+"Omnium Points":"5"
 ,
 "blank":"0"
 ,
@@ -472,17 +418,71 @@
 ,
 "TT Place":"8"
 ,
-"Total Points 2":"50"
+"Total Points 2":"78"
 ,
-"Rank 2 b BEFORE sprints":"9"
+"Rank 2 b BEFORE sprints":"8"
 ,
-"Total Points 3":"50"
+"Total Points 3":"78"
 ,
 "Rank 3 before POINTS":"8"
 ,
-"Total Points 4":"50"
+"Total Points 4":"78"
 ,
 "Rank 4 Final":"8"
+}
+,
+{
+"Pos":"9"
+,
+"Num":"48"
+,
+"Name":"Ruby Blanc"
+,
+"Club":"ESV Manchester"
+,
+"Cat":"U16G"
+,
+"BC Number":"1504898"
+,
+"Events Started":"4"
+,
+"TT Time":"01:23.91"
+,
+"TT Points":"28"
+,
+"Elim Points":"26"
+,
+"Scratch Points":"22"
+,
+"Spr/Kn Points":"0"
+,
+"Points R Ponts":"0"
+,
+"Points R pos":""
+,
+"Total points":"76"
+,
+"Omnium Points":"4"
+,
+"blank":"0"
+,
+"Init":"1"
+,
+"TT points":"28"
+,
+"TT Place":"7"
+,
+"Total Points 2":"76"
+,
+"Rank 2 b BEFORE sprints":"9"
+,
+"Total Points 3":"76"
+,
+"Rank 3 before POINTS":"9"
+,
+"Total Points 4":"76"
+,
+"Rank 4 Final":"9"
 }
 ,
 {
@@ -498,13 +498,13 @@
 ,
 "BC Number":"1218847"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:25.87"
 ,
 "TT Points":"22"
 ,
-"Elim Points":"0"
+"Elim Points":"24"
 ,
 "Scratch Points":"26"
 ,
@@ -514,7 +514,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"48"
+"Total points":"72"
 ,
 "Omnium Points":"3"
 ,
@@ -526,15 +526,15 @@
 ,
 "TT Place":"10"
 ,
-"Total Points 2":"48"
+"Total Points 2":"72"
 ,
 "Rank 2 b BEFORE sprints":"10"
 ,
-"Total Points 3":"48"
+"Total Points 3":"72"
 ,
 "Rank 3 before POINTS":"10"
 ,
-"Total Points 4":"48"
+"Total Points 4":"72"
 ,
 "Rank 4 Final":"10"
 }
@@ -552,13 +552,13 @@
 ,
 "BC Number":"1226330"
 ,
-"Events Started":"3"
+"Events Started":"4"
 ,
 "TT Time":"01:26.29"
 ,
 "TT Points":"20"
 ,
-"Elim Points":"0"
+"Elim Points":"20"
 ,
 "Scratch Points":"20"
 ,
@@ -568,7 +568,7 @@
 ,
 "Points R pos":""
 ,
-"Total points":"40"
+"Total points":"60"
 ,
 "Omnium Points":"2"
 ,
@@ -580,15 +580,15 @@
 ,
 "TT Place":"11"
 ,
-"Total Points 2":"40"
+"Total Points 2":"60"
 ,
 "Rank 2 b BEFORE sprints":"11"
 ,
-"Total Points 3":"40"
+"Total Points 3":"60"
 ,
 "Rank 3 before POINTS":"11"
 ,
-"Total Points 4":"40"
+"Total Points 4":"60"
 ,
 "Rank 4 Final":"11"
 }
